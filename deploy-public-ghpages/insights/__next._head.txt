@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[887,[],"ViewportBoundary"]
+3:I[887,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[214,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Insights | NESS Furniture"}],["$","meta","1",{"name":"description","content":"Industry insights, design trends and project stories from NESS Furniture."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"icon","href":"/ness-furniture-site/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"stage82d-ee8b392d2dd99e82"}

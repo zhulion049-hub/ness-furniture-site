@@ -1,0 +1,217 @@
+{
+  "applications": "[\"Restaurant\",\"Resort\",\"Villa\"]",
+  "category_slug": "dining-tables",
+  "customization": {
+    "custom_color": true,
+    "custom_material": false,
+    "custom_size": true,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "740.0",
+    "length": "1600.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "台面分别有1600/1800mm",
+    "width": "1600.0"
+  },
+  "featured": false,
+  "id": 265,
+  "images": [
+    {
+      "alt_text": "HCD201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "303fff7aa5be69b3e26a97266aed1323fedcbbe1c157d064fa9d84a7abce11c7:1785980871705-b93b409b-5c17-4e73-a94b-96242edca7a5.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980871705-b93b409b-5c17-4e73-a94b-96242edca7a5-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "HCD201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "564c03d97e089150359048c88252a7ce9052aad2f89904714c338109281b849c:1785980871746-479b286a-b0f3-4f5a-ad86-edc17521d057.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980871746-479b286a-b0f3-4f5a-ad86-edc17521d057-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "HCD201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "791f92c3e36caa9de63b2a67f8745313210abf932d5faea116ee8f352e3ea97b:1785980871778-b0279b0b-6bd0-4522-8185-9e30cfb7fdfc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980871778-b0279b0b-6bd0-4522-8185-9e30cfb7fdfc-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "HCD201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "10456cfcecdcceefba51a1ef498f02501a5e177e54777274028914a127a5ab6b:1785980871800-8edea9bc-7fb4-4205-aae3-67ea68e7f8dd.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980871800-8edea9bc-7fb4-4205-aae3-67ea68e7f8dd-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "HCD201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "a78f81fff654430706794aee5ac3b42fe857ac879624c1d0edcc19b8a693ef02:1785980871825-d9c17d1f-fce6-4ad7-8a4a-c7a6f69e62fc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980871825-d9c17d1f-fce6-4ad7-8a4a-c7a6f69e62fc-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "HCD201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "de1da2d44157e3ffac6180f8fced0095dff66f767dfa53739e4d95b594fd613a:1785980871690-e66a896e-8c6d-4561-9d55-403697f5ef05.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980871690-e66a896e-8c6d-4561-9d55-403697f5ef05-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b460d79812870ebc18c01008f49784e98194e2d0dc1c24cd8628840dc94b99b2:1786094037253-2b6132e0-7045-4c32-8685-ce154010cdd6.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094037253-2b6132e0-7045-4c32-8685-ce154010cdd6-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b5d2d316127630f2f6da98e511fc75775b53c3e59477538cfa56ebe877e8c39d:1786094145975-9d700fe5-00dd-4fe0-bdb7-ddbdd787274b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094145975-9d700fe5-00dd-4fe0-bdb7-ddbdd787274b-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "21bfbe52bdabe995ef2ebb8c467708a53a60b1d846c6f84b3ccdf0627bf272a8:1786094145994-4cc2ec59-0dd5-4aca-922f-34117ea719dc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094145994-4cc2ec59-0dd5-4aca-922f-34117ea719dc-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3ca93247fc445cf5202d9ee0e4161298a287379fb87e8523c6b7c8801222d068:1786094146012-7b54e524-af30-4a21-a7ea-22cc9f7da523.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094146012-7b54e524-af30-4a21-a7ea-22cc9f7da523-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "adba5436f05b0432e5447f73bdc440d9543528b54417811c144d647d904e2c99:1786094146024-33d8ad6a-a286-4e9e-ae57-5dd03fcdf4e2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094146024-33d8ad6a-a286-4e9e-ae57-5dd03fcdf4e2-display.webp",
+      "sort_order": 10
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "2d68f7b2d4f604131027aa4f84cfebe9843e71d8c1fbcbe1e22a5c6cfe10b939:1786094146049-126fedb4-b64f-46a6-bc1b-768c5a6f7d2f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094146049-126fedb4-b64f-46a6-bc1b-768c5a6f7d2f-display.webp",
+      "sort_order": 11
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "6deea1c2bc0bd5109c6c688cf09164e2ccbd7de3087580500a576a5b093c9989:1786094146063-42f3232b-af03-47ff-abac-61525024bcc7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094146063-42f3232b-af03-47ff-abac-61525024bcc7-display.webp",
+      "sort_order": 12
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "d2f6101b58302c31b5b5af502ae56faadfb9dd3e21e712d094a22ad6b3a07a5b:1786094146075-70541db2-1241-49cd-8575-a52e19d73952.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094146075-70541db2-1241-49cd-8575-a52e19d73952-display.webp",
+      "sort_order": 13
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "65fb3007547f2545c5971a6b02fc30808bae0043c56553055c196a315c8f07e9:1786094146093-aadd7f3f-c66c-47ae-9841-11f1ccdd9e90.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094146093-aadd7f3f-c66c-47ae-9841-11f1ccdd9e90-display.webp",
+      "sort_order": 14
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "cc89cfa60ccebea39efd55d05f05ae0131ac61aa1014e8c3d81599003ac7b6dc:1786094146108-5b21e0c3-aa2c-444a-84b3-730a7b74157b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786094146108-5b21e0c3-aa2c-444a-84b3-730a7b74157b-display.webp",
+      "sort_order": 15
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCD201",
+    "zh": ""
+  },
+  "published_at": "2026-08-07T09:15:50.671Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcd201",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCD201",
+  "slug": "hcd201",
+  "sort_order": 0,
+  "summary": {
+    "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-07 09:23:22",
+  "videos": []
+}

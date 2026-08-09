@@ -1,0 +1,6 @@
+:HL["/ness-furniture-site/_next/static/css/5f1eeece12dc83c5.css","style"]
+:HL["/ness-furniture-site/media/derived/1785980432586-972a76ea-0062-4ac9-82dd-ab41e3adae79-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786183648539-6f5d3768-6054-45ad-86b8-92bce05beb1a-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184002950-947d213f-13bf-465a-8a4b-0b8c8b71d4b7-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184051527-4a3806f0-b4fd-42f7-9e61-cc5d2475c120-display.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"beds-headboards","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-ee8b392d2dd99e82"}

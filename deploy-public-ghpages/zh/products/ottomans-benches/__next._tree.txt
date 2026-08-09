@@ -1,0 +1,5 @@
+:HL["/ness-furniture-site/_next/static/css/5f1eeece12dc83c5.css","style"]
+:HL["/ness-furniture-site/media/derived/1785980744386-fc6f77d4-06e9-4136-926a-b9ea899dd06a-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184267555-c4ec6442-ca0f-410f-bf98-95fcb708b2bf-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184347539-332923b1-a5ae-45ec-ac2b-81b239121ec7-display.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ottomans-benches","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-ee8b392d2dd99e82"}

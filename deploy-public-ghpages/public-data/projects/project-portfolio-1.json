@@ -1,0 +1,71 @@
+{
+  "category": {
+    "id": 2,
+    "name": {
+      "en": "Restaurants & Cafes",
+      "zh": "餐厅与咖啡馆"
+    },
+    "slug": "restaurant"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "e12f64b844d0ee9a68d6ec72552a95e7b4bc57fb8c7211ec1d07ddc3192ea53e:1785894181308-e59291a5-5205-4f33-b364-81769fb924db.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1785894181308-e59291a5-5205-4f33-b364-81769fb924db-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 129,
+  "images": [
+    {
+      "alt_text": "微信图片_20241007170053.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "e12f64b844d0ee9a68d6ec72552a95e7b4bc57fb8c7211ec1d07ddc3192ea53e:1785894181308-e59291a5-5205-4f33-b364-81769fb924db.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181308-e59291a5-5205-4f33-b364-81769fb924db-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "微信图片_20241007170050.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "33a177c6e5cd3113359f68cb3e485ef7c414ee08c2191c855030eda85d564683:1785894181297-9e19d6a3-1eaa-4e0b-a2d6-0f4d755319b8.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181297-9e19d6a3-1eaa-4e0b-a2d6-0f4d755319b8-display.webp",
+      "sort_order": 1
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Project Portfolio",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/ness-furniture-site/projects/project-portfolio-1",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "project-portfolio-1",
+  "sort_order": 0,
+  "summary": {
+    "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+    "zh": ""
+  },
+  "type": "restaurant",
+  "updated_at": "2026-08-08 10:48:30",
+  "videos": [],
+  "year": ""
+}

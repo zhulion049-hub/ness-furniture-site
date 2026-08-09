@@ -1,0 +1,4 @@
+:HL["/ness-furniture-site/_next/static/css/5f1eeece12dc83c5.css","style"]
+:HL["/ness-furniture-site/media/derived/1786184779961-3ebc91c6-16c2-4eb8-ab40-1a9117316f6d-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184842350-6d2c4c50-7a63-41e5-82a8-d95716d245a9-display.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cabinets-casegoods","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-ee8b392d2dd99e82"}

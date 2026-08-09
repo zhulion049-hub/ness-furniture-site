@@ -1,0 +1,82 @@
+{
+  "applications": "",
+  "category_slug": "cabinets-casegoods",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "490.0",
+    "length": "500.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "410.0"
+  },
+  "featured": false,
+  "id": 394,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "3127b005b9e38291f8296947aab7c3a7168922e72ec4cfa175011f7ab3a76a78:1786184842350-6d2c4c50-7a63-41e5-82a8-d95716d245a9.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786184842350-6d2c4c50-7a63-41e5-82a8-d95716d245a9-display.webp",
+      "sort_order": 0
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCCB239",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T10:27:24.862Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hccb239",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCCB239",
+  "slug": "hccb239",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining modern aesthetics with practical storage functions, our cabinet collection offers elegant and functional storage solutions for residential and commercial spaces.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 10:27:24",
+  "videos": []
+}

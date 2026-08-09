@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "autoplay": false,
+    "controls": false,
+    "cta": {
+      "href": "",
+      "label": {
+        "en": "Discuss Your Project",
+        "zh": ""
+      }
+    },
+    "image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "loop": false,
+    "muted": false,
+    "overlay_depth": "0.95",
+    "poster": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "secondary_cta": {
+      "href": "/ness-furniture-site/manufacturing",
+      "label": {
+        "en": "Explore Our Manufacturing",
+        "zh": ""
+      }
+    },
+    "source_type": "",
+    "type": "",
+    "video": {
+      "media_key": null,
+      "public_url": ""
+    }
+  },
+  "name": {
+    "en": "About NESS",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T15:00:23.625Z",
+  "sections": [
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "NESS Furniture is a furniture manufacturer based in Dongguan, China, working with hospitality buyers, designers, furniture brands, distributors and project partners worldwide. Our manufacturing capabilities cover upholstered furniture, tables, casegoods, beds, dining furniture, outdoor furniture and customized project pieces, together with specialized collections in microcement, concrete and mosaic.\n\nFrom a drawing, reference image or material concept, our team helps turn design intent into manufacturable furniture through technical review, material development, sampling, production, quality control and project-specific packing. We believe good manufacturing is not simply about making furniture look right—it is about understanding the design, communicating clearly, building it reliably and delivering what was approved.\n\nWhether for a hotel, residence, commercial project, private-label collection or customized furniture program, NESS aims to be the manufacturing partner behind the design: transparent in communication, responsible in production and reliable over the long term.",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "38b553cf5c3425b868c654f6cfa6903e86c9373975082fecdcd3c8f776d8ad63:1785981144262-6c90efff-5627-412d-b080-da430b3afb20.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785981144262-6c90efff-5627-412d-b080-da430b3afb20-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "hero",
+      "section_type": "hero",
+      "settings": {},
+      "sort_order": 0,
+      "subtitle": "Behind the Design. Built for Reliable Delivery.",
+      "title": "Furniture Manufacturing Built Around Real Projects",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Discover NESS Furniture, a Dongguan-based manufacturer supporting hotels, designers, furniture brands and project partners with custom furniture, OEM/ODM and project production.",
+      "zh": ""
+    },
+    "og_image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "title": {
+      "en": "About NESS Furniture | Custom Furniture Manufacturer",
+      "zh": ""
+    }
+  },
+  "slug": "about-ness",
+  "updated_at": "2026-08-08T15:00:23.625Z"
+}

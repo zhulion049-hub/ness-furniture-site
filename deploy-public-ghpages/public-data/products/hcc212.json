@@ -1,0 +1,100 @@
+{
+  "applications": "",
+  "category_slug": "ottomans-benches",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "380.0",
+    "length": "480.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "480.0"
+  },
+  "featured": false,
+  "id": 387,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "f8ba7c955a346ed430105544a9b9b35656018d9677b1dcfc37a7fd4b3f9b70f0:1786184267555-c4ec6442-ca0f-410f-bf98-95fcb708b2bf.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786184267555-c4ec6442-ca0f-410f-bf98-95fcb708b2bf-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "6b7781b493a0396155757d73dcd79bb8cdfe7e54529278ad6a3cf705abc025ee:1786184267607-0eee3986-f74f-444a-8239-53a210157996.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786184267607-0eee3986-f74f-444a-8239-53a210157996-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "a45763d45de736bbbdf0314febaa7a25b72abba2f80c958ab7ca23e172af73d0:1786184273662-7fb199c9-c0b3-482c-a860-8ddd1881d6b5.png",
+      "public_url": "/ness-furniture-site/media/derived/1786184273662-7fb199c9-c0b3-482c-a860-8ddd1881d6b5-display.webp",
+      "sort_order": 2
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCC212",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T10:17:57.046Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcc212",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCC212",
+  "slug": "hcc212",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 10:17:57",
+  "videos": []
+}

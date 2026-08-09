@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[887,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-[60vh] bg-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-6 py-16 md:py-24","children":[["$","h1",null,{"className":"text-4xl font-bold text-[#1B1B1B] md:text-5xl","children":"MOSAIC ATELIER"}],["$","p",null,{"className":"mt-6 max-w-3xl text-lg leading-relaxed text-[#8A857D]","children":"NESS Furniture is a Chinese custom furniture manufacturer serving hotels, dealers, brands, interior designers, and project contractors worldwide."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"stage82d-ee8b392d2dd99e82"}
+4:null

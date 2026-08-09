@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[5587,["5587","static/chunks/5587-933f3258279c6072.js","6406","static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-73bb28ac2b877618.js"],""]
+3:I[887,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/ness-furniture-site/media/derived/1786172055581-d3a6dde3-eafc-4bcd-8b1e-870b37ec30b7-display.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[1200px] px-6 py-16","children":[["$","$L2",null,{"href":"/ness-furniture-site/zh/products","className":"text-sm text-[#A88B63]","children":"返回产品中心"}],["$","div",null,{"className":"mt-8 grid gap-10 lg:grid-cols-2","children":[["$","div",null,{"children":["$","img",null,{"src":"/ness-furniture-site/media/derived/1786172055581-d3a6dde3-eafc-4bcd-8b1e-870b37ec30b7-display.webp","alt":"HCT213","className":"w-full rounded-lg"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold","children":"HCT213"}],["$","p",null,{"className":"mt-3 font-mono text-[#A88B63]","children":"HCT213"}],["$","p",null,{"className":"mt-6 text-[#8A857D]","children":"A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish."}]]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"stage82d-ee8b392d2dd99e82"}
+5:null

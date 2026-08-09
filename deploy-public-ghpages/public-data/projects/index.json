@@ -1,0 +1,434 @@
+{
+  "projects": [
+    {
+      "category": {
+        "id": 1,
+        "name": {
+          "en": "Hotels & Resorts",
+          "zh": "酒店与度假村"
+        },
+        "slug": "hotel"
+      },
+      "cover_image": {
+        "media_key": "eba3f865f1671112b809ea8fba64391762c2869a2cddf77f06dfc00d1e6d5c15:1785892470052-24ce9e00-4e3f-4087-bd97-529b82b203ab.png",
+        "public_url": "/ness-furniture-site/media/derived/1785892470052-24ce9e00-4e3f-4087-bd97-529b82b203ab-display.webp"
+      },
+      "featured": false,
+      "id": 120,
+      "location": {
+        "city": "济州岛",
+        "country": "韩国"
+      },
+      "name": {
+        "en": "Siena",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/siena-1",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "siena-1",
+      "sort_order": 0,
+      "summary": {
+        "en": "The Siena Resort is a luxury hospitality project featuring bespoke furniture manufactured by NESS Furniture. From lobby spaces and restaurants to guest rooms and public areas, our custom hospitality furniture solutions were created to support premium hotel experiences with timeless craftsmanship and contemporary design. Discover more hospitality furniture projects: ",
+        "zh": ""
+      },
+      "type": "酒店",
+      "updated_at": "2026-08-08 10:30:46"
+    },
+    {
+      "category": {
+        "id": 4,
+        "name": {
+          "en": "Apartments & Penthouses",
+          "zh": "公寓与顶层住宅"
+        },
+        "slug": "apartment"
+      },
+      "cover_image": {
+        "media_key": "b9c7f91d2aaedd1dfc1a1933b5709a842e39ca8478a119b86913adaab1b7c9a7:1786185217352-414dae04-519a-4f70-873c-0acead37c8d6.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786185217352-414dae04-519a-4f70-873c-0acead37c8d6-display.webp"
+      },
+      "featured": false,
+      "id": 124,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "South Korea Hotel",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/south-korea-hotel",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "south-korea-hotel",
+      "sort_order": 0,
+      "summary": {
+        "en": "This apartment project features a complete furniture solution, combining modern design and refined craftsmanship to create a comfortable, elegant, and high-quality living environment.",
+        "zh": ""
+      },
+      "type": "apartment",
+      "updated_at": "2026-08-08 10:34:32"
+    },
+    {
+      "category": {
+        "id": 5,
+        "name": {
+          "en": "Villas & Private Residences",
+          "zh": "别墅与私人住宅"
+        },
+        "slug": "villa"
+      },
+      "cover_image": {
+        "media_key": "acf019c08dfe8cbc65dacc89d2bcceb794a38869bbb22d5c4ed62a51255c34eb:1786185490723-5b961f63-51a3-44b0-8ab1-1b16f61f594e.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786185490723-5b961f63-51a3-44b0-8ab1-1b16f61f594e-display.webp"
+      },
+      "featured": false,
+      "id": 125,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Uzbekistan Hotel Project",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/uzbekistan-hotel-project",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "uzbekistan-hotel-project",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining modern living concepts with practical design, this project delivers furniture solutions that enhance comfort, durability, and style for apartment spaces.",
+        "zh": ""
+      },
+      "type": "villa",
+      "updated_at": "2026-08-08 10:39:39"
+    },
+    {
+      "category": {
+        "id": 3,
+        "name": {
+          "en": "Clubs & Lounges",
+          "zh": "会所与休息区"
+        },
+        "slug": "clubhouse"
+      },
+      "cover_image": {
+        "media_key": "36dd0dfc087740506b3fd2d7e5e519d7300d0e18bbc7d55bb1a0ef27d735a558:1786185711313-08cd45b1-950a-4c2f-8427-41f60f979ef3.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786185711313-08cd45b1-950a-4c2f-8427-41f60f979ef3-display.webp"
+      },
+      "featured": false,
+      "id": 126,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Spain Hotel Project",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/spain-hotel-project",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "spain-hotel-project",
+      "sort_order": 0,
+      "summary": {
+        "en": "Embracing minimalist design principles, this project creates a warm, comfortable, and sophisticated apartment environment with high-quality furniture.",
+        "zh": ""
+      },
+      "type": "clubhouse",
+      "updated_at": "2026-08-08 10:42:04"
+    },
+    {
+      "category": {
+        "id": 2,
+        "name": {
+          "en": "Restaurants & Cafes",
+          "zh": "餐厅与咖啡馆"
+        },
+        "slug": "restaurant"
+      },
+      "cover_image": {
+        "media_key": "0d5692c6071a0c603ccfadb10cf9cb83e4ecfa56f83b1683112ed31d65a9012f:1785894181144-c5f00053-f474-4971-9410-a8f0dd3b4432.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785894181144-c5f00053-f474-4971-9410-a8f0dd3b4432-display.webp"
+      },
+      "featured": false,
+      "id": 127,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Project Portfolio",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/project-portfolio",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "project-portfolio",
+      "sort_order": 0,
+      "summary": {
+        "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+        "zh": ""
+      },
+      "type": "restaurant",
+      "updated_at": "2026-08-08 10:46:10"
+    },
+    {
+      "category": {
+        "id": 5,
+        "name": {
+          "en": "Villas & Private Residences",
+          "zh": "别墅与私人住宅"
+        },
+        "slug": "villa"
+      },
+      "cover_image": {
+        "media_key": "fb69c329e825a6e6e26958ae748bf2caaeba28f1d559cea2523543e9f3a0df82:1785894181285-1d475319-acac-41d1-8af9-eb19640c4d6e.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785894181285-1d475319-acac-41d1-8af9-eb19640c4d6e-display.webp"
+      },
+      "featured": false,
+      "id": 128,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Project Portfolio2",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/project-portfolio2",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "project-portfolio2",
+      "sort_order": 0,
+      "summary": {
+        "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+        "zh": ""
+      },
+      "type": "villa",
+      "updated_at": "2026-08-08 10:47:13"
+    },
+    {
+      "category": {
+        "id": 2,
+        "name": {
+          "en": "Restaurants & Cafes",
+          "zh": "餐厅与咖啡馆"
+        },
+        "slug": "restaurant"
+      },
+      "cover_image": {
+        "media_key": "e12f64b844d0ee9a68d6ec72552a95e7b4bc57fb8c7211ec1d07ddc3192ea53e:1785894181308-e59291a5-5205-4f33-b364-81769fb924db.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785894181308-e59291a5-5205-4f33-b364-81769fb924db-display.webp"
+      },
+      "featured": false,
+      "id": 129,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Project Portfolio",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/project-portfolio-1",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "project-portfolio-1",
+      "sort_order": 0,
+      "summary": {
+        "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+        "zh": ""
+      },
+      "type": "restaurant",
+      "updated_at": "2026-08-08 10:48:30"
+    },
+    {
+      "category": {
+        "id": 6,
+        "name": {
+          "en": "Show Flats & Model Homes",
+          "zh": "样板房与示范住宅"
+        },
+        "slug": "show-flat"
+      },
+      "cover_image": {
+        "media_key": "641e544d346cdfad6d9348d9f1621aad13f1cf495ce200edc487682459d1711a:1785894181381-cb1067d2-a4b6-434f-9969-e54c22ef5cdd.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785894181381-cb1067d2-a4b6-434f-9969-e54c22ef5cdd-display.webp"
+      },
+      "featured": false,
+      "id": 130,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Project Portfolio-3",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/project-portfolio-3",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "project-portfolio-3",
+      "sort_order": 0,
+      "summary": {
+        "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+        "zh": ""
+      },
+      "type": "show-flat",
+      "updated_at": "2026-08-08 10:49:32"
+    },
+    {
+      "category": {
+        "id": 4,
+        "name": {
+          "en": "Apartments & Penthouses",
+          "zh": "公寓与顶层住宅"
+        },
+        "slug": "apartment"
+      },
+      "cover_image": {
+        "media_key": "3667deac85af17188cc4e6f015fea3a93bcf63e8923bc83c8ca4776bd9eac77d:1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b-display.webp"
+      },
+      "featured": false,
+      "id": 131,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Project Portfolio-4",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/project-portfolio-4",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "project-portfolio-4",
+      "sort_order": 0,
+      "summary": {
+        "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+        "zh": ""
+      },
+      "type": "apartment",
+      "updated_at": "2026-08-08 10:50:22"
+    },
+    {
+      "category": {
+        "id": 7,
+        "name": {
+          "en": "Furniture Showrooms",
+          "zh": "家具展厅"
+        },
+        "slug": "showroom"
+      },
+      "cover_image": {
+        "media_key": "22bcc44abe16326b8b5847d57ae15de37394796567eed1848b1ead8343c8808e:1785894181901-58870dd7-51a6-4151-9bb3-de03705b463f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785894181901-58870dd7-51a6-4151-9bb3-de03705b463f-display.webp"
+      },
+      "featured": false,
+      "id": 132,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "name": {
+        "en": "Project Portfolio-5",
+        "zh": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/projects/project-portfolio-5",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "project-portfolio-5",
+      "sort_order": 0,
+      "summary": {
+        "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.\n\n版本2｜家具制造商通用版",
+        "zh": ""
+      },
+      "type": "showroom",
+      "updated_at": "2026-08-08 10:51:15"
+    }
+  ]
+}

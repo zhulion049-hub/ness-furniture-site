@@ -1,0 +1,344 @@
+{
+  "categories": [
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 1,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "hospitality",
+      "name": {
+        "en": "Hotels & Resorts",
+        "zh": "酒店与度假村"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Hotels & Resorts",
+            "zh": "酒店与度假村"
+          },
+          "menu_group": "hospitality",
+          "sort_order": 0
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "hotel",
+      "sort_order": 0
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 2,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "hospitality",
+      "name": {
+        "en": "Restaurants & Cafes",
+        "zh": "餐厅与咖啡馆"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Restaurants & Cafes",
+            "zh": "餐厅与咖啡馆"
+          },
+          "menu_group": "hospitality",
+          "sort_order": 1
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "restaurant",
+      "sort_order": 1
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 3,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "hospitality",
+      "name": {
+        "en": "Clubs & Lounges",
+        "zh": "会所与休息区"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Clubs & Lounges",
+            "zh": "会所与休息区"
+          },
+          "menu_group": "hospitality",
+          "sort_order": 2
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "clubhouse",
+      "sort_order": 2
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 4,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "residential",
+      "name": {
+        "en": "Apartments & Penthouses",
+        "zh": "公寓与顶层住宅"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Serviced Apartments",
+            "zh": "服务式公寓"
+          },
+          "menu_group": "hospitality",
+          "sort_order": 3
+        },
+        {
+          "label": {
+            "en": "Apartments & Penthouses",
+            "zh": "公寓与顶层住宅"
+          },
+          "menu_group": "residential",
+          "sort_order": 1
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "apartment",
+      "sort_order": 3
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 5,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "residential",
+      "name": {
+        "en": "Villas & Private Residences",
+        "zh": "别墅与私人住宅"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Villas & Private Residences",
+            "zh": "别墅与私人住宅"
+          },
+          "menu_group": "residential",
+          "sort_order": 0
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "villa",
+      "sort_order": 4
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 6,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "residential",
+      "name": {
+        "en": "Show Flats & Model Homes",
+        "zh": "样板房与示范住宅"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Show Flats & Model Homes",
+            "zh": "样板房与示范住宅"
+          },
+          "menu_group": "residential",
+          "sort_order": 2
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "show-flat",
+      "sort_order": 5
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 7,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "commercial",
+      "name": {
+        "en": "Furniture Showrooms",
+        "zh": "家具展厅"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Furniture Showrooms",
+            "zh": "家具展厅"
+          },
+          "menu_group": "commercial",
+          "sort_order": 0
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "showroom",
+      "sort_order": 6
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 8,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "commercial",
+      "name": {
+        "en": "Retail & Branded Spaces",
+        "zh": "零售与品牌空间"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Retail & Branded Spaces",
+            "zh": "零售与品牌空间"
+          },
+          "menu_group": "commercial",
+          "sort_order": 1
+        },
+        {
+          "label": {
+            "en": "Commercial Lounges",
+            "zh": "商业休息区"
+          },
+          "menu_group": "commercial",
+          "sort_order": 2
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "commercial",
+      "sort_order": 7
+    },
+    {
+      "description": {
+        "en": "",
+        "zh": ""
+      },
+      "id": 9,
+      "is_active": true,
+      "is_visible": true,
+      "menu_group": "commercial",
+      "name": {
+        "en": "Outdoor Hospitality",
+        "zh": "户外酒店空间"
+      },
+      "placements": [
+        {
+          "label": {
+            "en": "Outdoor Hospitality",
+            "zh": "户外酒店空间"
+          },
+          "menu_group": "commercial",
+          "sort_order": 3
+        }
+      ],
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "outdoor",
+      "sort_order": 8
+    }
+  ]
+}

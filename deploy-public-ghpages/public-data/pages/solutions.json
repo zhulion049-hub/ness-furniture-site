@@ -1,0 +1,122 @@
+{
+  "hero": {
+    "autoplay": false,
+    "controls": false,
+    "cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "loop": false,
+    "muted": false,
+    "overlay_depth": "0.95",
+    "poster": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "secondary_cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "source_type": "",
+    "type": "",
+    "video": {
+      "media_key": null,
+      "public_url": ""
+    }
+  },
+  "name": {
+    "en": "Hotels and FF&E",
+    "zh": ""
+  },
+  "published_at": "2026-08-06T01:57:53.173Z",
+  "sections": [
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "b13846cc50788eb05cf72b5736f079441d96b940cd15f2aba902aa77fd34acb3:1785981144559-b6813c1d-ee9f-4c56-9056-898a55ffccad.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785981144559-b6813c1d-ee9f-4c56-9056-898a55ffccad-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "hero",
+      "section_type": "hero",
+      "settings": {},
+      "sort_order": 0,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "eebe0c4b494827750a5c31b778f560591c80215b120c2231cc6fa9cf5b0836ee:1785980744491-d07c179e-0d09-456e-8bfb-342cbef244b3.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785980744491-d07c179e-0d09-456e-8bfb-342cbef244b3-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "project_recommendation-1785981453072",
+      "section_type": "project_recommendation",
+      "settings": {},
+      "sort_order": 1,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "og_image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "solutions",
+  "updated_at": "2026-08-06T01:57:53.173Z"
+}

@@ -1,0 +1,91 @@
+{
+  "applications": "",
+  "category_slug": "beds-headboards",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "1280.0",
+    "length": "3900.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "2170.0"
+  },
+  "featured": false,
+  "id": 384,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "5d9856287e62ff9851a3bfb830159b34d61d4580a298486d5a97ed289686b3f6:1786184002950-947d213f-13bf-465a-8a4b-0b8c8b71d4b7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786184002950-947d213f-13bf-465a-8a4b-0b8c8b71d4b7-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3a7d6a35cedff056731e320c8966a2875847e0ce8610c34376fc9bcd239d4216:1786184002995-67aa4d53-b819-4004-852f-673f62e86bdb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786184002995-67aa4d53-b819-4004-852f-673f62e86bdb-display.webp",
+      "sort_order": 1
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCB204A",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T10:13:25.476Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcb204a",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCB204",
+  "slug": "hcb204a",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 10:13:25",
+  "videos": []
+}

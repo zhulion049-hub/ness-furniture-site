@@ -1,0 +1,127 @@
+{
+  "applications": "",
+  "category_slug": "dining-chairs",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "760.0",
+    "length": "620.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "580.0"
+  },
+  "featured": false,
+  "id": 372,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "183d1c485b11c12f5d80df81f29b2f21f666efd37fce75699dc7d6f071cfeeee:1786182012549-6a7f35ec-13ab-4634-a741-bac3c8589d13.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786182012549-6a7f35ec-13ab-4634-a741-bac3c8589d13-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "a05580d285432dfffd506ff4d169fd9bd304ba534a881cfdc83e44877cf398af:1786182012614-448a7e57-7ad4-4dee-89e9-77de5597ce38.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786182012614-448a7e57-7ad4-4dee-89e9-77de5597ce38-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7c1b3cb395193ef1b759598daae3876042e951dd456a6060fdcd96f5ffaddd31:1786182013083-700a903f-3ebd-4dde-8026-10a84f682fcb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786182013083-700a903f-3ebd-4dde-8026-10a84f682fcb-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "58c91251029c518c328230e99c1fdbf2bf2ba991fd7ab7fd644ed15910340ec6:1786182013641-a243dbf1-563a-4e5a-b09b-3b894b21fedc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786182013641-a243dbf1-563a-4e5a-b09b-3b894b21fedc-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "fcf345f94beda02a952d0bd7ca49f15d8199d562d2435bc868b45d424bf3dbe0:1786182013696-4db68ee7-b993-4a6e-8df7-0b815d000c71.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786182013696-4db68ee7-b993-4a6e-8df7-0b815d000c71-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b2e66341126d78b38e64ccc04389c4e3519f4316a4947892593128940834155b:1786182014172-d818c7d8-e009-437f-b7a2-f1a7ecbfd819.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786182014172-d818c7d8-e009-437f-b7a2-f1a7ecbfd819-display.webp",
+      "sort_order": 5
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCD-C240",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T09:40:17.147Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcd-c240",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCD-C240",
+  "slug": "hcd-c240",
+  "sort_order": 0,
+  "summary": {
+    "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 09:40:17",
+  "videos": []
+}

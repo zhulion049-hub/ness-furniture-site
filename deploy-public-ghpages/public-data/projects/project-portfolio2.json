@@ -1,0 +1,111 @@
+{
+  "category": {
+    "id": 5,
+    "name": {
+      "en": "Villas & Private Residences",
+      "zh": "别墅与私人住宅"
+    },
+    "slug": "villa"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "fb69c329e825a6e6e26958ae748bf2caaeba28f1d559cea2523543e9f3a0df82:1785894181285-1d475319-acac-41d1-8af9-eb19640c4d6e.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1785894181285-1d475319-acac-41d1-8af9-eb19640c4d6e-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 128,
+  "images": [
+    {
+      "alt_text": "微信图片_20241007165537.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "fb69c329e825a6e6e26958ae748bf2caaeba28f1d559cea2523543e9f3a0df82:1785894181285-1d475319-acac-41d1-8af9-eb19640c4d6e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181285-1d475319-acac-41d1-8af9-eb19640c4d6e-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "微信图片_20241007165520.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "aec28604c4d89f4188e57d6eee2eaa4014224e5b8ed1db21d66a4099113747d2:1785894181176-b5193633-c6d5-4826-9d7e-29372714beb7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181176-b5193633-c6d5-4826-9d7e-29372714beb7-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "微信图片_20241007165523.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "7aa9a552672f7ae77a20b0c047fa0ccc1702705e21342b94c57f1fdff00eae8a:1785894181211-85eea8fb-bb1c-4eb0-b240-9b5551489921.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181211-85eea8fb-bb1c-4eb0-b240-9b5551489921-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "微信图片_20241007165525.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "21d49229869c18d02d1a8fc87befd2d53ac4741ae1a2dab52e443f18795e7202:1785894181230-1b346d18-b8f0-427c-a537-02e899aba58a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181230-1b346d18-b8f0-427c-a537-02e899aba58a-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "微信图片_20241007165526.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "c6962e52e3e1f66f026364b7b381f81e516eceb19529a12e26525148ca309eb7:1785894181240-b778ae4d-713a-4ea9-830a-0b3ea515004e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181240-b778ae4d-713a-4ea9-830a-0b3ea515004e-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "微信图片_20241007165531.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "3db036b8aa2549fd2e15883f164be0b2ca321f1a4e9aef8de3eaf37284752fd2:1785894181258-d2803212-b286-4c78-b98e-e378bfa937d8.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181258-d2803212-b286-4c78-b98e-e378bfa937d8-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "微信图片_20241007165534.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "46618b94afff9610ec36a9b1c182d422093d80aaa8479b76393500ff6ac360a3:1785894181277-38bc3b8e-99d3-4734-aefc-a07e652842d7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181277-38bc3b8e-99d3-4734-aefc-a07e652842d7-display.webp",
+      "sort_order": 6
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Project Portfolio2",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/ness-furniture-site/projects/project-portfolio2",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "project-portfolio2",
+  "sort_order": 0,
+  "summary": {
+    "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+    "zh": ""
+  },
+  "type": "villa",
+  "updated_at": "2026-08-08 10:47:13",
+  "videos": [],
+  "year": ""
+}

@@ -1,0 +1,55 @@
+# GitHub Pages deployment for NESS Furniture public static frontend.
+#
+# This workflow deploys the contents of the `deploy-public-ghpages` directory
+# (the GitHub Pages project-site variant) to GitHub Pages.
+#
+# IMPORTANT (security principle):
+#   - The local CMS, SQLite database, and original uploads NEVER enter this repo.
+#   - The repository contains ONLY the static public frontend (deploy-public-ghpages).
+#   - Large videos (MP4/MOV > 25MB) are NOT committed; they are served from
+#     GitHub Release assets (see /video-assets/README.md) and referenced by URL.
+#
+# Deployment method: GitHub Actions (official Pages actions), branch: main.
+
+name: Deploy NESS static frontend to GitHub Pages
+
+on:
+  # Triggered when the static frontend is updated and pushed to main.
+  push:
+    branches: [main]
+  # Allows manual redeploy from the Actions tab without code changes.
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Only the static public frontend is published.
+          path: deploy-public-ghpages
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

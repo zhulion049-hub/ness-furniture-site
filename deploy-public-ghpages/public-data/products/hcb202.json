@@ -1,0 +1,100 @@
+{
+  "applications": "",
+  "category_slug": "dining-chairs",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "1280.0",
+    "length": "3900.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "2170.0"
+  },
+  "featured": false,
+  "id": 382,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "90f49e87e32e3db2d513c888fb01e343ab578624b4b088feaec21e2b4008a794:1786183826930-997af01d-269d-4fcc-ade2-cc5e2cfd3827.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183826930-997af01d-269d-4fcc-ade2-cc5e2cfd3827-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "c0f395490c0d56c524a448a384a108cdad498f32fd8d7f0426b97a86a177bbcb:1786183826995-126f55c2-f93c-427f-9900-01df76efd2b9.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183826995-126f55c2-f93c-427f-9900-01df76efd2b9-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3dae3acd6b0795098fae6b34dcef20ec3aee9763eb9c4bf4d20138bb5e760297:1786183827311-7b3b3b44-e407-4bae-8773-b1ac8f5830cb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183827311-7b3b3b44-e407-4bae-8773-b1ac8f5830cb-display.webp",
+      "sort_order": 2
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCB202",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T10:10:33.376Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcb202",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCB202",
+  "slug": "hcb202",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 10:10:33",
+  "videos": []
+}

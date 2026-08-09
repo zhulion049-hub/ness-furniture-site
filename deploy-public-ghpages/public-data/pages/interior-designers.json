@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "autoplay": false,
+    "controls": false,
+    "cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "loop": false,
+    "muted": false,
+    "overlay_depth": "0.95",
+    "poster": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "secondary_cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "source_type": "",
+    "type": "",
+    "video": {
+      "media_key": null,
+      "public_url": ""
+    }
+  },
+  "name": {
+    "en": "Interior Designers",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T11:04:38.493Z",
+  "sections": [
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "NESS collaborates with interior designers and design studios worldwide, providing professional manufacturing capabilities, customized development services, and extensive material expertise to transform creative concepts into finished furniture solutions.",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "fffa6a28b4848832973609c55593bdcb50ea9d7f444e7054b956867f8bc6746d:1785894181346-d363e82d-a7ba-4159-a95a-851500108990.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181346-d363e82d-a7ba-4159-a95a-851500108990-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "hero",
+      "section_type": "hero",
+      "settings": {},
+      "sort_order": 0,
+      "subtitle": "",
+      "title": "Transforming Design Concepts into High-Quality Furniture Solutions",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "og_image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "interior-designers",
+  "updated_at": "2026-08-08T11:04:38.493Z"
+}

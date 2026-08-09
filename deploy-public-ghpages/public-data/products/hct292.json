@@ -1,0 +1,82 @@
+{
+  "applications": "",
+  "category_slug": "coffee-side-tables",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "329.0",
+    "length": "700.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "430.0"
+  },
+  "featured": false,
+  "id": 337,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "38cc767347350cadac66032107c433c37a79486cb08a1e88942a7c5711a79f1e:1786177499869-f878d808-3119-48a3-8ce5-680b60f4ddd5.png",
+      "public_url": "/ness-furniture-site/media/derived/1786177499869-f878d808-3119-48a3-8ce5-680b60f4ddd5-display.webp",
+      "sort_order": 0
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCT292",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T08:25:07.912Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hct292",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCT292",
+  "slug": "hct292",
+  "sort_order": 0,
+  "summary": {
+    "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 08:25:07",
+  "videos": []
+}

@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "autoplay": false,
+    "controls": false,
+    "cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "loop": false,
+    "muted": false,
+    "overlay_depth": "0.95",
+    "poster": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "secondary_cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "source_type": "",
+    "type": "",
+    "video": {
+      "media_key": null,
+      "public_url": ""
+    }
+  },
+  "name": {
+    "en": "Exhibitions & Events",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T11:40:53.160Z",
+  "sections": [],
+  "seo": {
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "og_image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "exhibitions",
+  "updated_at": "2026-08-08T11:40:53.160Z"
+}

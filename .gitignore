@@ -1,0 +1,11 @@
+# NESS Furniture — GitHub Pages 静态前台仓库
+# 本仓库只承载 deploy-public-ghpages 静态成品 + Pages workflow。
+# 绝不包含：CMS 源码 / SQLite / 原始 uploads / .env / 后台代码。
+
+# Windows / macOS 系统杂项
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 本地工具残留（不入库，但保留在工作副本中）
+serve-8091.log

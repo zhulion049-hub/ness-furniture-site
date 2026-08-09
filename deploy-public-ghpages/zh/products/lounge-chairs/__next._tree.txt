@@ -1,0 +1,6 @@
+:HL["/ness-furniture-site/_next/static/css/5f1eeece12dc83c5.css","style"]
+:HL["/ness-furniture-site/media/derived/1785980246517-ea51a519-8171-4162-adee-a3656911c574-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184582987-2d1c104d-df95-444d-b29a-71ca453761e4-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184638135-6a219140-754c-432f-aa78-7088e0c9e10b-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1786184696284-8bf15a0a-1935-4482-8520-f774e007911f-display.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lounge-chairs","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-ee8b392d2dd99e82"}

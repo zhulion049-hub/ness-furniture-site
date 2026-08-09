@@ -1,0 +1,17 @@
+{
+  "admin_api_physical_isolation": true,
+  "credential_scan": true,
+  "database_runtime_dependency": false,
+  "derived_media_hashes_verified": true,
+  "large_video_links_removed": true,
+  "local_absolute_path_scan": true,
+  "media_source_target_hashes_verified": true,
+  "no_spa_fallback": true,
+  "public_route_validation": true,
+  "scan_files": 9675,
+  "sensitive_information_scan": true,
+  "test_records_filtered": {
+    "modules": 0,
+    "videos": 0
+  }
+}

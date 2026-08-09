@@ -1,0 +1,334 @@
+{
+  "categories": [
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Custom sofas and sectionals for hospitality and residential projects.",
+        "zh": ""
+      },
+      "id": 1,
+      "menu_group": "custom-upholstered",
+      "name": {
+        "en": "Sofas & Sectionals",
+        "zh": "沙发与组合沙发"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "sofas-sectionals",
+      "sort_order": 10
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Design lounge chairs for lobbies, lounges and living spaces.",
+        "zh": ""
+      },
+      "id": 2,
+      "menu_group": "custom-upholstered",
+      "name": {
+        "en": "Lounge Chairs",
+        "zh": "休闲椅"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "lounge-chairs",
+      "sort_order": 20
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Dining chairs for hotels, restaurants and residential use.",
+        "zh": ""
+      },
+      "id": 3,
+      "menu_group": "custom-upholstered",
+      "name": {
+        "en": "Dining Chairs",
+        "zh": "餐椅"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "dining-chairs",
+      "sort_order": 30
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Custom beds and headboards for hospitality and residential.",
+        "zh": ""
+      },
+      "id": 4,
+      "menu_group": "custom-upholstered",
+      "name": {
+        "en": "Beds & Headboards",
+        "zh": "床与床头板"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "beds-headboards",
+      "sort_order": 40
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Ottomans and benches for various applications.",
+        "zh": ""
+      },
+      "id": 5,
+      "menu_group": "custom-upholstered",
+      "name": {
+        "en": "Ottomans & Benches",
+        "zh": "软凳与长凳"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "ottomans-benches",
+      "sort_order": 50
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Dining tables for commercial and residential spaces.",
+        "zh": ""
+      },
+      "id": 6,
+      "menu_group": "tables-casegoods",
+      "name": {
+        "en": "Dining Tables",
+        "zh": "餐桌"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "dining-tables",
+      "sort_order": 60
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Coffee tables and side tables for living and lounge areas.",
+        "zh": ""
+      },
+      "id": 7,
+      "menu_group": "tables-casegoods",
+      "name": {
+        "en": "Coffee & Side Tables",
+        "zh": "咖啡桌与边几"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "coffee-side-tables",
+      "sort_order": 70
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Console tables for entryways and corridors.",
+        "zh": ""
+      },
+      "id": 8,
+      "menu_group": "tables-casegoods",
+      "name": {
+        "en": "Consoles",
+        "zh": "玄关桌"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "consoles",
+      "sort_order": 80
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Custom cabinets and casegoods for hospitality and residential.",
+        "zh": ""
+      },
+      "id": 9,
+      "menu_group": "tables-casegoods",
+      "name": {
+        "en": "Cabinets & Casegoods",
+        "zh": "柜类与储物"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "cabinets-casegoods",
+      "sort_order": 90
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Concrete and microcement furniture for indoor and outdoor use.",
+        "zh": ""
+      },
+      "id": 10,
+      "menu_group": "specialty-collections",
+      "name": {
+        "en": "Concrete Furniture",
+        "zh": "混凝土家具"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "concrete-furniture",
+      "sort_order": 100
+    },
+    {
+      "cover_image": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "description": {
+        "en": "Weather-resistant outdoor furniture for hospitality and residential.",
+        "zh": ""
+      },
+      "id": 11,
+      "menu_group": "specialty-collections",
+      "name": {
+        "en": "Outdoor Furniture",
+        "zh": "户外家具"
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "show_in_menu": true,
+      "show_on_homepage": true,
+      "slug": "outdoor-furniture",
+      "sort_order": 110
+    }
+  ]
+}

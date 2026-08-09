@@ -1,0 +1,118 @@
+{
+  "applications": "",
+  "category_slug": "ottomans-benches",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "360.0",
+    "length": "1100.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "1100.0"
+  },
+  "featured": false,
+  "id": 386,
+  "images": [
+    {
+      "alt_text": "HCC201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "38df43085cf9a4aa312bf1153d7b0f4efe0646e00cbe9fe75c772818e690c8e0:1785980744346-8bc1e19d-106c-481e-a0b0-944e86a5bcf8.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980744346-8bc1e19d-106c-481e-a0b0-944e86a5bcf8-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "HCC201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "66ba7dcac8c2d4e3c2747523e8c384340cd98233cb8b140f17f932fc752c0a1a:1785980744386-fc6f77d4-06e9-4136-926a-b9ea899dd06a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980744386-fc6f77d4-06e9-4136-926a-b9ea899dd06a-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "HCC201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "4534b9e9f255d6f195ab5f9cc47505a3c53751e5b02a579d116a82a21ec31f77:1785980744470-85576dbf-ce61-4213-a57a-3159562e34dc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980744470-85576dbf-ce61-4213-a57a-3159562e34dc-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "HCC201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "eebe0c4b494827750a5c31b778f560591c80215b120c2231cc6fa9cf5b0836ee:1785980744491-d07c179e-0d09-456e-8bfb-342cbef244b3.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980744491-d07c179e-0d09-456e-8bfb-342cbef244b3-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "cf89b947424982310fdee5920b0c993087ca6ec8d6561673b3169a2d75099a66:1786184194470-cf584bad-838f-4bfd-99b9-1337f967d3da.png",
+      "public_url": "/ness-furniture-site/media/derived/1786184194470-cf584bad-838f-4bfd-99b9-1337f967d3da-display.webp",
+      "sort_order": 4
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCC201",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T10:16:38.521Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcc201-ta",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCC201",
+  "slug": "hcc201-ta",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 10:16:38",
+  "videos": []
+}

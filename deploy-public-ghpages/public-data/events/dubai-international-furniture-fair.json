@@ -1,0 +1,189 @@
+{
+  "booth_number": "",
+  "content": {
+    "en": "Expanded our Middie East presence at the DubaiFair, Strong connections with regional hospitality",
+    "zh": ""
+  },
+  "cover": {
+    "media_key": "d90aa35975f0b50ae87709839cb2341b135c4ddaa7dab60afb05aeb9eb85ba0d:1786189390974-6c297293-9a72-4f5c-b693-a1b75b84f381.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1786189390974-6c297293-9a72-4f5c-b693-a1b75b84f381-display.webp"
+  },
+  "dates": {
+    "end": "",
+    "start": ""
+  },
+  "event_name": "",
+  "id": 4,
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "media": [
+    {
+      "alt_text": {
+        "en": "2024-6月迪拜 (19).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": true,
+      "media_key": "d90aa35975f0b50ae87709839cb2341b135c4ddaa7dab60afb05aeb9eb85ba0d:1786189390974-6c297293-9a72-4f5c-b693-a1b75b84f381.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786189390974-6c297293-9a72-4f5c-b693-a1b75b84f381-display.webp",
+      "sort_order": 0,
+      "title": {
+        "en": "2024-6月迪拜 (19).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2024-6月迪拜 (17).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b636441a6f2f2eebdb66f3e35848e30a158b1564963a1dc1289ee90e689fc47d:1786189391109-c11dc9b1-db20-404b-a0b6-a0f0f599e516.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786189391109-c11dc9b1-db20-404b-a0b6-a0f0f599e516-display.webp",
+      "sort_order": 1,
+      "title": {
+        "en": "2024-6月迪拜 (17).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2024-6月迪拜 (6).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b1a37f997321fcc54d31945dd58dbbb7e03b40833c308a496a6f066d55470a69:1786189390988-1cdc5d08-08f5-4b3d-8898-e155e6594481.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786189390988-1cdc5d08-08f5-4b3d-8898-e155e6594481-display.webp",
+      "sort_order": 2,
+      "title": {
+        "en": "2024-6月迪拜 (6).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2024-6月迪拜 (16).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "57b622dc760b16d67d3d27c24a7977bb54dee8943c4c081815828b03e05e9cb3:1786189391086-f62e8e8c-f528-42fa-9d9e-e3d1114ae482.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786189391086-f62e8e8c-f528-42fa-9d9e-e3d1114ae482-display.webp",
+      "sort_order": 3,
+      "title": {
+        "en": "2024-6月迪拜 (16).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2024-6月迪拜 (11).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "9ba6242a7b1b93f393556f1f9394185d8abb77bcdf03e8ae86327bc9ad54e12d:1786189391031-488d24a8-67db-4b68-ac80-739c21a182a4.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786189391031-488d24a8-67db-4b68-ac80-739c21a182a4-display.webp",
+      "sort_order": 4,
+      "title": {
+        "en": "2024-6月迪拜 (11).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2024-6月迪拜 (18).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "c2f2fcbefe033c960ed3c3b5e6a69e99db5d2798cd578a2182d3839567de9d7f:1786189391126-16642ca5-09c7-4073-8443-9a3c53b570e6.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786189391126-16642ca5-09c7-4073-8443-9a3c53b570e6-display.webp",
+      "sort_order": 5,
+      "title": {
+        "en": "2024-6月迪拜 (18).jpg",
+        "zh": ""
+      }
+    }
+  ],
+  "published_at": "2026-08-08T14:35:26.463Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/exhibitions/dubai-international-furniture-fair",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "dubai-international-furniture-fair",
+  "sort_order": 0,
+  "subtitle": {
+    "en": "",
+    "zh": ""
+  },
+  "summary": {
+    "en": "Expanded our Middie East presence at the DubaiFair. Strong connections with regional hospitality",
+    "zh": ""
+  },
+  "title": {
+    "en": "Dubai International Furniture Fair",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 14:35:26",
+  "venue": ""
+}

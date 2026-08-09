@@ -1,0 +1,280 @@
+{
+  "applications": "[\"Restaurant\",\"Residential\"]",
+  "category_slug": "coffee-side-tables",
+  "customization": {
+    "custom_color": true,
+    "custom_material": true,
+    "custom_size": true,
+    "odm": false,
+    "oem": false,
+    "private_label": true
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "500.0",
+    "length": "450.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "450.0"
+  },
+  "featured": false,
+  "id": 291,
+  "images": [
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "0f8049c4918f62661c31a0ace980d571a5661d9539bc20ac41380612af552e5f:1785981144165-ae8a32f4-19f7-4f6e-887a-a8784f15dc75.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144165-ae8a32f4-19f7-4f6e-887a-a8784f15dc75-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "3eb6f5871fef64c120b75ab48cb93e4e5723200ca261becbbe793c8e698f56f6:1785981144186-544c1459-d617-42c3-aff7-f3faa4c3730f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144186-544c1459-d617-42c3-aff7-f3faa4c3730f-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "d7da41c643ad2fc80ffcc1d5abc33ad268e3aa988dd3270e8f1031329ab9f232:1785981144224-979f116b-4507-4915-93d8-f85c6ce6b872.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144224-979f116b-4507-4915-93d8-f85c6ce6b872-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "9ebcb03601f6bc097f70bf57de9c6a0f29c6f536a5f40dc1af50c6dc15e385f1:1785981144241-ada96492-26df-4281-9b20-42e997027adc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144241-ada96492-26df-4281-9b20-42e997027adc-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "38b553cf5c3425b868c654f6cfa6903e86c9373975082fecdcd3c8f776d8ad63:1785981144262-6c90efff-5627-412d-b080-da430b3afb20.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144262-6c90efff-5627-412d-b080-da430b3afb20-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3bd154a760a12be92124c04f50b05d839cc295d6ddca786745b5538701eab74f:1785981144278-b8be863a-a041-4cb7-807c-398642aa41ab.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144278-b8be863a-a041-4cb7-807c-398642aa41ab-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "41b5be6148b9107bfbcc374053f7acc1f2a7d792553949dc8080bb20757f7153:1785981144315-c0c5d910-8659-494b-a522-e5e8a4629377.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144315-c0c5d910-8659-494b-a522-e5e8a4629377-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7a8b420a585e42355514cb344f123141206ae8f78e681c1f921d1778888ab5b2:1785981144343-41f9bfab-6bf9-431a-9470-9e6ed7e5602f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144343-41f9bfab-6bf9-431a-9470-9e6ed7e5602f-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b3dea0dce2136321ad50d4b5868055732604745e9846533346bba861175b077f:1785981144371-4da76483-06c9-498b-aadd-d187dd4d9239.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144371-4da76483-06c9-498b-aadd-d187dd4d9239-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "0c83c31a83fb20972a872d4f4f5a94685045ba4aefe7f699c7ad967cef33cc49:1785981144393-19fcb59f-56ee-47a7-bf5e-af6673e9ae61.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144393-19fcb59f-56ee-47a7-bf5e-af6673e9ae61-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "9a718e8c17a663e95681c72b2cf7724ea3aa2e87a7e329ff140b7023cc8f54e5:1785981144429-7b388d62-e47c-4e12-9b0a-0b8d1365cea1.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144429-7b388d62-e47c-4e12-9b0a-0b8d1365cea1-display.webp",
+      "sort_order": 10
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "21b58fc1ad205a6fdad50ef8f876dbecc4574e9704ee8f770c5c62375444dd15:1785981144444-631d676d-760f-417b-8f72-02ba619ea1b6.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144444-631d676d-760f-417b-8f72-02ba619ea1b6-display.webp",
+      "sort_order": 11
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "851bf4c0af47fcbddd7b82e7033c3767b6bf87fb20aea98f63443d12413188d5:1785981144495-236296ec-2542-4532-84ee-1e0f63afe1b5.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144495-236296ec-2542-4532-84ee-1e0f63afe1b5-display.webp",
+      "sort_order": 12
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7ba85e5cd7b8fc7fcf9da13c9f6c7b51d05e961da0e5a8c640c85826fd6e50fe:1785981144529-229a8aca-8a90-44ab-8904-37d394efbb90.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144529-229a8aca-8a90-44ab-8904-37d394efbb90-display.webp",
+      "sort_order": 13
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b13846cc50788eb05cf72b5736f079441d96b940cd15f2aba902aa77fd34acb3:1785981144559-b6813c1d-ee9f-4c56-9056-898a55ffccad.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144559-b6813c1d-ee9f-4c56-9056-898a55ffccad-display.webp",
+      "sort_order": 14
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3f6147e93367b076cac81315fe673c9fc73971fe93eed8f94e19157f4cd53ce8:1785981144602-f11424fc-273f-4ab6-bbaf-11f15f36b2f1.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144602-f11424fc-273f-4ab6-bbaf-11f15f36b2f1-display.webp",
+      "sort_order": 15
+    },
+    {
+      "alt_text": "HCT201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "ee7a545d4de094826dca9a3c5af28abf6e2c86246b8dd6e4d52be99b6cdc88c7:1785981144618-57717483-f3d9-43b0-b3e5-16ba8fafe8b7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785981144618-57717483-f3d9-43b0-b3e5-16ba8fafe8b7-display.webp",
+      "sort_order": 16
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "765950ea164f55ec37e5ca7dc26f7fa2563299c5034691cbd6c3037ae3a55fd4:1786170009487-90d2e08b-3a06-42d4-bede-6ef689ff304e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786170009487-90d2e08b-3a06-42d4-bede-6ef689ff304e-display.webp",
+      "sort_order": 17
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "d1574e5e72d043a20fc2495d36659508d4622ea900a0e0225da9e51697175f65:1786170009673-e2e10e75-2c53-4ffe-99aa-608ad630895c.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786170009673-e2e10e75-2c53-4ffe-99aa-608ad630895c-display.webp",
+      "sort_order": 18
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "5f4a140b3d7152418fa1a255c43d3ef62736f36cb4d5ba2d7be06d69f325adf1:1786170009833-f8d0e42d-d1fb-4da9-aef5-380c5b6e4a8b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786170009833-f8d0e42d-d1fb-4da9-aef5-380c5b6e4a8b-display.webp",
+      "sort_order": 19
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "095ef8f8f8fc6a5a6f518cb014abd40c2d4d1c17dfc27c50abd1a49ea2e4584d:1786170010080-10bb9091-dc66-4ed0-9e0b-48533f579b7b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786170010080-10bb9091-dc66-4ed0-9e0b-48533f579b7b-display.webp",
+      "sort_order": 20
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "73b8cb75a8ae8634ce54dd5d024dcd78843c804ae77e866b800a9bfee4d5bc7f:1786170010119-78b7fb16-3313-4529-a133-b662095cb35d.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786170010119-78b7fb16-3313-4529-a133-b662095cb35d-display.webp",
+      "sort_order": 21
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b7520a9cf9f4b143b4917ab0cc424072e398f3b0055ff84cae918e791c10eeda:1786170010147-96e5e96e-6ce7-4ac6-a5d1-b726ddc3a0ea.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786170010147-96e5e96e-6ce7-4ac6-a5d1-b726ddc3a0ea-display.webp",
+      "sort_order": 22
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCT201",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T06:20:20.454Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hct201-1",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCT201",
+  "slug": "hct201-1",
+  "sort_order": 0,
+  "summary": {
+    "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 06:20:20",
+  "videos": []
+}

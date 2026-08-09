@@ -1,0 +1,103 @@
+{
+  "category": {
+    "id": 4,
+    "name": {
+      "en": "Apartments & Penthouses",
+      "zh": "公寓与顶层住宅"
+    },
+    "slug": "apartment"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "3667deac85af17188cc4e6f015fea3a93bcf63e8923bc83c8ca4776bd9eac77d:1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 131,
+  "images": [
+    {
+      "alt_text": "微信图片_20241007170112.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "3667deac85af17188cc4e6f015fea3a93bcf63e8923bc83c8ca4776bd9eac77d:1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "微信图片_20241007170114.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "91a43ad33c59fd6adbd4ce3035a38a5bd8ab5c8950dfcb52e2074d1399a2e3dc:1785894181486-10e53d6f-f007-4953-8c10-56858caf4a80.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181486-10e53d6f-f007-4953-8c10-56858caf4a80-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "微信图片_20241007170115.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "f3f27e20b9af0891507e32465b5f70e2fcba6e1fdd87871223a033813f1c0e90:1785894181500-6f6c7dc6-f56c-4604-9e6c-918cb4611ca7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181500-6f6c7dc6-f56c-4604-9e6c-918cb4611ca7-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "微信图片_20241007170117.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "43652c2336f9459a9a909bbdc1b9c46be71b9b7deae303e04c65d64cf0a0eb1e:1785894181510-cf0d7b1d-8b58-4143-bd88-ac4d6090d28c.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181510-cf0d7b1d-8b58-4143-bd88-ac4d6090d28c-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "微信图片_20241007170118.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "93719502044115be6c5e410e3ccdb4699e868a9d7e3608841b23587cd621d726:1785894181529-56560272-0f48-442d-b61c-705f9facdf3b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181529-56560272-0f48-442d-b61c-705f9facdf3b-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "微信图片_20241007170119.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "2f6c077634a8f7356b52ecc453b3fc62ee09105dc8b5fc06db25153f428bf582:1785894181546-240e5596-f46e-4e28-9db1-ca5ba4ccd7bb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181546-240e5596-f46e-4e28-9db1-ca5ba4ccd7bb-display.webp",
+      "sort_order": 5
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Project Portfolio-4",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/ness-furniture-site/projects/project-portfolio-4",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "project-portfolio-4",
+  "sort_order": 0,
+  "summary": {
+    "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+    "zh": ""
+  },
+  "type": "apartment",
+  "updated_at": "2026-08-08 10:50:22",
+  "videos": [],
+  "year": ""
+}

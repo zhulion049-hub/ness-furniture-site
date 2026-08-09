@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "autoplay": false,
+    "controls": false,
+    "cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "loop": false,
+    "muted": false,
+    "overlay_depth": "0.95",
+    "poster": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "secondary_cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "source_type": "",
+    "type": "",
+    "video": {
+      "media_key": null,
+      "public_url": ""
+    }
+  },
+  "name": {
+    "en": "Custom Furniture",
+    "zh": ""
+  },
+  "published_at": "2026-08-07T06:40:38.852Z",
+  "sections": [
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "13e3b2260e1630b3e6724c343984a3658025a0c0bece822e6a9127f4760b3f23:1786084574151-8c8c4a86-5213-49b4-910e-3826466cd3a4.png",
+          "public_url": "/ness-furniture-site/media/derived/1786084574151-8c8c4a86-5213-49b4-910e-3826466cd3a4-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "text-image-1786084801559",
+      "section_type": "text-image",
+      "settings": {},
+      "sort_order": 0,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "og_image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "custom-furniture",
+  "updated_at": "2026-08-07T06:40:38.852Z"
+}

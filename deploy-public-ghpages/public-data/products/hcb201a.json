@@ -1,0 +1,163 @@
+{
+  "applications": "",
+  "category_slug": "beds-headboards",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "1280.0",
+    "length": "3900.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "2170.0"
+  },
+  "featured": false,
+  "id": 380,
+  "images": [
+    {
+      "alt_text": "HCB201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "05e14acd301b503e1f149b947c732930c5b7fa8638a98126aff5d83e0b397b7e:1785980432586-972a76ea-0062-4ac9-82dd-ab41e3adae79.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980432586-972a76ea-0062-4ac9-82dd-ab41e3adae79-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "HCB201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "cffcef8c0ed4a026f4c354c268fae3f0908f16ceae1a51e331acbcaa63001e99:1785980432622-e590aff9-51e7-471e-9c1b-4f4d15507554.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980432622-e590aff9-51e7-471e-9c1b-4f4d15507554-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "HCB201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "27f38f44933163ecca972c8ce80e99a6e8a6b6e15690820cc9bf40192a2df99c:1785980432686-0aa8a756-179f-449d-9940-2476b6ec5d05.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980432686-0aa8a756-179f-449d-9940-2476b6ec5d05-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "HCB201",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "c4a3ca66e4e4aa2dbd5c340a68b6ada07b89a7e2677bbc7693ff3624a2afea35:1785980432711-31018163-4cff-4d4b-a00e-e5e03c5de4ca.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785980432711-31018163-4cff-4d4b-a00e-e5e03c5de4ca-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "f9bbfd6acc9a0aa723be1f60982f8019036aa113f19e98792092b04c38228678:1786183435290-2dd72b6a-c20a-46d1-a2dd-f1cbabfeb325.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183435290-2dd72b6a-c20a-46d1-a2dd-f1cbabfeb325-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "c5909dd5bc26373b5e3732ab9d837fa3b178db8783025eaffacf5d4adbf2d8bc:1786183435346-adc91f21-97fc-4dd2-8447-3bb28f9d1909.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183435346-adc91f21-97fc-4dd2-8447-3bb28f9d1909-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "0519337f143bb04aefab5a0ccef29327ff015bfceebfbf43836d385df4b4666b:1786183435374-a376f233-0d9a-4a35-99e7-fe905d43cb04.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183435374-a376f233-0d9a-4a35-99e7-fe905d43cb04-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "4fb10f51953ad7c9d45b4a9ad63aaf954ce37858e611aac98b437be7801945bc:1786183435423-a0b00c9c-6386-4dc7-b7b9-8e9f5468f49e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183435423-a0b00c9c-6386-4dc7-b7b9-8e9f5468f49e-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "dfab8a26b4c816c3c4f8f7ec703ef80cbbc95e439d0cf5b02a75ce5f5b372a73:1786183435455-65e486db-94dc-45b8-816d-ba05fc9ca97a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183435455-65e486db-94dc-45b8-816d-ba05fc9ca97a-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "de294d8a62246eb314716faff260576ce4ba2b7ed97e5f9de88bed948d38761d:1786183435512-78189c79-3b72-4dc7-85b0-e5cd1a22c82f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786183435512-78189c79-3b72-4dc7-85b0-e5cd1a22c82f-display.webp",
+      "sort_order": 9
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCB201A",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T10:03:59.108Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcb201a",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCB201A",
+  "slug": "hcb201a",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 10:03:59",
+  "videos": []
+}

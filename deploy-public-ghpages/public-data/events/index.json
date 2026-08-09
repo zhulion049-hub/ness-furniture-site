@@ -1,0 +1,121 @@
+{
+  "events": [
+    {
+      "cover": {
+        "media_key": "367e9957f3cbd7492ee330bbe6db46697526d81cc43f25e71972fd6f8c569c04:1786200053011-81519927-c319-4e72-b57a-9bc5cc14ea04.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786200053011-81519927-c319-4e72-b57a-9bc5cc14ea04-display.webp"
+      },
+      "dates": {
+        "end": "2026-03-21",
+        "start": "2026-03-18"
+      },
+      "event_name": "",
+      "id": 5,
+      "location": {
+        "city": "Guangzhou",
+        "country": "China"
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/exhibitions/202603guangzhoucicf",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "202603guangzhoucicf",
+      "sort_order": 0,
+      "summary": {
+        "en": "We joined the Guangzhou Furniture Fair in March 2026 to introduce our microcement furniture collection to more international buyers and explore new project opportunities. The collection received strong interest and positive feedback from visitors throughout the show.",
+        "zh": ""
+      },
+      "title": {
+        "en": "2026-3-Guangzhou cicf",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 14:51:16",
+      "venue": ""
+    },
+    {
+      "cover": {
+        "media_key": "43337d955b4a40e2b430f3b194b43c2ecf356bdc5388fc761f8e0fcc7030ca09:1784716917113-603kjl.png",
+        "public_url": "/ness-furniture-site/media/derived/1784716917113-603kjl-display.webp"
+      },
+      "dates": {
+        "end": "2024-03-10",
+        "start": "2024-03-08"
+      },
+      "event_name": "",
+      "id": 3,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/exhibitions/ciff",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "ciff",
+      "sort_order": 0,
+      "summary": {
+        "en": "",
+        "zh": ""
+      },
+      "title": {
+        "en": "2024 5Ist CIFF GuangzhouMarch 2024",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 11:39:35",
+      "venue": ""
+    },
+    {
+      "cover": {
+        "media_key": "d90aa35975f0b50ae87709839cb2341b135c4ddaa7dab60afb05aeb9eb85ba0d:1786189390974-6c297293-9a72-4f5c-b693-a1b75b84f381.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786189390974-6c297293-9a72-4f5c-b693-a1b75b84f381-display.webp"
+      },
+      "dates": {
+        "end": "",
+        "start": ""
+      },
+      "event_name": "",
+      "id": 4,
+      "location": {
+        "city": "",
+        "country": ""
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/exhibitions/dubai-international-furniture-fair",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "dubai-international-furniture-fair",
+      "sort_order": 0,
+      "summary": {
+        "en": "Expanded our Middie East presence at the DubaiFair. Strong connections with regional hospitality",
+        "zh": ""
+      },
+      "title": {
+        "en": "Dubai International Furniture Fair",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 14:35:26",
+      "venue": ""
+    }
+  ]
+}

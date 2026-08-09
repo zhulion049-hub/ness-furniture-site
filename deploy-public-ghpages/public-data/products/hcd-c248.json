@@ -1,0 +1,91 @@
+{
+  "applications": "",
+  "category_slug": "dining-chairs",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "870.0",
+    "length": "620.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "630.0"
+  },
+  "featured": false,
+  "id": 379,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "fe81eda60be40a8b1ae0442b5f1f571828ec71705cc3ab2c0f340167f95c4734:1786182598405-0555073a-8ef3-4d15-9973-7e36ff0a5ae9.png",
+      "public_url": "/ness-furniture-site/media/derived/1786182598405-0555073a-8ef3-4d15-9973-7e36ff0a5ae9-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "6f2a9399a9290f961a7c28d7c98d0cd9ce23affe157777785bc34d0e2ff5e0e6:1786182598415-79f4564e-40a1-46c0-9a5a-d5f78ee13732.png",
+      "public_url": "/ness-furniture-site/media/derived/1786182598415-79f4564e-40a1-46c0-9a5a-d5f78ee13732-display.webp",
+      "sort_order": 1
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCD-C248",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T09:50:02.924Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcd-c248",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCD-C248",
+  "slug": "hcd-c248",
+  "sort_order": 0,
+  "summary": {
+    "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 09:50:02",
+  "videos": []
+}

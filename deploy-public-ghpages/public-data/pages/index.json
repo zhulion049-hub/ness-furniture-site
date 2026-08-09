@@ -1,0 +1,378 @@
+{
+  "pages": [
+    {
+      "name": {
+        "en": "About NESS",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "Discover NESS Furniture, a Dongguan-based manufacturer supporting hotels, designers, furniture brands and project partners with custom furniture, OEM/ODM and project production.",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "About NESS Furniture | Custom Furniture Manufacturer",
+          "zh": ""
+        }
+      },
+      "slug": "about-ness",
+      "updated_at": "2026-08-08T15:00:23.625Z"
+    },
+    {
+      "name": {
+        "en": "Contact",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "contact",
+      "updated_at": "2026-08-06T02:14:52.536Z"
+    },
+    {
+      "name": {
+        "en": "Custom Furniture",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "custom-furniture",
+      "updated_at": "2026-08-07T06:40:38.852Z"
+    },
+    {
+      "name": {
+        "en": "Dealers and Brands",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "dealers-brands",
+      "updated_at": "2026-08-08T11:03:20.484Z"
+    },
+    {
+      "name": {
+        "en": "Exhibitions & Events",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "exhibitions",
+      "updated_at": "2026-08-08T11:40:53.160Z"
+    },
+    {
+      "name": {
+        "en": "Hotels and FF&E",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "hotels-ff-e",
+      "updated_at": "2026-08-08T10:59:48.543Z"
+    },
+    {
+      "name": {
+        "en": "Interior Designers",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "interior-designers",
+      "updated_at": "2026-08-08T11:04:38.493Z"
+    },
+    {
+      "name": {
+        "en": "Manufacturing",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "manufacturing",
+      "updated_at": "2026-08-08T11:19:14.838Z"
+    },
+    {
+      "name": {
+        "en": "Materials and Craft",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "materials-craft",
+      "updated_at": "2026-08-08T11:34:25.936Z"
+    },
+    {
+      "name": {
+        "en": "Quality Control",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "quality-control",
+      "updated_at": "2026-08-08T11:32:54.015Z"
+    },
+    {
+      "name": {
+        "en": "Residential Projects",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "residential-projects",
+      "updated_at": "2026-08-08T11:06:21.063Z"
+    },
+    {
+      "name": {
+        "en": "Hotels and FF&E",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "solutions",
+      "updated_at": "2026-08-06T01:57:53.173Z"
+    },
+    {
+      "name": {
+        "en": "Custom Furniture Development",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "solutions/custom-furniture-development",
+      "updated_at": "2026-08-07T07:11:18.755Z"
+    },
+    {
+      "name": {
+        "en": "Material & Finish Customization",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "solutions/material-finish-customization",
+      "updated_at": "2026-08-07T07:04:08.754Z"
+    },
+    {
+      "name": {
+        "en": "OEM & ODM Manufacturing",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "solutions/oem-odm-manufacturing",
+      "updated_at": "2026-08-07T06:39:16.746Z"
+    },
+    {
+      "name": {
+        "en": "Private Label Production",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "solutions/private-label-production",
+      "updated_at": "2026-08-07T07:02:09.537Z"
+    },
+    {
+      "name": {
+        "en": "Project Furniture Supply",
+        "zh": ""
+      },
+      "seo": {
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "og_image": {
+          "media_key": null,
+          "public_url": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "solutions/project-furniture-supply",
+      "updated_at": "2026-08-07T06:42:28.984Z"
+    }
+  ]
+}

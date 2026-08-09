@@ -1,0 +1,5517 @@
+{
+  "products": [
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": true,
+      "id": 220,
+      "name": {
+        "en": "HCS201",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "03bbf18032a4a40d0d939accc2e99dde7f132de628ce8051b343e09769ceef4e:1785979973738-91820b17-4189-4407-b0cb-133244a5fc83.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785979973738-91820b17-4189-4407-b0cb-133244a5fc83-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs201-minotti-yang",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS201",
+      "slug": "hcs201-minotti-yang",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:03:46"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 226,
+      "name": {
+        "en": "HCS202",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "87f2ec72d625b4a5a19674d9bd070a73540cec267a1c28a1f33222dca455677b:1785990645456-6825c364-4dc0-4f92-aefa-82f2369e698c.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785990645456-6825c364-4dc0-4f92-aefa-82f2369e698c-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs202",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS202",
+      "slug": "hcs202",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:03:19"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 227,
+      "name": {
+        "en": "HCS203",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8c2da22918ab3c84d889ffc9f873b9d261f1766f75ba44396622fcc55d0827ad:1785990877429-a6291c1b-12e5-44d0-ae0f-0a437172b79f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785990877429-a6291c1b-12e5-44d0-ae0f-0a437172b79f-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs203",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS203",
+      "slug": "hcs203",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials and refined workmanship, our sofa collection combines functionality, comfort, and contemporary design.",
+        "zh": "精选优质材料，结合精湛工艺与舒适结构设计，呈现兼具功能性与设计感的现代沙发系列。"
+      },
+      "updated_at": "2026-08-06 07:05:30"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 228,
+      "name": {
+        "en": "HCS204",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "17342f61c1a7daaec97064ac1e95dec4ba78484883365721ff605bbc6e1f5cae:1785991003294-3bce8254-1c07-44f9-bc57-67c47f3f66d3.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991003294-3bce8254-1c07-44f9-bc57-67c47f3f66d3-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs204",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS204",
+      "slug": "hcs204",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "\n融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。\n"
+      },
+      "updated_at": "2026-08-06 07:07:02"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 229,
+      "name": {
+        "en": "HCS205",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "4fd228d118cb7dd30fae95d3bea2089b8c515fbf69dda3558fd1f2fc60c15ff0:1785991104417-a88c8b98-e63d-4c60-9901-886790749799.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991104417-a88c8b98-e63d-4c60-9901-886790749799-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs205",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS205",
+      "slug": "hcs205",
+      "sort_order": 0,
+      "summary": {
+        "en": "\nCrafted with quality materials and refined workmanship, our sofa collection combines functionality, comfort, and contemporary design.",
+        "zh": "\n精选优质材料，结合精湛工艺与舒适结构设计，呈现兼具功能性与设计感的现代沙发系列。\n"
+      },
+      "updated_at": "2026-08-06 07:09:10"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 230,
+      "name": {
+        "en": "HCS207",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5642c87da3e207c1fed1b68d213fd9e3a9dc5931e1c659bbfa85bfa4139a7656:1785991215209-6995fc27-71a5-498d-a605-16ebddc561a7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991215209-6995fc27-71a5-498d-a605-16ebddc561a7-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs207",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS207",
+      "slug": "hcs207",
+      "sort_order": 0,
+      "summary": {
+        "en": "\nCombining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "\n融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。\n\n"
+      },
+      "updated_at": "2026-08-06 07:10:40"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 231,
+      "name": {
+        "en": "HCS208",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "70b9176b1b897f511a9d64768b970cde7146062b2c2028e452739755978dce7c:1785991332646-9ff2d532-b53a-4331-8a4f-dc8c61110ddd.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991332646-9ff2d532-b53a-4331-8a4f-dc8c61110ddd-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs208",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS208",
+      "slug": "hcs208",
+      "sort_order": 0,
+      "summary": {
+        "en": "\nCombining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "\n融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。\n\n"
+      },
+      "updated_at": "2026-08-06 07:12:02"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 232,
+      "name": {
+        "en": "HCS209",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "7857e8a2fe1f3b7a62eb73af473f81ec9fe3c5a6c95075d82e9bf67ec0ab62f5:1785991461021-80177f65-daa5-4636-8577-81e3b78fc5a3.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991461021-80177f65-daa5-4636-8577-81e3b78fc5a3-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs209",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS209",
+      "slug": "hcs209",
+      "sort_order": 0,
+      "summary": {
+        "en": "\nDesigned for residential, hospitality, and commercial spaces, our sofas create a refined atmosphere with elegant forms and exceptional comfort.",
+        "zh": "\n灵活适配住宅、酒店及商业空间需求，以优雅造型与舒适坐感营造高品质空间氛围。\n"
+      },
+      "updated_at": "2026-08-06 07:13:29"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 233,
+      "name": {
+        "en": "HCS210",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "a47a52269236aa50b6765b5e5f64ba8740546d56bb8cd94aa3f5614780ef800a:1785991616148-2d00a7cf-4a16-4a77-b3c3-dd714d5d059c.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991616148-2d00a7cf-4a16-4a77-b3c3-dd714d5d059c-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs210",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS210",
+      "slug": "hcs210",
+      "sort_order": 0,
+      "summary": {
+        "en": "\nCombining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "\n融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。\n"
+      },
+      "updated_at": "2026-08-06 07:15:01"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 234,
+      "name": {
+        "en": "HCS213",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "1f238735283ee046176f10444d301bdc6f2b8ec6fc7635221a4ad9645f5d3dca:1785991751444-150af4ce-166c-46a6-bee3-9a3dcf661882.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991751444-150af4ce-166c-46a6-bee3-9a3dcf661882-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs213",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS213",
+      "slug": "hcs213",
+      "sort_order": 0,
+      "summary": {
+        "en": "\nCombining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "\n融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。\n\n"
+      },
+      "updated_at": "2026-08-06 07:18:04"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 235,
+      "name": {
+        "en": "HCS214",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "ffac2e551ca653742ad16bf24e0f6b9f140959e75bf004e1b5cb3bbf130ed0e0:1785991902093-40ab2cf6-c963-4b18-b0e4-06a76e8b7cb7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785991902093-40ab2cf6-c963-4b18-b0e4-06a76e8b7cb7-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs214",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS214",
+      "slug": "hcs214",
+      "sort_order": 0,
+      "summary": {
+        "en": "\nCombining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "\n融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。\n\n"
+      },
+      "updated_at": "2026-08-06 07:19:57"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 236,
+      "name": {
+        "en": "HCS215",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "d151b5a1d05626ed04bd9beae82fb1a59d2d6ad5fcad143c6738f44b792082df:1785992014117-83ad070e-a69c-4578-84de-f3a231ab437a.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785992014117-83ad070e-a69c-4578-84de-f3a231ab437a-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs215",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS215",
+      "slug": "hcs215",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:20:58"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 237,
+      "name": {
+        "en": "HCS216",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "e399dbef094cbb497057b1367999bdc7284fd0b89cfc9815ec5911932e6865a5:1785992104667-2147f59c-c9e5-4203-bdd5-4fdc361b197e.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785992104667-2147f59c-c9e5-4203-bdd5-4fdc361b197e-display.webp",
+        "sort_order": 8
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs216",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS216",
+      "slug": "hcs216",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:23:04"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 238,
+      "name": {
+        "en": "HCS217",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "c3535737c3419d250119e4f243f2ccfca4fb2801f73135eab64309248ecc9f29:1785992220688-4001be61-7e24-4cc9-96fa-fb42f10240a2.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785992220688-4001be61-7e24-4cc9-96fa-fb42f10240a2-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs217",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS217",
+      "slug": "hcs217",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:24:09"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 239,
+      "name": {
+        "en": "HCS218",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "38bec86295e2d5c7b7ae5a0e1af5c6adc05ea4efee48ddfa0b3c50a9630d72ab:1785992309938-c3148b42-74cf-4430-9c8a-5aaac9dc64b3.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785992309938-c3148b42-74cf-4430-9c8a-5aaac9dc64b3-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs218",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS218",
+      "slug": "hcs218",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:26:03"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 240,
+      "name": {
+        "en": "HCS219",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "162ea8c8fb3085d0298d4cef4dcf958a974a86155397bb04af59b20faf01cebc:1785992385673-0535d6aa-fa5e-4126-88c8-e5e013715ee6.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785992385673-0535d6aa-fa5e-4126-88c8-e5e013715ee6-display.webp",
+        "sort_order": 5
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs219",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS219",
+      "slug": "hcs219",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:27:52"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 241,
+      "name": {
+        "en": "HCS220",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "a68ff6c0bdaae1dcb31c819cf3e2a0b638eee518e2c6c1d6055954cbdbf771ef:1785992531870-d98b144e-5ce5-4960-9818-a0e6ca79f300.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785992531870-d98b144e-5ce5-4960-9818-a0e6ca79f300-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs220",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS220",
+      "slug": "hcs220",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:29:18"
+    },
+    {
+      "category_slug": "sofas-sectionals",
+      "featured": false,
+      "id": 242,
+      "name": {
+        "en": "HCS221",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "99edd2a29abf956de99909515a3f062385e238f7be20f206983b53dc699b532f:1785992637283-d45f6b97-97f8-4f0e-9e0e-2439321289b7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785992637283-d45f6b97-97f8-4f0e-9e0e-2439321289b7-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs221",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS221",
+      "slug": "hcs221",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern aesthetics, our sofa collection delivers stylish, practical seating solutions for elegant and relaxing spaces.",
+        "zh": "融合舒适体验与现代美学设计，打造兼具品质感与实用性的沙发组合，为不同空间提供优雅舒适的休闲体验。"
+      },
+      "updated_at": "2026-08-06 07:31:23"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 265,
+      "name": {
+        "en": "HCD201",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCD201",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "564c03d97e089150359048c88252a7ce9052aad2f89904714c338109281b849c:1785980871746-479b286a-b0f3-4f5a-ad86-edc17521d057.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785980871746-479b286a-b0f3-4f5a-ad86-edc17521d057-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd201",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD201",
+      "slug": "hcd201",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:23:22"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 266,
+      "name": {
+        "en": "HCD201B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCD201",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "a78f81fff654430706794aee5ac3b42fe857ac879624c1d0edcc19b8a693ef02:1785980871825-d9c17d1f-fce6-4ad7-8a4a-c7a6f69e62fc.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785980871825-d9c17d1f-fce6-4ad7-8a4a-c7a6f69e62fc-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd201b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD201B",
+      "slug": "hcd201b",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:23:22"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 267,
+      "name": {
+        "en": "HCD201C",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "3a1ff858cbe1b2d309f0379fa5f05b7fb736604948b08369d061b865435c8032:1786094360491-609e9243-5c6f-4420-918a-1da91dbf1d42.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786094360491-609e9243-5c6f-4420-918a-1da91dbf1d42-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd201c",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD201C",
+      "slug": "hcd201c",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:19:40"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 268,
+      "name": {
+        "en": "HCD202",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "93882e80bb366abff5e7ed97581b783106e674a969a849b763b555aed260bd9f:1786094531587-1292c80f-303a-4d38-aad6-454d01f4c407.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786094531587-1292c80f-303a-4d38-aad6-454d01f4c407-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd202",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD202",
+      "slug": "hcd202",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:22:52"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 269,
+      "name": {
+        "en": "HCD204A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "2c6c3910734f45420962461e37a0a621d12578f776f6d09a9818185c7d32bc13:1786094723924-35c2bce3-1a5f-4bb9-a922-f60a55194d86.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786094723924-35c2bce3-1a5f-4bb9-a922-f60a55194d86-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd204a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD204A",
+      "slug": "hcd204a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:25:31"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 270,
+      "name": {
+        "en": "HCD204B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "2f27aa1ab425db91da7d56f1e584f7cf3fa0f6b644a98e5e77f22d634d712325:1786095176876-714c1a45-cb52-4817-b5f2-d4fecd53c2e5.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786095176876-714c1a45-cb52-4817-b5f2-d4fecd53c2e5-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd204b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD204B",
+      "slug": "hcd204b",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:33:06"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 271,
+      "name": {
+        "en": "HCD206",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "b22feb0378e77fb182a6be13968f3facf871604cf30c18747d436cec69409ddf:1786095280118-ca766be5-bca9-474a-8277-84b9373b6956.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786095280118-ca766be5-bca9-474a-8277-84b9373b6956-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd206",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD206",
+      "slug": "hcd206",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:34:45"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 272,
+      "name": {
+        "en": "HCD207",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "a86b281089c4151a7479de746f4f5ddd40c1eb13db9ed186498facbd35a1e850:1786095386061-75f219ef-da74-4daf-bbf8-380c34cc2dd7.png",
+        "public_url": "/ness-furniture-site/media/derived/1786095386061-75f219ef-da74-4daf-bbf8-380c34cc2dd7-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd207",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD207",
+      "slug": "hcd207",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:36:32"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 273,
+      "name": {
+        "en": "HCD208A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "084c0d223b944702679ba1208bb248dc7a7c19fc793fd3caa6733a0f31afd1e5:1786095540398-38afd167-f442-4fde-877c-6f01883a9bfb.png",
+        "public_url": "/ness-furniture-site/media/derived/1786095540398-38afd167-f442-4fde-877c-6f01883a9bfb-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd208a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD208A",
+      "slug": "hcd208a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:39:03"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 274,
+      "name": {
+        "en": "HCD208B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "1ee5fe007658ebae266aa0a87c18580ea02bec87020be45ca5b4f9415ad41561:1786095606416-a963c523-5222-4147-9116-01cd2325e10f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786095606416-a963c523-5222-4147-9116-01cd2325e10f-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd208b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD208B",
+      "slug": "hcd208b",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:40:10"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 275,
+      "name": {
+        "en": "HCD209",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "7e4f170398c202d78426d90958f9f726c6d7522addb77a779eb03d14b34612ba:1786095789782-2f7992bd-fc88-4f0d-98ed-f6d28e05f9c5.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786095789782-2f7992bd-fc88-4f0d-98ed-f6d28e05f9c5-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd209",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD209",
+      "slug": "hcd209",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:43:24"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 276,
+      "name": {
+        "en": "HCD211A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "740139423fdd60628ce07ea1b6316c5ad8eb27cb14d75c19987cba2d94a256e9:1786095945900-9e60d6a9-ef44-4a21-817b-dfc925228a50.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786095945900-9e60d6a9-ef44-4a21-817b-dfc925228a50-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd211a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD211A",
+      "slug": "hcd211a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:45:53"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 277,
+      "name": {
+        "en": "HCD211B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "84d09c8b8be657cc2918a38b893c9c2ce734c2c8933f1fe1ef12c21a208d417a:1786096247778-63dffa89-4a24-44e2-9cc4-1c180af49394.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786096247778-63dffa89-4a24-44e2-9cc4-1c180af49394-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd211b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD211B",
+      "slug": "hcd211b",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:50:52"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 278,
+      "name": {
+        "en": "HCD213A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "4764e600a6bb74f017ec11d151a4bd50f342fca0c511fc5229baa3c789acb2c8:1786096473771-cb2ffbb0-211c-4744-9643-cf9b3c35a9c8.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786096473771-cb2ffbb0-211c-4744-9643-cf9b3c35a9c8-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd213a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD213A",
+      "slug": "hcd213a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:54:39"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 279,
+      "name": {
+        "en": "HCD213B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "e8e605830a814adc13fda3bc584154edc13e8085d844e0f1ff14b280d8c3ae95:1786096620141-7759d080-cefc-43d4-a259-3b8ff3f303f1.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786096620141-7759d080-cefc-43d4-a259-3b8ff3f303f1-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd213b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD213B",
+      "slug": "hcd213b",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:57:10"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 280,
+      "name": {
+        "en": "HCD215",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "84f7205bd81ef5e84e65201b4b5670ea7e78dea957537d758bad4cda994e51ee:1786096757132-1b50ce18-61cf-4e5f-9d4d-4910834322c6.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786096757132-1b50ce18-61cf-4e5f-9d4d-4910834322c6-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd215",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD215",
+      "slug": "hcd215",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 09:59:31"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 281,
+      "name": {
+        "en": "HCD216A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6435df5cc0ec5722502fdc4188a08a87c3bdc9046e3746a695a02b813305c9c7:1786096870158-868958b5-2424-4a0d-b936-007212dd47a2.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786096870158-868958b5-2424-4a0d-b936-007212dd47a2-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd216a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD216A",
+      "slug": "hcd216a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:01:14"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 282,
+      "name": {
+        "en": "HCD225A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "e43482b0d0b4159d3ac5880180c7a59aa7960a3ed740db9437f8b9e45afb7121:1786097003174-3aae724c-b94d-400f-941a-63c48fdce3da.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786097003174-3aae724c-b94d-400f-941a-63c48fdce3da-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd225a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD225A",
+      "slug": "hcd225a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:03:48"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 283,
+      "name": {
+        "en": "HCD225B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "cb0ac6e7bc6d5a3d13faa5f6c2bc39a5701105c56a3231f052858ca2feac588b:1786097082794-5a4241e5-180b-403a-ade9-47312a98b4c1.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786097082794-5a4241e5-180b-403a-ade9-47312a98b4c1-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd225b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD225B",
+      "slug": "hcd225b",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:04:46"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 284,
+      "name": {
+        "en": "HCD221",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8ef5880c60035693d92131d056541ada56d940678db4fccb17a66e5787793db6:1786097158438-3a9e4b3d-4bbe-4ff9-8461-0549a6a7269d.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786097158438-3a9e4b3d-4bbe-4ff9-8461-0549a6a7269d-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd221",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD221",
+      "slug": "hcd221",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:06:29"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 285,
+      "name": {
+        "en": "HCD223",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "0f0bc13be964d966f77b919bb76d0b188e26f6d04fce0df05d2e3b0fa5c85a00:1786097267427-d6989e6b-a265-43d1-977e-70b5ea588a8f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786097267427-d6989e6b-a265-43d1-977e-70b5ea588a8f-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd223",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD223",
+      "slug": "hcd223",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:07:51"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 286,
+      "name": {
+        "en": "HCD226",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "83c5f475e41bfcabd81c9156751eb25199f6dea0be4f004d0f0ded1a1b49b4ab:1786097376968-8ae5eb8a-83c9-4290-82f5-9542843ad64a.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786097376968-8ae5eb8a-83c9-4290-82f5-9542843ad64a-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd226",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD226",
+      "slug": "hcd226",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:09:48"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 287,
+      "name": {
+        "en": "HCD229",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "9d1363e645e08d1c7d761eaa08a02319b31bf90cedd27347415efbf18d5aad1e:1786097508136-bef1d381-7eca-4b55-913d-37542fc54da0.png",
+        "public_url": "/ness-furniture-site/media/derived/1786097508136-bef1d381-7eca-4b55-913d-37542fc54da0-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd227",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD229",
+      "slug": "hcd227",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:11:51"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 288,
+      "name": {
+        "en": "HCD230",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "57c9cb207519f060fea60d58a2f5213f56ba3b2d34f3ae4e595e82f90f00c51c:1786097575975-08f8d3f3-8ae7-4ad9-b27e-9acbba0e650b.png",
+        "public_url": "/ness-furniture-site/media/derived/1786097575975-08f8d3f3-8ae7-4ad9-b27e-9acbba0e650b-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd230",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD230",
+      "slug": "hcd230",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:13:01"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 289,
+      "name": {
+        "en": "HCD231",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "98102fac9e81fbe17a975b562a57552e6b230145bb5fabe252d5b665b09f80fa:1786097644626-9e7e9410-1116-45b2-8f4e-60a97f670633.png",
+        "public_url": "/ness-furniture-site/media/derived/1786097644626-9e7e9410-1116-45b2-8f4e-60a97f670633-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd231",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD231",
+      "slug": "hcd231",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:14:07"
+    },
+    {
+      "category_slug": "dining-tables",
+      "featured": false,
+      "id": 290,
+      "name": {
+        "en": "HCD232",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "3d487d0e0aee06a67506e50bf31b98ae16c099a04a2025eb6c598026e110b4db:1786097718164-67a2cf29-237c-4a0a-af62-f831e65e30fb.png",
+        "public_url": "/ness-furniture-site/media/derived/1786097718164-67a2cf29-237c-4a0a-af62-f831e65e30fb-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd232",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD232",
+      "slug": "hcd232",
+      "sort_order": 0,
+      "summary": {
+        "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-07 10:15:21"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 291,
+      "name": {
+        "en": "HCT201",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCT201",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "3eb6f5871fef64c120b75ab48cb93e4e5723200ca261becbbe793c8e698f56f6:1785981144186-544c1459-d617-42c3-aff7-f3faa4c3730f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785981144186-544c1459-d617-42c3-aff7-f3faa4c3730f-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct201-1",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT201",
+      "slug": "hct201-1",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 06:20:20"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 292,
+      "name": {
+        "en": "HCT212",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "ab252fc87b94570d6dddd1d782c9e7d0de97a1007dde20b14f1d53505a24a5d2:1786173054327-ad873292-59ac-4f00-8634-06376dad3023.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786173054327-ad873292-59ac-4f00-8634-06376dad3023-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct212",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT212",
+      "slug": "hct212",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:11:34"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 293,
+      "name": {
+        "en": "HCT213",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "22b0aa2f1604366012e6576b93fcf2136d6b04b8263fadc74f4ec32deefffdb4:1786172055581-d3a6dde3-eafc-4bcd-8b1e-870b37ec30b7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786172055581-d3a6dde3-eafc-4bcd-8b1e-870b37ec30b7-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct213",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT213",
+      "slug": "hct213",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:08:57"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 294,
+      "name": {
+        "en": "HCT215",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "aac74c7a8839f812f1d8a3d8f1573b15f5c3810f16e99f05707929179f75d36b:1786173219780-df3094ee-4474-4cf7-b9ef-4d4d7f4579c7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786173219780-df3094ee-4474-4cf7-b9ef-4d4d7f4579c7-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct215",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT215",
+      "slug": "hct215",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:13:47"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 295,
+      "name": {
+        "en": "HCT216A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5510456abc312485bf6e046d564f3389ab6f61587e9b602e18fe60ad1af1a92e:1786173400751-1c98cc2c-db38-4c7e-a9d7-04f7c28c5ad9.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786173400751-1c98cc2c-db38-4c7e-a9d7-04f7c28c5ad9-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct216a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT216A",
+      "slug": "hct216a",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:16:51"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 296,
+      "name": {
+        "en": "HCT216B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "2fbd9ceb5ff43fe60b9cad8653931b0c827a89aba7c4d923e8431165912d3794:1786173525506-3876fa84-0de7-40e1-9a90-05f9b321c249.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786173525506-3876fa84-0de7-40e1-9a90-05f9b321c249-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct216b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT216B",
+      "slug": "hct216b",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:18:56"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 297,
+      "name": {
+        "en": "HCT219",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "23956b68b6c194c1c136f0b7dc7f23af2800351a9780eff1d6b8c07fbfe5766b:1786173630532-13daf6fb-d25d-4da5-8fa2-6a4d8c9c5c80.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786173630532-13daf6fb-d25d-4da5-8fa2-6a4d8c9c5c80-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct219",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT219",
+      "slug": "hct219",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:20:34"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 298,
+      "name": {
+        "en": "HCT220",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6d8bb529dd61bdbadf80576dcfef4efdc042655a46ed78602e069819e0103bf5:1786173729182-16b603c3-a560-44a8-965b-1c0c1174a7e8.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786173729182-16b603c3-a560-44a8-965b-1c0c1174a7e8-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct220",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT220",
+      "slug": "hct220",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:22:29"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 299,
+      "name": {
+        "en": "HCT223",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "39aaf992a1b21f904d0121fd5f0d111a31fc55b4562a4c3e13cbe9e1fc91e7d2:1786173898220-431e60d1-60df-4fef-b39b-4e4948bf23f6.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786173898220-431e60d1-60df-4fef-b39b-4e4948bf23f6-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct223",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT223",
+      "slug": "hct223",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:25:05"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 300,
+      "name": {
+        "en": "HCT224",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "0a199633bfd6f85e12c9b7f0c200585cfc1b0642545eb06f2d554dd5ff65efe7:1786174025464-992ae979-8e0b-4750-89ee-3f50067cb699.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174025464-992ae979-8e0b-4750-89ee-3f50067cb699-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct224",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT224",
+      "slug": "hct224",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:27:11"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 301,
+      "name": {
+        "en": "HCT225",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "3826f7e8d03fd46cfcf52aa6c811e898e83b4608d0dce377801fbb1e892607a2:1786174159503-b18cc818-15b0-4bbd-b151-a54b3e727114.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174159503-b18cc818-15b0-4bbd-b151-a54b3e727114-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct225",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT225",
+      "slug": "hct225",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:29:30"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 302,
+      "name": {
+        "en": "HCT226",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "348190ef1992ef9acb253c9756a41221b41af9b4eaef5020f4362ca834198f20:1786174250478-d8d19a9c-5e67-4276-83e7-42a5abf5fb2a.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174250478-d8d19a9c-5e67-4276-83e7-42a5abf5fb2a-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct226",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT226",
+      "slug": "hct226",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:31:13"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 303,
+      "name": {
+        "en": "HCT229",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "226b9a005182430ab402fb0f51b611c020b98b457c9d6581d84b6b738e6452d0:1786174372698-35d53856-5672-45dd-b30b-69ce4da9d8f6.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174372698-35d53856-5672-45dd-b30b-69ce4da9d8f6-display.webp",
+        "sort_order": 5
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct229",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT229",
+      "slug": "hct229",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:33:00"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 304,
+      "name": {
+        "en": "HCT234",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "0e9687ae6a3789f9b87a9ff3a9dcae80c2448c2fa47c709611652a4230b6f62a:1786174455448-a31bc693-466d-486d-b5f5-7a39ce6d9b8f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174455448-a31bc693-466d-486d-b5f5-7a39ce6d9b8f-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct234",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT234",
+      "slug": "hct234",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:34:30"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 305,
+      "name": {
+        "en": "HCT236",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6c97b4187869eb0e8475d04b2028c397af45feaa100cd9e1675de73dff50d281:1786174537067-24047063-2ae2-423c-b28e-e14ffd580949.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174537067-24047063-2ae2-423c-b28e-e14ffd580949-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct236",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT236",
+      "slug": "hct236",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:36:49"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 306,
+      "name": {
+        "en": "HCT237",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "430e82b4acd8602d349d71011963e91da97613068a185a8d27b8629dfc8e1e01:1786174689477-54ad3a20-678d-4c99-a2b2-061a06fb7549.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174689477-54ad3a20-678d-4c99-a2b2-061a06fb7549-display.webp",
+        "sort_order": 4
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct237",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT237",
+      "slug": "hct237",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:38:19"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 307,
+      "name": {
+        "en": "HCT238",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "20d7c3dffdf2521f2de3a2645e8705c89394e98c1495002020bb5585c97b23d4:1786174792999-35fedbeb-062f-43ca-a1af-db23a2d2f801.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174792999-35fedbeb-062f-43ca-a1af-db23a2d2f801-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct238",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT238",
+      "slug": "hct238",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:39:59"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 308,
+      "name": {
+        "en": "HCT242",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "70ecd244631e77b6366ecd38dd15531b17fd9708f0dd8445693c13e3f0787614:1786174888603-f04949ad-e6ad-41f2-8ef0-54ce98c30c12.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174888603-f04949ad-e6ad-41f2-8ef0-54ce98c30c12-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct242",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT242",
+      "slug": "hct242",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:42:11"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 309,
+      "name": {
+        "en": "HCT243",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "4ea027745c5cb9e4283739731c95691ddf2ecfe7dee73e8ecf2c7302d2c50b81:1786174998921-09753848-30ca-43b1-bd1a-e3ea04a6e923.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786174998921-09753848-30ca-43b1-bd1a-e3ea04a6e923-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct243",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT243",
+      "slug": "hct243",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:43:34"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 310,
+      "name": {
+        "en": "HCT244",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "2c3ac53057aa9e664c074c8f97d244948a1f43e89dad4c1c0c326e0b224d8f2e:1786175107069-05b681bd-5abc-4026-9ed8-c0820d50c852.png",
+        "public_url": "/ness-furniture-site/media/derived/1786175107069-05b681bd-5abc-4026-9ed8-c0820d50c852-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct244",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT244",
+      "slug": "hct244",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:45:22"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 311,
+      "name": {
+        "en": "HCT245",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "e16b00a11840d0daee88cc6a34d2f163ac2d17bb5ccd0b3f272fa7dddcfd74f6:1786175244144-b7c1485f-ceff-4c67-8243-ffcb5e3867c2.png",
+        "public_url": "/ness-furniture-site/media/derived/1786175244144-b7c1485f-ceff-4c67-8243-ffcb5e3867c2-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct245",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT245",
+      "slug": "hct245",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:48:18"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 312,
+      "name": {
+        "en": "HCT255",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "0d2a8e4aae62c3a41d00e487748ef6ee9d4af1c463963ec67c21e29585d5bc92:1786175389541-d80090db-1d32-4df2-8db4-9578e62a454b.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786175389541-d80090db-1d32-4df2-8db4-9578e62a454b-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct255",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT255",
+      "slug": "hct255",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:50:09"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 313,
+      "name": {
+        "en": "HCT256",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5872aa796c8150a16f745206ecd797eb23aa4a278008438a69a5849a41750f53:1786175490338-6f5f9f2f-bb4a-447b-a86f-46ad77adf9ee.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786175490338-6f5f9f2f-bb4a-447b-a86f-46ad77adf9ee-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct256",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT256",
+      "slug": "hct256",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:51:58"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 314,
+      "name": {
+        "en": "HCT257",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "200e93036a24fdb5af358736c200a4757df378713098dc150ba0def99e91b2ed:1786175610801-84f5ddb1-29ac-4a5c-9c80-b88dc636d688.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786175610801-84f5ddb1-29ac-4a5c-9c80-b88dc636d688-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct257",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT257",
+      "slug": "hct257",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:53:45"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 315,
+      "name": {
+        "en": "HCT258",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8aa399eb533b4a8b1c5d18d77da133daa228c1db204757f92cbd99f817f7a36d:1786175703745-73d6e010-09f5-404f-859b-d6732e3ae9fc.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786175703745-73d6e010-09f5-404f-859b-d6732e3ae9fc-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct258",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT258",
+      "slug": "hct258",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:55:12"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 316,
+      "name": {
+        "en": "HCT259",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "1f1a967f28dcbc229c1c0fcca87c37979ad787dbcdee7eacf07429fb21620662:1786175793236-486a9b77-b141-4414-9888-60a1dfef31b2.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786175793236-486a9b77-b141-4414-9888-60a1dfef31b2-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct259",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT259",
+      "slug": "hct259",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:56:44"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 317,
+      "name": {
+        "en": "HCT268",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "c59cb303a3416fe52fb4463bf3290b3854023d37a7ca0a584c4e37e5244b3165:1786175879294-31dfee93-c342-42c1-b656-e1d1281339db.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786175879294-31dfee93-c342-42c1-b656-e1d1281339db-display.webp",
+        "sort_order": 8
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct268",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT268",
+      "slug": "hct268",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:58:14"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 318,
+      "name": {
+        "en": "HCT269",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "e97b009f27f24055b3f0d5cc169b1acaf56e25eb29a524a8673aac7e06ecfcfc:1786175980801-9b77b01f-70e1-42d6-82b0-1771d0220daf.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786175980801-9b77b01f-70e1-42d6-82b0-1771d0220daf-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct269",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT269",
+      "slug": "hct269",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 07:59:46"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 319,
+      "name": {
+        "en": "HCT271",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6ecbd5871995b31698fd8707265166147551916b54cd526637e125f46a755d05:1786176060226-8b3de989-b7c7-4fd4-bd95-3aed890ebe41.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786176060226-8b3de989-b7c7-4fd4-bd95-3aed890ebe41-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct271",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT271",
+      "slug": "hct271",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:01:08"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 320,
+      "name": {
+        "en": "HCT272",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "13c6fbf144d3be343188ff1bd16128e3d8069811bd059c9a10c666a92e93da36:1786176118849-1f6e22b0-45be-4716-b512-30689b4ae962.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786176118849-1f6e22b0-45be-4716-b512-30689b4ae962-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct272",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT272",
+      "slug": "hct272",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:02:12"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 321,
+      "name": {
+        "en": "HCT275",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8f824eeb5709f3a58ca8b14f5e13ca2b3c57622f27be73962652850e2ed08763:1786176193444-a403a0ae-a236-4fee-8d36-012b22f0a0d7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786176193444-a403a0ae-a236-4fee-8d36-012b22f0a0d7-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct275",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT275",
+      "slug": "hct275",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:03:24"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 322,
+      "name": {
+        "en": "HCT203",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "079eeb57e7dba0a81a97c41f6cc1896eb3532b1ecbc6f09bc9325a96bdf4ef39:1786176283666-395b6e6d-fc6d-404b-88e5-cdc291492956.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786176283666-395b6e6d-fc6d-404b-88e5-cdc291492956-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct203",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT203",
+      "slug": "hct203",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:04:57"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 323,
+      "name": {
+        "en": "HCT277",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "31c8da4892e0e3da8f7bdf96794356476468c41284e88256571c54fd52b069c6:1786176342815-f47c21b7-508b-4a3c-aff6-ec0946fa0dec.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176342815-f47c21b7-508b-4a3c-aff6-ec0946fa0dec-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct277",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT277",
+      "slug": "hct277",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:05:56"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 324,
+      "name": {
+        "en": "HCT278",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "21456b0ef329fa76bc36d1bac131c9dea35c88848a1dc224860d5b0840bc4795:1786176421550-7bfb335b-929e-43fe-a611-62bd35c5703a.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176421550-7bfb335b-929e-43fe-a611-62bd35c5703a-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct278",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT278",
+      "slug": "hct278",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:07:11"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 325,
+      "name": {
+        "en": "HCT279",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "c581f523513bc5804d140e7ae054a9b650c463def1f1c1cabb4b46c7c0ba7681:1786176526173-7f12a073-c067-4ea0-b723-841ad3433a31.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176526173-7f12a073-c067-4ea0-b723-841ad3433a31-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct279",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT279",
+      "slug": "hct279",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:08:49"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 326,
+      "name": {
+        "en": "HCT280",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "0e50c3cb79a8fec0bef16448eb4a8c1a4af09e38287e08bfadc9a0bcc5b435ce:1786176591944-a3167bc5-2850-4402-b826-ff16062c68d7.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176591944-a3167bc5-2850-4402-b826-ff16062c68d7-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct280",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT280",
+      "slug": "hct280",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:09:55"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 327,
+      "name": {
+        "en": "HCT281",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "97384498e938305dc033648cc2ef05103f1164a82218d4ad971f928ee4bd83d0:1786176673441-5fd4e973-a8eb-42ee-9d86-8b42d4046255.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176673441-5fd4e973-a8eb-42ee-9d86-8b42d4046255-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct281",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT281",
+      "slug": "hct281",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:11:16"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 328,
+      "name": {
+        "en": "HCT282",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "a34117a254cd673f305e79b47730456dc603a14879dce0afa429e6909cae7e26:1786176735845-99b20bbd-a13c-4557-88cb-76c6e80ffa70.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176735845-99b20bbd-a13c-4557-88cb-76c6e80ffa70-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct282",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT282",
+      "slug": "hct282",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:12:19"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 329,
+      "name": {
+        "en": "HCT283",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "328beb9c361d6a1d4f88fae54708de8868b09f3b74a895c6ea47bf265f2a3d86:1786176855419-7cdcf6d5-9273-42b3-bd04-d4543621c150.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176855419-7cdcf6d5-9273-42b3-bd04-d4543621c150-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct283",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT283",
+      "slug": "hct283",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:14:21"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 330,
+      "name": {
+        "en": "HCT284",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6a79d9c4aadf483bb7b392697d0d49b2cbfac697a644bd971dcbf5df37c86af9:1786176939442-fb328797-202c-4a26-97f3-31acac4559ce.png",
+        "public_url": "/ness-furniture-site/media/derived/1786176939442-fb328797-202c-4a26-97f3-31acac4559ce-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct284",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT284",
+      "slug": "hct284",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:15:42"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 331,
+      "name": {
+        "en": "HCT285",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "d994c3fe23254ec0a77f01f4b5710aaaa622bc300fc42298aecaff6a487b690d:1786177021427-234aa965-0778-4ae6-9f21-c9477e944523.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177021427-234aa965-0778-4ae6-9f21-c9477e944523-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct285",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT285",
+      "slug": "hct285",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:17:06"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 332,
+      "name": {
+        "en": "HCT286",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "7105f15d273de3adbe3c0968a79386f7e9d73908d89170e9a0279ca619b16868:1786177067897-6727860c-b2a3-4cd6-bcb6-1ccd5c8bebe3.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177067897-6727860c-b2a3-4cd6-bcb6-1ccd5c8bebe3-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct286",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT286",
+      "slug": "hct286",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:17:52"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 333,
+      "name": {
+        "en": "HCT287",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5ffd14e9b2238d12e13e6060ae1b9a76795df0040ec91540b0b6f5b02cda7287:1786177134506-d8a9def9-bcda-42a0-89b0-8991ec1827c3.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177134506-d8a9def9-bcda-42a0-89b0-8991ec1827c3-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct287",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT287",
+      "slug": "hct287",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:18:58"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 334,
+      "name": {
+        "en": "HCT288",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "61e3896cf14723f6d017597ec90776cf391fa5f005c298ddf89fd12f36e4e6f4:1786177186183-dd1ee463-b677-42a7-a72a-d01881ac7324.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177186183-dd1ee463-b677-42a7-a72a-d01881ac7324-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct288",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT288",
+      "slug": "hct288",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:21:47"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 335,
+      "name": {
+        "en": "HCT289",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCT288",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "bba7981cdec0baf1e623b50934f83ea02ac16e8deeebb4a19ded9db44e1c2720:1786177186274-a89a8138-1824-498e-8111-8c7654f53e6d.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786177186274-a89a8138-1824-498e-8111-8c7654f53e6d-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct289",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT289",
+      "slug": "hct289",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:43:16"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 336,
+      "name": {
+        "en": "HCT290",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "f6615f0ebdf3053ecaa5a7be5aec8e40163e8b44fe80daf6c7d10d249629f973:1786177410592-08766e72-aa01-4f7e-8fe0-06a542882c06.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786177410592-08766e72-aa01-4f7e-8fe0-06a542882c06-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct290",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT290",
+      "slug": "hct290",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:23:35"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 337,
+      "name": {
+        "en": "HCT292",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "38cc767347350cadac66032107c433c37a79486cb08a1e88942a7c5711a79f1e:1786177499869-f878d808-3119-48a3-8ce5-680b60f4ddd5.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177499869-f878d808-3119-48a3-8ce5-680b60f4ddd5-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct292",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT292",
+      "slug": "hct292",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:25:07"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 338,
+      "name": {
+        "en": "HCT293",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "f103d97161c46eff67fbf97042fac1fabc79ae2bc849d51b102ee4fd67248cb4:1786177569352-307d2b2e-9918-48db-8eac-00374eaae65b.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177569352-307d2b2e-9918-48db-8eac-00374eaae65b-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct293",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT293",
+      "slug": "hct293",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:26:26"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 339,
+      "name": {
+        "en": "HCT294",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "c82a9c6b90920122807e9a657f9c1dac3f26e59305bdcefe7bb86cc859f7adaa:1786177642643-8dd4c68f-e268-4940-977b-4d3fdaa05f4b.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786177642643-8dd4c68f-e268-4940-977b-4d3fdaa05f4b-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct294",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT294",
+      "slug": "hct294",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:27:25"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 340,
+      "name": {
+        "en": "HCT295",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "49db730e28a131716c2350ff914fe0a92cdd1aacbf8c7593f6f44745e3b71f26:1786177705284-483064cb-30e8-4ad8-8a56-abcbf41d1ba3.jpeg",
+        "public_url": "/ness-furniture-site/media/derived/1786177705284-483064cb-30e8-4ad8-8a56-abcbf41d1ba3-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct295",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT295",
+      "slug": "hct295",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:28:29"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 341,
+      "name": {
+        "en": "HCT296",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5cb5ba00b93a5127ff63f548744920ca457bdc2700deb29f0acc906e4dd1414e:1786177757762-0b1680f3-32e0-403e-95c7-1d1cbc46861a.jpeg",
+        "public_url": "/ness-furniture-site/media/derived/1786177757762-0b1680f3-32e0-403e-95c7-1d1cbc46861a-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct296",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT296",
+      "slug": "hct296",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:29:23"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 342,
+      "name": {
+        "en": "HCT297",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "f7c801e4d51ff627a731b05ad2c284baffe52136cbeedbad19d1979dd188c9b3:1786177854680-e1713123-5d63-4905-b271-fc41102e95e8.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177854680-e1713123-5d63-4905-b271-fc41102e95e8-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct297",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT297",
+      "slug": "hct297",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:31:02"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 343,
+      "name": {
+        "en": "HCT298",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "fcc728e7a74e8b9b32c28841d87669cd4a10bf764b7ce9d42f7c3209f8e00dc7:1786177936993-c093c13d-253c-49d5-bf18-a6c386c1b0a0.png",
+        "public_url": "/ness-furniture-site/media/derived/1786177936993-c093c13d-253c-49d5-bf18-a6c386c1b0a0-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct298",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT298",
+      "slug": "hct298",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:33:14"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 344,
+      "name": {
+        "en": "HCT300",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "1ae1eb59924fa32b0b34b4b1ae8277b66b4410bd653c30bdfafd4779d02e1fce:1786178075720-5c1e6b72-4419-4b5c-acc9-9dd98c110ede.png",
+        "public_url": "/ness-furniture-site/media/derived/1786178075720-5c1e6b72-4419-4b5c-acc9-9dd98c110ede-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct300",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT300",
+      "slug": "hct300",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:34:40"
+    },
+    {
+      "category_slug": "coffee-side-tables",
+      "featured": false,
+      "id": 345,
+      "name": {
+        "en": "HCT301",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5a0e257613b05fa74f1c74bbe49be1a98ed3e85a275f392c57f7a4eded803322:1786178166211-b2c19fcf-cfce-48c7-b121-c1f09b03cdb9.png",
+        "public_url": "/ness-furniture-site/media/derived/1786178166211-b2c19fcf-cfce-48c7-b121-c1f09b03cdb9-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hct301",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCT301",
+      "slug": "hct301",
+      "sort_order": 0,
+      "summary": {
+        "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:36:11"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 346,
+      "name": {
+        "en": "HCD-C201",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCD-C201",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "648e4d56eb90794705d399c1ee7e67a6436553ae86078842daa1ccfaa7fbce93:1785925059665-22541dc0-4639-402c-a003-77999ed877ac.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785925059665-22541dc0-4639-402c-a003-77999ed877ac-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c201a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C201A",
+      "slug": "hcd-c201a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:46:19"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 347,
+      "name": {
+        "en": "HCD-C202",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCD202",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "93882e80bb366abff5e7ed97581b783106e674a969a849b763b555aed260bd9f:1786094531587-1292c80f-303a-4d38-aad6-454d01f4c407.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786094531587-1292c80f-303a-4d38-aad6-454d01f4c407-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c202",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C202",
+      "slug": "hcd-c202",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:48:27"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 348,
+      "name": {
+        "en": "HCD-C203",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "db1c39eed66e56c13490c5b352ccf34016cf1d651766afba799b68381f85a3f9:1786178982744-6fb3803b-ded1-4950-9d78-b402d3c65824.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786178982744-6fb3803b-ded1-4950-9d78-b402d3c65824-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c203",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C203",
+      "slug": "hcd-c203",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:50:15"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 349,
+      "name": {
+        "en": "HCD-C204",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "725edfae5d9457f6a3147c5a1312d7da8d35f94e24db83f806bd6cd1f471ce10:1786179101188-5aea51bc-80b8-46ca-83a4-6c2bd28d8515.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786179101188-5aea51bc-80b8-46ca-83a4-6c2bd28d8515-display.webp",
+        "sort_order": 7
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c204",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C204",
+      "slug": "hcd-c204",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:52:05"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 350,
+      "name": {
+        "en": "HCD-C205",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "bb36e212dda30f43261b477657127723396226a773d3b87c4f34f7c5110108c4:1786179218168-d6604ad3-f485-435b-8746-4a4753089a8e.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786179218168-d6604ad3-f485-435b-8746-4a4753089a8e-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c205",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C205",
+      "slug": "hcd-c205",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:53:50"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 351,
+      "name": {
+        "en": "HCD-C206",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "820c4895d3739970b435c85d3766696697c1615cc3685986f8c027846d96da1f:1786179330239-2f6f01db-c944-41d3-87bc-eebeb12f7c8d.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786179330239-2f6f01db-c944-41d3-87bc-eebeb12f7c8d-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c206",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C206",
+      "slug": "hcd-c206",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:55:35"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 352,
+      "name": {
+        "en": "HCD-C207",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "e622f943ad278c8db86c892bce51d256738049d2958abc0e4867e6fc9cd96e7c:1786179438717-1769756b-8e2c-446b-accd-e52152e0bfbd.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786179438717-1769756b-8e2c-446b-accd-e52152e0bfbd-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c207",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C207",
+      "slug": "hcd-c207",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 08:58:07"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 353,
+      "name": {
+        "en": "HCD-C208",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8bd6c54e7e01b9c7984aca38cdccf4943ad80d069f63606d03b8ecdfd8b20e72:1786179653319-6d1f8891-3fbc-4719-b88b-e40d9d68b78d.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786179653319-6d1f8891-3fbc-4719-b88b-e40d9d68b78d-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c208",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C208",
+      "slug": "hcd-c208",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:01:19"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 354,
+      "name": {
+        "en": "HCD-C209",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6d39d94dcf94186ee8ba02119f37024d82634a3c550dc35a41200cfca45e295f:1786179826419-5a39525d-7e65-47ec-9c0a-75417d26e330.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786179826419-5a39525d-7e65-47ec-9c0a-75417d26e330-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c209",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C209",
+      "slug": "hcd-c209",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:04:06"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 355,
+      "name": {
+        "en": "HCD-C210",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "3b9c37d17429ad909c20c275adb1c86f1320406ceb2cc7f3f6cfaa0dc312f825:1786179919962-67765529-97f8-4d35-95a4-645ef9336645.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786179919962-67765529-97f8-4d35-95a4-645ef9336645-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c210",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C210",
+      "slug": "hcd-c210",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:06:17"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 356,
+      "name": {
+        "en": "HCD-C211",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6992506d6ea044bc0080a02be556f9cbb9c57fac2a465b8cb7ceb1073b537b94:1786180540924-93f10f25-9dd2-491a-b89c-dfd9ab89d5c0.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786180540924-93f10f25-9dd2-491a-b89c-dfd9ab89d5c0-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c211",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C211",
+      "slug": "hcd-c211",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:15:56"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 357,
+      "name": {
+        "en": "HCD-C213",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "abad70f8073e4076150b8d23155f4659ce0e6dbb157bb57e7d226ecfad2b6cf7:1786180641960-ab07be25-5d15-41e9-b33a-da34f3bbf475.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786180641960-ab07be25-5d15-41e9-b33a-da34f3bbf475-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c213",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C213",
+      "slug": "hcd-c213",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:18:07"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 358,
+      "name": {
+        "en": "HCD-C215",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "ac7146c565f99710658278216ff3ee16dc33934df715da6fca00d32df6587ba3:1786180781898-639a07ab-f891-4637-809b-7e145f19c9df.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786180781898-639a07ab-f891-4637-809b-7e145f19c9df-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c215",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C215",
+      "slug": "hcd-c215",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:19:53"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 359,
+      "name": {
+        "en": "HCD-C217",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "255a87e3a84966eb3bcaffa9135669f03245399caa9aa8af323d7e55d631e86b:1786180868082-510fd554-473e-457c-b553-3dddaacfaaa6.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786180868082-510fd554-473e-457c-b553-3dddaacfaaa6-display.webp",
+        "sort_order": 3
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c217",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C217",
+      "slug": "hcd-c217",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:21:17"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 360,
+      "name": {
+        "en": "HCD-C218",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "aa2355258ad930bcdc0491b9e31d7d84f9eaaa6ed70cb290363d42609aace096:1786180968567-9a3c8b83-7870-4323-b82a-9f15f0f14846.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786180968567-9a3c8b83-7870-4323-b82a-9f15f0f14846-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c218",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C218",
+      "slug": "hcd-c218",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:22:59"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 361,
+      "name": {
+        "en": "HCD-C219",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5d2c9377913d1bb63d7411db4d4bc09973472971400bb3578d732f06cc9395df:1786181053603-32595ef3-40ad-4642-9331-54edc4be1f85.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181053603-32595ef3-40ad-4642-9331-54edc4be1f85-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c219",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C219",
+      "slug": "hcd-c219",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:24:21"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 362,
+      "name": {
+        "en": "HCD-C221",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8d4c79a28b0f03423a5404bb2edd101539bf7d4857556e009af5fe6a8e4cb10c:1786181134959-ceba19bb-a996-4636-abd3-84752d7ae599.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181134959-ceba19bb-a996-4636-abd3-84752d7ae599-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c221",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C221",
+      "slug": "hcd-c221",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:25:41"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 363,
+      "name": {
+        "en": "HCD-C222",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "45614d682166a5bed8eebc744013659a6d025c046b2fd6fd9de9805d136d4a0f:1786181243798-23f340c9-a2a9-40f0-86b3-2f772df2e3b4.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181243798-23f340c9-a2a9-40f0-86b3-2f772df2e3b4-display.webp",
+        "sort_order": 5
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c222",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C222",
+      "slug": "hcd-c222",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:27:34"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 364,
+      "name": {
+        "en": "HCD-C224",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "d4bcff1ef484bda6bf01df0e775148264c12fe674b5d133d32412ef23ca9410a:1786181344958-29bf5a7c-d363-42b4-9668-497d7a090925.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181344958-29bf5a7c-d363-42b4-9668-497d7a090925-display.webp",
+        "sort_order": 6
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c224",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C224",
+      "slug": "hcd-c224",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:29:28"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 365,
+      "name": {
+        "en": "HCD-C227",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "d29c9a9a273c210df5d90b6726bf3c0bb866feb084588462ab4996dd5faec762:1786181461905-f54dd46e-5fba-425c-9ab6-6320f5535fae.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181461905-f54dd46e-5fba-425c-9ab6-6320f5535fae-display.webp",
+        "sort_order": 4
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c227",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C227",
+      "slug": "hcd-c227",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:31:10"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 366,
+      "name": {
+        "en": "HCD-C230",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "63e8179df0143fd6e67d661319c8c1a51c4b06aa124fe1af412c5ea627374cf2:1786181552574-63b8863d-a85f-4f5f-9783-37adc42c5e47.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181552574-63b8863d-a85f-4f5f-9783-37adc42c5e47-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c230",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C230",
+      "slug": "hcd-c230",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:32:36"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 367,
+      "name": {
+        "en": "HCD-C235",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "f65bcf0b007eda2a19acba1443567b4ab8abb6a852eb9fc0e4d1caf4af71c938:1786181639854-9e4dd6f7-80f7-4efc-91ac-1560bc8bdfcc.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181639854-9e4dd6f7-80f7-4efc-91ac-1560bc8bdfcc-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c235",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C235",
+      "slug": "hcd-c235",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:34:06"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 368,
+      "name": {
+        "en": "HCD-C236",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "b7ba7066e59494c50a63d72a5bd0e8b57cd032182936f9124cdbfbe06c19de3a:1786181727705-f6ffbf45-4e6d-449c-a381-5b8c9dc96efc.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181727705-f6ffbf45-4e6d-449c-a381-5b8c9dc96efc-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c236",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C236",
+      "slug": "hcd-c236",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:35:38"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 369,
+      "name": {
+        "en": "HCD-C237",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "868e81ada9ee8b9ee7727d4a1dd086bf0537b0ae46c45a0d243c9735bb8f76e9:1786181814779-fb4f7386-24c3-4319-aebc-2c23187799f6.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181814779-fb4f7386-24c3-4319-aebc-2c23187799f6-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c237",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C237",
+      "slug": "hcd-c237",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:37:00"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 370,
+      "name": {
+        "en": "HCD-C238",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "a8b90f2c283ff4e1e7060ebc49bdd73db76e2a2da6ed5b94acc8e066b233de79:1786181890398-2b899a1e-4e5b-4871-b8cd-11fa7c52a33a.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181890398-2b899a1e-4e5b-4871-b8cd-11fa7c52a33a-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c238",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C238",
+      "slug": "hcd-c238",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:38:13"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 371,
+      "name": {
+        "en": "HCD-C239",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8b84a22ab2849eeb7e48acc5b6af3e2cbbdb23bb048b8a3a0062fe64f506eeee:1786181960032-2b294d83-f888-4512-8adf-aded0f6f4202.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786181960032-2b294d83-f888-4512-8adf-aded0f6f4202-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c239",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C239",
+      "slug": "hcd-c239",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:39:23"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 372,
+      "name": {
+        "en": "HCD-C240",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "183d1c485b11c12f5d80df81f29b2f21f666efd37fce75699dc7d6f071cfeeee:1786182012549-6a7f35ec-13ab-4634-a741-bac3c8589d13.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786182012549-6a7f35ec-13ab-4634-a741-bac3c8589d13-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c240",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C240",
+      "slug": "hcd-c240",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:40:17"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 373,
+      "name": {
+        "en": "HCD-C241",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "c23d9aaa410de89dc6b887c544bf8ddfadabc44a9b3f90441bdeca344788b2ac:1786182058262-c02452db-642d-47b3-a3df-bc9449702e3f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786182058262-c02452db-642d-47b3-a3df-bc9449702e3f-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c241",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C241",
+      "slug": "hcd-c241",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:41:01"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 374,
+      "name": {
+        "en": "HCD-C243",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "0db16cb892a6edf87df685646edb356832841fb6322c27a6b454cc17acb297ae:1786182135525-b6462ada-d7fa-487d-ac1c-214acc78b225.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786182135525-b6462ada-d7fa-487d-ac1c-214acc78b225-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c243",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C243",
+      "slug": "hcd-c243",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:42:19"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 375,
+      "name": {
+        "en": "HCD-C244",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "270a6ec79ba55d97290f5e08f9fbc5fad60bcf3550550fc70d21b70f28efdcdf:1786182195770-b7d5c7d3-588a-420a-815e-5a32e9f0fb39.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786182195770-b7d5c7d3-588a-420a-815e-5a32e9f0fb39-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c244",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C244",
+      "slug": "hcd-c244",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:43:25"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 376,
+      "name": {
+        "en": "HCD-C245A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "6b54107c62533f0f6f60b4bb4ac755f5f200416e46c1d68d7c98727c2c974730:1786182251970-c29a2299-5977-4901-9e54-b91bf8082e66.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786182251970-c29a2299-5977-4901-9e54-b91bf8082e66-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c245a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C245A",
+      "slug": "hcd-c245a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:45:00"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 377,
+      "name": {
+        "en": "HCD-C246",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "66cf9b61d898a4996a535e5126163def5733c2989a6d3f79f3ed9f4d8e7b7144:1786182390664-5f1d0d50-8dc9-4a9b-b1a0-809a74ad6d91.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786182390664-5f1d0d50-8dc9-4a9b-b1a0-809a74ad6d91-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c246",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C246",
+      "slug": "hcd-c246",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:47:09"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 378,
+      "name": {
+        "en": "HCD-C247",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5c50fcd1a71dc9d364dcce7f3a93ef1edaac69d8361c176aed96930cf29a5017:1786182508399-02e86ee2-92aa-42d7-959b-d4695089fb29.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786182508399-02e86ee2-92aa-42d7-959b-d4695089fb29-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c247",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C247",
+      "slug": "hcd-c247",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:48:31"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 379,
+      "name": {
+        "en": "HCD-C248",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "fe81eda60be40a8b1ae0442b5f1f571828ec71705cc3ab2c0f340167f95c4734:1786182598405-0555073a-8ef3-4d15-9973-7e36ff0a5ae9.png",
+        "public_url": "/ness-furniture-site/media/derived/1786182598405-0555073a-8ef3-4d15-9973-7e36ff0a5ae9-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcd-c248",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCD-C248",
+      "slug": "hcd-c248",
+      "sort_order": 0,
+      "summary": {
+        "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 09:50:02"
+    },
+    {
+      "category_slug": "beds-headboards",
+      "featured": false,
+      "id": 380,
+      "name": {
+        "en": "HCB201A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCB201",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "05e14acd301b503e1f149b947c732930c5b7fa8638a98126aff5d83e0b397b7e:1785980432586-972a76ea-0062-4ac9-82dd-ab41e3adae79.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785980432586-972a76ea-0062-4ac9-82dd-ab41e3adae79-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcb201a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCB201A",
+      "slug": "hcb201a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:03:59"
+    },
+    {
+      "category_slug": "beds-headboards",
+      "featured": false,
+      "id": 381,
+      "name": {
+        "en": "HCB201B",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "d7bd7e921eb1ce9120ff92fee0234e0ed26f11f3dfef00b8cfdafbf6c91495b9:1786183648539-6f5d3768-6054-45ad-86b8-92bce05beb1a.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786183648539-6f5d3768-6054-45ad-86b8-92bce05beb1a-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcb201b",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCB201B",
+      "slug": "hcb201b",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:07:33"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 382,
+      "name": {
+        "en": "HCB202",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "90f49e87e32e3db2d513c888fb01e343ab578624b4b088feaec21e2b4008a794:1786183826930-997af01d-269d-4fcc-ade2-cc5e2cfd3827.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786183826930-997af01d-269d-4fcc-ade2-cc5e2cfd3827-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcb202",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCB202",
+      "slug": "hcb202",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:10:33"
+    },
+    {
+      "category_slug": "dining-chairs",
+      "featured": false,
+      "id": 383,
+      "name": {
+        "en": "HCB203A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "eeffd008a1f07cd377bcb4ab150a53f695427013e17e019849df6b22b9511898:1786183905102-6f925560-9401-4ad7-8130-44c0c69df7cb.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786183905102-6f925560-9401-4ad7-8130-44c0c69df7cb-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcb203a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCB203",
+      "slug": "hcb203a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:12:07"
+    },
+    {
+      "category_slug": "beds-headboards",
+      "featured": false,
+      "id": 384,
+      "name": {
+        "en": "HCB204A",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "5d9856287e62ff9851a3bfb830159b34d61d4580a298486d5a97ed289686b3f6:1786184002950-947d213f-13bf-465a-8a4b-0b8c8b71d4b7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184002950-947d213f-13bf-465a-8a4b-0b8c8b71d4b7-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcb204a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCB204",
+      "slug": "hcb204a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:13:25"
+    },
+    {
+      "category_slug": "beds-headboards",
+      "featured": false,
+      "id": 385,
+      "name": {
+        "en": "HCB205",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "1e744a5d2b3230d4c8aae6374a41ee44ef6c53e8c9cd89387b2eefea5f1afdd4:1786184051527-4a3806f0-b4fd-42f7-9e61-cc5d2475c120.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184051527-4a3806f0-b4fd-42f7-9e61-cc5d2475c120-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcb205",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCB205",
+      "slug": "hcb205",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:14:15"
+    },
+    {
+      "category_slug": "ottomans-benches",
+      "featured": false,
+      "id": 386,
+      "name": {
+        "en": "HCC201",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCC201",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "66ba7dcac8c2d4e3c2747523e8c384340cd98233cb8b140f17f932fc752c0a1a:1785980744386-fc6f77d4-06e9-4136-926a-b9ea899dd06a.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785980744386-fc6f77d4-06e9-4136-926a-b9ea899dd06a-display.webp",
+        "sort_order": 1
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcc201-ta",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCC201",
+      "slug": "hcc201-ta",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:16:38"
+    },
+    {
+      "category_slug": "ottomans-benches",
+      "featured": false,
+      "id": 387,
+      "name": {
+        "en": "HCC212",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "f8ba7c955a346ed430105544a9b9b35656018d9677b1dcfc37a7fd4b3f9b70f0:1786184267555-c4ec6442-ca0f-410f-bf98-95fcb708b2bf.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184267555-c4ec6442-ca0f-410f-bf98-95fcb708b2bf-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcc212",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCC212",
+      "slug": "hcc212",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:17:57"
+    },
+    {
+      "category_slug": "ottomans-benches",
+      "featured": false,
+      "id": 388,
+      "name": {
+        "en": "HCC214",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "b17dce383794c469e32a4cc00939049b6e19f7729aeaa4524f92b64b82e8a660:1786184347539-332923b1-a5ae-45ec-ac2b-81b239121ec7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184347539-332923b1-a5ae-45ec-ac2b-81b239121ec7-display.webp",
+        "sort_order": 5
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcc214",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCC214",
+      "slug": "hcc214",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:19:16"
+    },
+    {
+      "category_slug": "lounge-chairs",
+      "featured": false,
+      "id": 389,
+      "name": {
+        "en": "HCC202",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "HCC203-09",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "51969d2bdac86a5da7ffefafccbb3ed14ce26647f17bf4ceac48615fdb095c45:1785980246517-ea51a519-8171-4162-adee-a3656911c574.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785980246517-ea51a519-8171-4162-adee-a3656911c574-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcc202a",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCC202",
+      "slug": "hcc202a",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our lounge chair collection delivers elegant and functional seating solutions for residential, hospitality, and commercial spaces.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:21:29"
+    },
+    {
+      "category_slug": "lounge-chairs",
+      "featured": false,
+      "id": 390,
+      "name": {
+        "en": "HCC203",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "f436e024c1dd167d15e8a2a15f52e9df6ca469de8871e385a09a0791d6440349:1786184582987-2d1c104d-df95-444d-b29a-71ca453761e4.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184582987-2d1c104d-df95-444d-b29a-71ca453761e4-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcc203",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCC203",
+      "slug": "hcc203",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our lounge chair collection delivers elegant and functional seating solutions for residential, hospitality, and commercial spaces.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:23:07"
+    },
+    {
+      "category_slug": "lounge-chairs",
+      "featured": false,
+      "id": 391,
+      "name": {
+        "en": "HCC204",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "4e26a353b8f21031f551a8d1a1869710e2e5e5c38ec83054b2ec17e6e0e835c3:1786184638135-6a219140-754c-432f-aa78-7088e0c9e10b.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184638135-6a219140-754c-432f-aa78-7088e0c9e10b-display.webp",
+        "sort_order": 2
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcc204",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCC204",
+      "slug": "hcc204",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our lounge chair collection delivers elegant and functional seating solutions for residential, hospitality, and commercial spaces.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:24:03"
+    },
+    {
+      "category_slug": "lounge-chairs",
+      "featured": false,
+      "id": 392,
+      "name": {
+        "en": "HCC206",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "8c93a006db3f95db38bc58fc1470a8c79dfc2e641eeda07a0b8234efea8c736e:1786184696284-8bf15a0a-1935-4482-8520-f774e007911f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184696284-8bf15a0a-1935-4482-8520-f774e007911f-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcc206",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCC206",
+      "slug": "hcc206",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining comfort with modern design aesthetics, our lounge chair collection delivers elegant and functional seating solutions for residential, hospitality, and commercial spaces.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:25:01"
+    },
+    {
+      "category_slug": "cabinets-casegoods",
+      "featured": false,
+      "id": 393,
+      "name": {
+        "en": "HCCB242",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "ab14d12b314c5940954be73873ebbeee022745f6357d9311c904b5de848a635a:1786184779961-3ebc91c6-16c2-4eb8-ab40-1a9117316f6d.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184779961-3ebc91c6-16c2-4eb8-ab40-1a9117316f6d-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hccb242",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCCB242",
+      "slug": "hccb242",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining modern aesthetics with practical storage functions, our cabinet collection offers elegant and functional storage solutions for residential and commercial spaces.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:26:22"
+    },
+    {
+      "category_slug": "cabinets-casegoods",
+      "featured": false,
+      "id": 394,
+      "name": {
+        "en": "HCCB239",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "3127b005b9e38291f8296947aab7c3a7168922e72ec4cfa175011f7ab3a76a78:1786184842350-6d2c4c50-7a63-41e5-82a8-d95716d245a9.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184842350-6d2c4c50-7a63-41e5-82a8-d95716d245a9-display.webp",
+        "sort_order": 0
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hccb239",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCCB239",
+      "slug": "hccb239",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining modern aesthetics with practical storage functions, our cabinet collection offers elegant and functional storage solutions for residential and commercial spaces.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:27:24"
+    },
+    {
+      "category_slug": "outdoor-furniture",
+      "featured": false,
+      "id": 395,
+      "name": {
+        "en": "HCS272",
+        "zh": ""
+      },
+      "primary_image": {
+        "alt_text": "",
+        "caption": "",
+        "image_type": "",
+        "is_primary": true,
+        "media_key": "be0dcb17c90c8358ec81bcc129a3ba56c41b27b737b0f99924c468530509397a:1786184980367-fe07e8e7-5c8e-47bd-9a45-4dcd1bf3d47f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786184980367-fe07e8e7-5c8e-47bd-9a45-4dcd1bf3d47f-display.webp",
+        "sort_order": 7
+      },
+      "seo": {
+        "canonical_path": "/ness-furniture-site/products/hcs272",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "sku": "HCS272",
+      "slug": "hcs272",
+      "sort_order": 0,
+      "summary": {
+        "en": "Combining natural aesthetics with modern design concepts, our outdoor furniture collection delivers comfort, durability, and refined style for elegant outdoor living spaces.",
+        "zh": ""
+      },
+      "updated_at": "2026-08-08 10:29:52"
+    }
+  ]
+}

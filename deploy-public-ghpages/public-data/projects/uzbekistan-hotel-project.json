@@ -1,0 +1,439 @@
+{
+  "category": {
+    "id": 5,
+    "name": {
+      "en": "Villas & Private Residences",
+      "zh": "别墅与私人住宅"
+    },
+    "slug": "villa"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "acf019c08dfe8cbc65dacc89d2bcceb794a38869bbb22d5c4ed62a51255c34eb:1786185490723-5b961f63-51a3-44b0-8ab1-1b16f61f594e.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1786185490723-5b961f63-51a3-44b0-8ab1-1b16f61f594e-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 125,
+  "images": [
+    {
+      "alt_text": "DZ-HCB086  2米床 (2).jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "acf019c08dfe8cbc65dacc89d2bcceb794a38869bbb22d5c4ed62a51255c34eb:1786185490723-5b961f63-51a3-44b0-8ab1-1b16f61f594e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185490723-5b961f63-51a3-44b0-8ab1-1b16f61f594e-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "DZ-HCB088床 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "724b0c58bad90888659211ee6257270f0e6d554986b1cca79b2f2d8574ac2716:1786185490737-54707569-1156-4ef1-b454-233c321e2a66.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185490737-54707569-1156-4ef1-b454-233c321e2a66-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "DZ-HCB088床 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0f54fd6eec443c98dd3e005f24fb3e817a026accd4a95ae4abbac26fab597c09:1786185490789-910e608c-2682-4630-9e5f-64c149ed4ec9.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185490789-910e608c-2682-4630-9e5f-64c149ed4ec9-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "DZ-HCC184床尾凳 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "755c78eb0eff61a3526cb8a38b3580397f6fe0abd131bb7ca770609b635ee30a:1786185490819-513953c2-160b-49c1-ab70-f9100427d335.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185490819-513953c2-160b-49c1-ab70-f9100427d335-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "DZ-HCC186休闲椅 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "4eb86857e6cb64b50cb1f798feb8d1c2f7fa226ea07bfb5610fb67306d5da09b:1786185490863-a76d8932-399c-458e-a85e-db84ac5bd362.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185490863-a76d8932-399c-458e-a85e-db84ac5bd362-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "DZ-HCC187 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "58b52a2aecf69750713e89f8c3b54effe638ff00adb915cda23574961042d850:1786185490883-8eb32d4d-11ef-4674-a48b-03bee67978b3.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185490883-8eb32d4d-11ef-4674-a48b-03bee67978b3-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "DZ-HCC188 休闲椅 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "932164089824f5dc4cc89bb32868e79b154b9da6ba8ce848143e5712e40c0ead:1786185490893-695a3e5a-9394-4c8c-905b-174536e114d6.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185490893-695a3e5a-9394-4c8c-905b-174536e114d6-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "DZ-HCC190休闲椅 (3).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "9ecf4d458cb7682b5c4052673d85662b1eaf3bf3c6c6de8afd125e307cf5351c:1786185491143-3046b8c7-92a9-41e6-825c-866783048973.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185491143-3046b8c7-92a9-41e6-825c-866783048973-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "DZ-HCC191户外休闲椅 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "2f9f9b5a816ca6a528ab1d29a793058cc1a8809050317466205ddeac6572d857:1786185491544-84b6dbf3-dec4-4bd5-8a95-5f4d6f577006.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185491544-84b6dbf3-dec4-4bd5-8a95-5f4d6f577006-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "DZ-HCCB052 餐边柜 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "39f874ecc0c03d7470c78594a2bfab69d3812a44a5ca919e40e3ceffb34ed880:1786185491679-3ff8c640-5445-4eff-9e57-8c522fe5065f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185491679-3ff8c640-5445-4eff-9e57-8c522fe5065f-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "DZ-HCCB052 餐边柜 (3).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "03ae0e939a9e0bbe08866ffb31e394b2b7f13d1b074e4026b19d5ea4aef7e507:1786185491840-db884c14-2c8c-4f34-bf06-2add07dbb11e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185491840-db884c14-2c8c-4f34-bf06-2add07dbb11e-display.webp",
+      "sort_order": 10
+    },
+    {
+      "alt_text": "DZ-HCCB053 床头柜 (5).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "53ec9d0c82e41e86ab3af0fc3b42e8a353035ec2249c5defa6e8e17d37ce06fc:1786185491914-00fa3b05-e874-4432-b96e-3e0215a99c3e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185491914-00fa3b05-e874-4432-b96e-3e0215a99c3e-display.webp",
+      "sort_order": 11
+    },
+    {
+      "alt_text": "DZ-HCCB053 床头柜 (3).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "526039b12608c50cf620912115a938f6e83a30b6be9925bdf055439fdd4a27f4:1786185492297-faf10c36-ddd9-4457-bbec-c4cf3d237e61.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185492297-faf10c36-ddd9-4457-bbec-c4cf3d237e61-display.webp",
+      "sort_order": 12
+    },
+    {
+      "alt_text": "DZ-HCCB054 床头柜 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "4109e518904a107391346b704ed2d90b4a73a74a585c63e08ef8a26ce2aeea1f:1786185492758-3b34077d-b870-4e69-ac51-1d2b9277ad8a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185492758-3b34077d-b870-4e69-ac51-1d2b9277ad8a-display.webp",
+      "sort_order": 13
+    },
+    {
+      "alt_text": "DZ-HCCB054 床头柜 (5).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "07f67c374620f3e8ad0de5a9f7b95ef7088722dbad29d54fbc234126035c2969:1786185492822-7fcd6c66-bd3c-4229-b4a8-ea194c5b4ed7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185492822-7fcd6c66-bd3c-4229-b4a8-ea194c5b4ed7-display.webp",
+      "sort_order": 14
+    },
+    {
+      "alt_text": "DZ-HCCB055 边柜 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0994ab6f136579f9e9c8ea1ff000741ca59c6ed0cdb746446e948921072e2193:1786185492842-3651f080-ee49-4122-b6fa-447ac079b19b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185492842-3651f080-ee49-4122-b6fa-447ac079b19b-display.webp",
+      "sort_order": 15
+    },
+    {
+      "alt_text": "DZ-HCCB055 边柜 (5).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "5fdf0cf6341efb49376125a1784be19bb89ffb8f6bee59cac361e6abc98f4878:1786185493085-356750ae-2225-4929-8429-ba74df2d462a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185493085-356750ae-2225-4929-8429-ba74df2d462a-display.webp",
+      "sort_order": 16
+    },
+    {
+      "alt_text": "DZ-HCCB056 床头柜 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "974e987b4e9655c7df040176c317ed38b17bd14bc1c5810a07cea78c04ae8d67:1786185493156-69b0cc6a-9a49-4d72-9fe6-5d9afce56f6b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185493156-69b0cc6a-9a49-4d72-9fe6-5d9afce56f6b-display.webp",
+      "sort_order": 17
+    },
+    {
+      "alt_text": "DZ-HCD-C097 户外餐椅 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "d1b8d8e684fcd3c8169adec797d298733383635064dc2f4f67dcf0ead2698be0:1786185493476-17ac25bf-8961-4f27-b81e-5c1870d79d58.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185493476-17ac25bf-8961-4f27-b81e-5c1870d79d58-display.webp",
+      "sort_order": 18
+    },
+    {
+      "alt_text": "DZ-HCD-C098餐椅 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "2f323585652d7fd823f79f71f61df87e495c6918326ca376581a291fef1720b4:1786185494204-8ff04dce-9d85-4c4c-b879-9a5d0cb3d12e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185494204-8ff04dce-9d85-4c4c-b879-9a5d0cb3d12e-display.webp",
+      "sort_order": 19
+    },
+    {
+      "alt_text": "DZ-HCS148户外沙发 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "ec683c90a47b0d61386d7787e917e7d9eb01de3ff9ae6aca5669f31a67d83e5e:1786185494297-39ec1888-dde2-42e6-851f-0e805cc4a3c0.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185494297-39ec1888-dde2-42e6-851f-0e805cc4a3c0-display.webp",
+      "sort_order": 20
+    },
+    {
+      "alt_text": "户外沙发+休闲椅 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "a1a1c9064fcc5a3e68661b4f0c305920b7f628b08b47f5b4f9d4e4e6be4eae84:1786185494575-ab4e02b6-b329-4214-a803-b775e6ca4a7a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185494575-ab4e02b6-b329-4214-a803-b775e6ca4a7a-display.webp",
+      "sort_order": 21
+    },
+    {
+      "alt_text": "DZ-HCS149组合沙发 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "653887548fb6772e3e5d9f956844e3c3fbd3cacd3e43650f4daf3175ad424266:1786185494661-0f69a7f9-28bb-4d09-ac3c-99a165a2e180.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185494661-0f69a7f9-28bb-4d09-ac3c-99a165a2e180-display.webp",
+      "sort_order": 22
+    },
+    {
+      "alt_text": "DZ-HCT084  1.6米餐桌 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "488d812caf6a5b6575332760b349b3de2d905657e852e57a1cdd64ef0c022396:1786185495229-2f500239-62c0-4752-a007-80c9413d6911.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185495229-2f500239-62c0-4752-a007-80c9413d6911-display.webp",
+      "sort_order": 23
+    },
+    {
+      "alt_text": "DZ-HCT085  2.8米餐桌 (4).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0f283739a82c93d949c56ce96bf6ffdcde7080fdf8b8d5283c7399267f874f4f:1786185495519-6067e5e8-a7a3-4fae-9ef3-9daa1285bc88.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185495519-6067e5e8-a7a3-4fae-9ef3-9daa1285bc88-display.webp",
+      "sort_order": 24
+    },
+    {
+      "alt_text": "DZ-HCT086 玄关 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "9aa64918eb32017acb9492f0881e9c9c80764c44177e658561a21b085e1c2432:1786185495556-f1dda4fd-ee88-433e-9d07-e55eeef6bb77.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185495556-f1dda4fd-ee88-433e-9d07-e55eeef6bb77-display.webp",
+      "sort_order": 25
+    },
+    {
+      "alt_text": "DZ-HCT087咖啡桌 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "43556689a61d1275d8321bae1254811c0f88f7aec67177704e91a9bcf5cfcd1a:1786185495637-3adeb29a-fbe7-41d8-acad-73fc8a5d6764.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185495637-3adeb29a-fbe7-41d8-acad-73fc8a5d6764-display.webp",
+      "sort_order": 26
+    },
+    {
+      "alt_text": "DZ-HCT088  5.5米餐桌 (9).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "963297218b51a4def93cc01b70a22a61b83252dbe6c8c65ffd8f1dc482e7a8aa:1786185495673-6d5dc6d4-99cb-430c-924a-1ace969398d8.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185495673-6d5dc6d4-99cb-430c-924a-1ace969398d8-display.webp",
+      "sort_order": 27
+    },
+    {
+      "alt_text": "DZ-HCT089茶几 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "a5278e25fec847ec01610328fb72dc9e5679214159a60d351c4ac1b5c78785b9:1786185555705-863726b2-d823-47d5-84a0-b5190d5356a8.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185555705-863726b2-d823-47d5-84a0-b5190d5356a8-display.webp",
+      "sort_order": 28
+    },
+    {
+      "alt_text": "DZ-HCT089茶几 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "225e6d2388801f11aba5a9780343eaae142e0c44dc19a28b8ac0b5307c37ce6e:1786185555723-4f94e83b-24b0-44e1-ab36-5598ef142368.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185555723-4f94e83b-24b0-44e1-ab36-5598ef142368-display.webp",
+      "sort_order": 29
+    },
+    {
+      "alt_text": "DZ-HCT090  4 (7).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0de2923e85647f4425df26d6ef05d9bd904691535a0a8ef807a441ed27eb24a8:1786185555758-0bd979a4-ef82-4d21-99bc-1e3a05d54b89.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185555758-0bd979a4-ef82-4d21-99bc-1e3a05d54b89-display.webp",
+      "sort_order": 30
+    },
+    {
+      "alt_text": "DZ-HCT119边几 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "4dc18d01a2d4ea29125f20614870b73d53ba8c23fc03f48033b92599d24c7f93:1786185555810-0c7ce29c-b24c-4793-aeba-1dbbd9e2a979.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185555810-0c7ce29c-b24c-4793-aeba-1dbbd9e2a979-display.webp",
+      "sort_order": 31
+    },
+    {
+      "alt_text": "DZ-HCT119边几 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "e40712b297bf1123e38e30cc4377fb6165b5eb44bf4060140d6a1540177ca835:1786185555820-2618eb9a-974c-4e9d-a843-947ebaf08dc4.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185555820-2618eb9a-974c-4e9d-a843-947ebaf08dc4-display.webp",
+      "sort_order": 32
+    },
+    {
+      "alt_text": "DZ-HCT120茶几+边几 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "56444b57d6145501aa9779dcfa12656a4ed9401f2cc8f63db22dab8873ee3b5b:1786185555852-499a3b6d-d3d2-4b5d-85dc-ace0720e7abe.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185555852-499a3b6d-d3d2-4b5d-85dc-ace0720e7abe-display.webp",
+      "sort_order": 33
+    },
+    {
+      "alt_text": "DZ-HCT121  边几 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "10ed96c20cc7fdc1bd05c8db2bf5806f03518d6d7eacc0d781559893a99517fe:1786185556379-1c393f87-dc23-46ad-9528-078e368d171d.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185556379-1c393f87-dc23-46ad-9528-078e368d171d-display.webp",
+      "sort_order": 34
+    },
+    {
+      "alt_text": "HCB234 2米床 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "57967010e3c8bbaef5ff0d93e21e208c0a222cdeba8c5d262ee5a96e3821427d:1786185556716-493a2f16-ae95-4753-8316-8a45282e9d45.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185556716-493a2f16-ae95-4753-8316-8a45282e9d45-display.webp",
+      "sort_order": 35
+    },
+    {
+      "alt_text": "HCC220B休闲椅 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "6e73a678a7143e47ee4706f8187b15933bb10c20e9d0851412ee4f3cc13b1399:1786185556728-c5f060ff-eb3c-42f6-b612-d75e71f0e623.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185556728-c5f060ff-eb3c-42f6-b612-d75e71f0e623-display.webp",
+      "sort_order": 36
+    },
+    {
+      "alt_text": "HCC245E长踏 (3).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "1b368bc41e9d477ee1654fde657d372df57004162a41ec9bbb2f23f095ac7dc1:1786185556754-50adad6b-a38c-4d7a-a8b4-c694c6002bb5.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185556754-50adad6b-a38c-4d7a-a8b4-c694c6002bb5-display.webp",
+      "sort_order": 37
+    },
+    {
+      "alt_text": "HCC262B-转椅 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "091526e8bc1e82a0d50eb6857c05884dfa76e8be012da5c5d8cffcb31984a5ef:1786185557076-44ddc14e-eec5-4d8b-85e8-3a2541f9c851.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185557076-44ddc14e-eec5-4d8b-85e8-3a2541f9c851-display.webp",
+      "sort_order": 38
+    },
+    {
+      "alt_text": "HCCB215C床头柜 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "7a389e4d31e2ee1cf8828b3824cdf23dc76b6ca097f8bcacaee7f34a70aff7ed:1786185557148-90a99e14-2ab3-4029-a23b-f9388edf9ee4.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185557148-90a99e14-2ab3-4029-a23b-f9388edf9ee4-display.webp",
+      "sort_order": 39
+    },
+    {
+      "alt_text": "HCD-C201B餐椅 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "522230f849e654118dd4587113f1ccdbde41e578437258327bbc9b042b903303:1786185557161-6cbe62ed-1777-4eb2-a3a2-3dfcbc6bde8f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185557161-6cbe62ed-1777-4eb2-a3a2-3dfcbc6bde8f-display.webp",
+      "sort_order": 40
+    },
+    {
+      "alt_text": "HCD-C220 餐椅 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "474ccd82929afdea49a42956329cfb00ca94d97489bacff97d422d714209d81e:1786185557201-32b9f253-7e94-48e8-8ca8-00b9abf19bbb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185557201-32b9f253-7e94-48e8-8ca8-00b9abf19bbb-display.webp",
+      "sort_order": 41
+    },
+    {
+      "alt_text": "HCD-C247D高吧凳 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "615d26f9a51cc120c726a7e8fd919a9bbe4eaacac3b4b279e5b382f6760ff6f4:1786185557255-b5c69086-0011-4b26-8acc-0421e603d0f7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185557255-b5c69086-0011-4b26-8acc-0421e603d0f7-display.webp",
+      "sort_order": 42
+    },
+    {
+      "alt_text": "HCD-C247扶手餐椅 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0b8e5f6aa030d7302c917ab4ce2812d8ff66fb2ebcec9dadebc09e7d62e6d85c:1786185557284-5f80411b-d183-4c1a-8697-0d73343e500f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185557284-5f80411b-d183-4c1a-8697-0d73343e500f-display.webp",
+      "sort_order": 43
+    },
+    {
+      "alt_text": "HCS220组合沙发 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "5c04e51730e59aa09ebdfa81d6797a854acd901239ce537104f9794f8ef7292b:1786185570874-d4df5266-22f9-4448-9c8e-7599be1de330.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185570874-d4df5266-22f9-4448-9c8e-7599be1de330-display.webp",
+      "sort_order": 44
+    },
+    {
+      "alt_text": "HCS258地平线沙发 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "fdd0ccb23196239922c94431b82a763884b0cee76c6329b8116ba881842a4069:1786185570884-10614a63-dce9-446e-b7aa-61b3c24700d3.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185570884-10614a63-dce9-446e-b7aa-61b3c24700d3-display.webp",
+      "sort_order": 45
+    },
+    {
+      "alt_text": "HCS303长踏 (1).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "9acdb5859bc9618182fe97b02b2917cecbf1e5861443f843a3270d1415df36d1:1786185570894-46aff067-0770-4f3c-8e07-bc0c9cb73119.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185570894-46aff067-0770-4f3c-8e07-bc0c9cb73119-display.webp",
+      "sort_order": 46
+    },
+    {
+      "alt_text": "HCT216B两节边几 (2).jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "5ec17eb27b8870fd8fdc8cb54c53640edc6345b7cded33da4b349877e0d2b12c:1786185571406-c80cc301-3569-4f4d-a0bb-56a581cbbe0a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786185571406-c80cc301-3569-4f4d-a0bb-56a581cbbe0a-display.webp",
+      "sort_order": 47
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Uzbekistan Hotel Project",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/ness-furniture-site/projects/uzbekistan-hotel-project",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "uzbekistan-hotel-project",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining modern living concepts with practical design, this project delivers furniture solutions that enhance comfort, durability, and style for apartment spaces.",
+    "zh": ""
+  },
+  "type": "villa",
+  "updated_at": "2026-08-08 10:39:39",
+  "videos": [],
+  "year": ""
+}

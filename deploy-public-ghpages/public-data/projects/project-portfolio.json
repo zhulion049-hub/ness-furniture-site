@@ -1,0 +1,119 @@
+{
+  "category": {
+    "id": 2,
+    "name": {
+      "en": "Restaurants & Cafes",
+      "zh": "餐厅与咖啡馆"
+    },
+    "slug": "restaurant"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "0d5692c6071a0c603ccfadb10cf9cb83e4ecfa56f83b1683112ed31d65a9012f:1785894181144-c5f00053-f474-4971-9410-a8f0dd3b4432.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1785894181144-c5f00053-f474-4971-9410-a8f0dd3b4432-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 127,
+  "images": [
+    {
+      "alt_text": "微信图片_20241007165519.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "0d5692c6071a0c603ccfadb10cf9cb83e4ecfa56f83b1683112ed31d65a9012f:1785894181144-c5f00053-f474-4971-9410-a8f0dd3b4432.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181144-c5f00053-f474-4971-9410-a8f0dd3b4432-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "微信图片_20241007165451.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "66fc923df9bf5824b2fbc66f61eefe53863d5b895ee38e054ca17bb8b65e1be1:1785894181041-a67f5dd8-c225-48eb-b0c3-0bb5bc4b81fd.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181041-a67f5dd8-c225-48eb-b0c3-0bb5bc4b81fd-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "微信图片_20241007165509.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "8a9b8e4ba3a76b3c5c6b4b0c1457523c6a7ed88c6ff2f4d64b60f00dc941fb9a:1785894181083-cd293b4f-9df5-4b13-9bd4-d52a4c1e5c4b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181083-cd293b4f-9df5-4b13-9bd4-d52a4c1e5c4b-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "微信图片_20241007165512.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0ad377fe4b7abb6811aaf93cd47e8dea7594535f48f96e7c3ded7eb29488b678:1785894181098-90be3e53-a1fb-4b77-ae16-faaa4fc3a27f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181098-90be3e53-a1fb-4b77-ae16-faaa4fc3a27f-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "微信图片_20241007165513.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "aa10f15f6767a0376a8cc6dec51ad4fb3d52e20988d9f0651e238a060e1fa96c:1785894181111-339353f1-6181-4294-8340-5502f33b2d53.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181111-339353f1-6181-4294-8340-5502f33b2d53-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "微信图片_20241007165515.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "85de7fd3bf0aaf87cb13effff26881539db6ce12ea6bcc29b9c8d28ffb4626b8:1785894181125-4a0d3c75-dafb-48ee-b5bd-92a90a9d7c42.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181125-4a0d3c75-dafb-48ee-b5bd-92a90a9d7c42-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "微信图片_20241007165517.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "6196e77483359ff1ddd72318d16d38008e3a6c5109036b283fcb1c7db1c85078:1785894181133-b536ce35-81ed-42b4-be87-15877aebacb2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181133-b536ce35-81ed-42b4-be87-15877aebacb2-display.webp",
+      "sort_order": 6
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Project Portfolio",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/ness-furniture-site/projects/project-portfolio",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "project-portfolio",
+  "sort_order": 0,
+  "summary": {
+    "en": "We provide professional furniture solutions for residential, hospitality, and commercial spaces worldwide. Through customized design, refined craftsmanship, and quality manufacturing, we create interiors that balance functionality, aesthetics, and comfort.",
+    "zh": ""
+  },
+  "type": "restaurant",
+  "updated_at": "2026-08-08 10:46:10",
+  "videos": [
+    {
+      "is_primary": true,
+      "media_key": "1a01191a9d85f361b34fea7a85be756bddaa67a9937a76d67a3c7d3b742106fa:1786185869751-05231f8c-8430-4a72-9564-4895027f528d.mp4",
+      "public_url": "/ness-furniture-site/uploads/1786185869751-05231f8c-8430-4a72-9564-4895027f528d.mp4",
+      "sort_order": 0,
+      "title": "琴姐案例.mp4"
+    }
+  ],
+  "year": ""
+}

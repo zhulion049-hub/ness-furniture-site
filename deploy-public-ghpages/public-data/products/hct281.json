@@ -1,0 +1,91 @@
+{
+  "applications": "",
+  "category_slug": "coffee-side-tables",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "280.0",
+    "length": "1200.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "1200.0"
+  },
+  "featured": false,
+  "id": 327,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "97384498e938305dc033648cc2ef05103f1164a82218d4ad971f928ee4bd83d0:1786176673441-5fd4e973-a8eb-42ee-9d86-8b42d4046255.png",
+      "public_url": "/ness-furniture-site/media/derived/1786176673441-5fd4e973-a8eb-42ee-9d86-8b42d4046255-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "61bbb9d7ccac40979d544a2be0c36e00637987c80a98458e2dc831628a8716aa:1786176673451-7933ad5d-c976-44f1-af0b-27a1b7a63901.png",
+      "public_url": "/ness-furniture-site/media/derived/1786176673451-7933ad5d-c976-44f1-af0b-27a1b7a63901-display.webp",
+      "sort_order": 1
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCT281",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T08:11:16.122Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hct281",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCT281",
+  "slug": "hct281",
+  "sort_order": 0,
+  "summary": {
+    "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 08:11:16",
+  "videos": []
+}

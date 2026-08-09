@@ -1,0 +1,127 @@
+{
+  "applications": "[\"Hotel\",\"Resort\",\"Villa\",\"Restaurant\",\"Office\",\"Apartment\",\"Residential\"]",
+  "category_slug": "dining-tables",
+  "customization": {
+    "custom_color": true,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": true
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "730.0",
+    "length": "2350.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "1570.0"
+  },
+  "featured": false,
+  "id": 285,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "0f0bc13be964d966f77b919bb76d0b188e26f6d04fce0df05d2e3b0fa5c85a00:1786097267427-d6989e6b-a265-43d1-977e-70b5ea588a8f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786097267427-d6989e6b-a265-43d1-977e-70b5ea588a8f-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "bef910ffe18e576c0542ad7aac57b5394f2eda2fde08f3b647399998d3d07f4c:1786097267449-2465c59a-ad05-444a-afe9-23ecd987ff84.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786097267449-2465c59a-ad05-444a-afe9-23ecd987ff84-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "d1568cb8805ef9ab1e3721d5a5b1b6f8706b4964ff6926d5de281e71df4a272d:1786097267463-69c2f609-d308-408f-80fe-a9689e6a87cc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786097267463-69c2f609-d308-408f-80fe-a9689e6a87cc-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "1d3ec23f9c5c87f376de89464baa841888b040ef7ee4029ce53893bade345c38:1786097267477-315f58e1-ac61-487a-a2ed-83ea58ec44cc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786097267477-315f58e1-ac61-487a-a2ed-83ea58ec44cc-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "1718a6ca5c0b348f6b0ae8acd180ff52d7c5f2f878871bce72c11fe08d1eb11c:1786097267498-96c0c321-1b8c-43e0-9886-58d62e3b64f6.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786097267498-96c0c321-1b8c-43e0-9886-58d62e3b64f6-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "9ef35b68ce834668f8d8c57912eaf9f87c9235039ed75f71fdabfe5d1f37de59:1786097267511-e5af886e-7bf2-46ae-8da1-d0d789eccb1f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786097267511-e5af886e-7bf2-46ae-8da1-d0d789eccb1f-display.webp",
+      "sort_order": 5
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCD223",
+    "zh": ""
+  },
+  "published_at": "2026-08-07T10:07:51.564Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hcd223",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCD223",
+  "slug": "hcd223",
+  "sort_order": 0,
+  "summary": {
+    "en": "Designed with a balance of functionality and aesthetics, this dining table combines refined craftsmanship with timeless design. Suitable for residential dining spaces, restaurants, and hospitality projects, it brings a sophisticated atmosphere to any interior. Custom sizes, materials, and finishes are available to meet different design requirements.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-07 10:07:51",
+  "videos": []
+}

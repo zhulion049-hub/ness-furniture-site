@@ -1,0 +1,254 @@
+{
+  "default_locale": "en",
+  "export_version": "stage-8.2b-1",
+  "homepage": {
+    "advantages": [
+      {
+        "advantage_key": "multi-material",
+        "description": "One partner capable of producing upholstered, wood, metal, concrete and mosaic furniture under the same quality system.",
+        "id": 1,
+        "number": "01",
+        "sort_order": 0,
+        "title": "Multi-Material Manufacturing"
+      },
+      {
+        "advantage_key": "development",
+        "description": "In-house development team that transforms design concepts and drawings into production-ready samples.",
+        "id": 2,
+        "number": "02",
+        "sort_order": 1,
+        "title": "Sample and Product Development"
+      },
+      {
+        "advantage_key": "quality",
+        "description": "In-line inspections across every production stage with photo records and pre-shipment quality reports.",
+        "id": 3,
+        "number": "03",
+        "sort_order": 2,
+        "title": "Visible Quality Control"
+      },
+      {
+        "advantage_key": "delivery",
+        "description": "Professional export-grade packing including plywood crating, foam cushioning and moisture protection for global shipments.",
+        "id": 4,
+        "number": "04",
+        "sort_order": 3,
+        "title": "Export Packing and Delivery"
+      }
+    ],
+    "advantages_eyebrow": "WHY NESS",
+    "advantages_subtitle": "A manufacturing partner built around design accuracy, visible quality control and reliable delivery.",
+    "advantages_title": "Why Work With NESS",
+    "craftsmanship_images": [
+      {
+        "alt_text": "Upholstery and Sewing",
+        "id": 6,
+        "media_key": "f48f630ada274c0e433b4dffcaa2beef8d239da74e4ea29e6153cd37fee4a1df:1785895774840-81f35d92-c24c-4666-b23e-d24050244572.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785895774840-81f35d92-c24c-4666-b23e-d24050244572-display.webp",
+        "sort_order": 0,
+        "title": "Upholstery and Sewing"
+      },
+      {
+        "alt_text": "Woodworking and Structure",
+        "id": 7,
+        "media_key": "26dac7c7b2403f15083b750ef22c53773776ec5907ecda36077a606dc7a9831a:1785895774888-c0a0a840-57a8-4c78-be82-f3ecf6fc4f8f.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785895774888-c0a0a840-57a8-4c78-be82-f3ecf6fc4f8f-display.webp",
+        "sort_order": 1,
+        "title": "Woodworking and Structure"
+      },
+      {
+        "alt_text": "Metalwork",
+        "id": 8,
+        "media_key": "b7b95bf03da1510058fce535e0ae0e7c42be1a89a7f4045ce71f2664787eb238:1785895774937-71e73eb2-61b5-452c-86d6-16f586b315ff.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785895774937-71e73eb2-61b5-452c-86d6-16f586b315ff-display.webp",
+        "sort_order": 2,
+        "title": "Metalwork"
+      },
+      {
+        "alt_text": "Concrete Finishing",
+        "id": 4,
+        "media_key": "b9976223690d487a66af29d02cfa076ee1329b3bfa2dcc222d4c96499e1568db:1785895234071-94a0bead-e39e-4b03-88d1-0c42c45231d8.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785895234071-94a0bead-e39e-4b03-88d1-0c42c45231d8-display.webp",
+        "sort_order": 3,
+        "title": "Concrete Finishing"
+      },
+      {
+        "alt_text": "Mosaic Craft",
+        "id": 5,
+        "media_key": "cceecfdbc42b9f6d904d93637e02c3d53ee28e6e3941682d6f5b066150fbb9d1:1785895234153-b7419f4a-3e03-42ea-95fe-5f45e4f4faeb.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1785895234153-b7419f4a-3e03-42ea-95fe-5f45e4f4faeb-display.webp",
+        "sort_order": 4,
+        "title": "Mosaic Craft"
+      }
+    ],
+    "eye_brow": "CRAFTED TO INSPIRE. BUILT TO LAST.",
+    "focus_point": "center",
+    "hero_image": {
+      "media_key": "15e9f197f92b2f73a03a2646a5b85d6fc6ca63b47b49a498edcbff7f3d714347:1784715326640-2ln3n7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1784715326640-2ln3n7-display.webp"
+    },
+    "hero_subtitle": "We manufacture custom sofas, chairs, tables, beds, casegoods, concrete furniture and mosaic furniture for hotels, dealers, designers and premium projects worldwide.",
+    "hero_title": "Custom Furniture Manufacturing for Global Projects",
+    "manufacturing_systems": [
+      {
+        "alt_text": "Custom upholstered furniture",
+        "description": "Custom upholstered furniture, tables, beds and casegoods.",
+        "href": "/ness-furniture-site/products",
+        "id": 1,
+        "media_key": "15e9f197f92b2f73a03a2646a5b85d6fc6ca63b47b49a498edcbff7f3d714347:1784715326640-2ln3n7.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1784715326640-2ln3n7-display.webp",
+        "sort_order": 0,
+        "system_key": "ness-custom",
+        "title": "NESS Custom Furniture"
+      },
+      {
+        "alt_text": "Concrete furniture",
+        "description": "Concrete, microcement, GFRC and HPC furniture.",
+        "href": "/ness-furniture-site/concrete-furniture",
+        "id": 2,
+        "media_key": "8653b8f0b6b9b0ae074bc9bc564128d4d0215ad75a3b1ee45d2394c605aea5ff:1784716670276-8hvcm1.png",
+        "public_url": "/ness-furniture-site/media/derived/1784716670276-8hvcm1-display.webp",
+        "sort_order": 1,
+        "system_key": "hcx-concrete",
+        "title": "HCX Concrete Furniture"
+      },
+      {
+        "alt_text": "Mosaic craftsmanship",
+        "description": "Handcrafted mosaic furniture using natural stone, ceramic and glass.",
+        "href": "/ness-furniture-site/mosaic-atelier",
+        "id": 3,
+        "media_key": "4ab94e426b54d29636d01ab50b1d5010c064f220ae4943017cc6ef458bb98cc0:1784723448679-5oairs.png",
+        "public_url": "/ness-furniture-site/media/derived/1784723448679-5oairs-display.webp",
+        "sort_order": 2,
+        "system_key": "mosaic-atelier",
+        "title": "MOSAIC ATELIER"
+      }
+    ],
+    "manufacturing_systems_card_cta_label": "Explore Collection",
+    "manufacturing_systems_card_cta_label_zh": "",
+    "manufacturing_systems_subtitle": "One manufacturing partner, three specialized capabilities.",
+    "manufacturing_systems_subtitle_zh": "",
+    "manufacturing_systems_title": "Three Manufacturing Systems",
+    "manufacturing_systems_title_zh": "",
+    "overlay_depth": "0.95",
+    "primary_cta_href": "/ness-furniture-site/projects",
+    "primary_cta_label": "View Projects",
+    "secondary_cta_href": "/ness-furniture-site/send-your-project",
+    "secondary_cta_label": "Send Your Project",
+    "selected_projects": [
+      {
+        "project_slug": "siena-1",
+        "sort_order": 0
+      },
+      {
+        "project_slug": "uzbekistan-hotel-project",
+        "sort_order": 1
+      },
+      {
+        "project_slug": "project-portfolio",
+        "sort_order": 2
+      }
+    ]
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "metadata": {
+    "brand_name": "NESS Furniture",
+    "contact_email": "export@nessfurniture.cn",
+    "contact_phone": "+8618929271079",
+    "copyright_text": "NESS Furniture. All rights reserved.",
+    "factory_address": "No. 2 Xiagu Road, Yanggongzhou Village, Shatian Town, Dongguan, Guangdong 523000, China",
+    "footer_brand_desc": "Custom Furniture Manufacturer and Project Partner. Manufacturing high-end custom furniture for hotels, dealers, designers and residential projects worldwide.",
+    "nav_subtitle": "Custom Manufacturing, Global Projects"
+  },
+  "navigation": {
+    "footer": [
+      {
+        "href": "/ness-furniture-site/products",
+        "label": "Products"
+      },
+      {
+        "href": "/ness-furniture-site/projects",
+        "label": "Projects"
+      },
+      {
+        "href": "/ness-furniture-site/concrete-furniture",
+        "label": "Concrete Furniture"
+      },
+      {
+        "href": "/ness-furniture-site/mosaic-atelier",
+        "label": "Mosaic Atelier"
+      },
+      {
+        "href": "/ness-furniture-site/manufacturing",
+        "label": "Manufacturing"
+      },
+      {
+        "href": "/ness-furniture-site/quality-control",
+        "label": "Quality Control"
+      },
+      {
+        "href": "/ness-furniture-site/about-ness",
+        "label": "About NESS"
+      },
+      {
+        "href": "/ness-furniture-site/contact",
+        "label": "Contact Us"
+      },
+      {
+        "href": "/ness-furniture-site/send-your-project",
+        "label": "Send Your Project"
+      }
+    ],
+    "locales": [
+      {
+        "label": "English",
+        "locale": "en",
+        "prefix": ""
+      },
+      {
+        "label": "Chinese",
+        "locale": "zh",
+        "prefix": "/ness-furniture-site/zh"
+      }
+    ],
+    "primary": [
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/ness-furniture-site/products",
+        "label": "Products"
+      },
+      {
+        "href": "/ness-furniture-site/projects",
+        "label": "Projects"
+      },
+      {
+        "href": "/ness-furniture-site/solutions",
+        "label": "Solutions"
+      },
+      {
+        "href": "/ness-furniture-site/manufacturing",
+        "label": "Manufacturing"
+      },
+      {
+        "href": "/ness-furniture-site/materials-craft",
+        "label": "Materials & Craft"
+      },
+      {
+        "href": "/ness-furniture-site/about-ness",
+        "label": "About NESS"
+      },
+      {
+        "href": "/ness-furniture-site/contact",
+        "label": "Contact"
+      }
+    ]
+  },
+  "schema_version": "1.0.0",
+  "site_url": "https://www.nessfurniture.cn"
+}

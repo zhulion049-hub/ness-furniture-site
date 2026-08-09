@@ -1,0 +1,127 @@
+{
+  "applications": "",
+  "category_slug": "coffee-side-tables",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "340.0",
+    "length": "1300.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "1300.0"
+  },
+  "featured": false,
+  "id": 320,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "13c6fbf144d3be343188ff1bd16128e3d8069811bd059c9a10c666a92e93da36:1786176118849-1f6e22b0-45be-4716-b512-30689b4ae962.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786176118849-1f6e22b0-45be-4716-b512-30689b4ae962-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "a645974dd654e493b87b763efaa535ecca7a1635983febc48c875b9a74f420cf:1786176118856-2514df57-fa44-4cca-bd79-6ca64969d28e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786176118856-2514df57-fa44-4cca-bd79-6ca64969d28e-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "508c7402a7020b8c66ab73f1f7acae0557389db3ca5d9090ae72a5e408cdf28e:1786176128683-10b076d2-fb4e-4303-b431-20a47638b3be.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786176128683-10b076d2-fb4e-4303-b431-20a47638b3be-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3dc00e602caed200174480c88869be107b0641aa6fdce077d3f88391be9cbdb6:1786176129064-a4308f5e-c524-4b8c-be37-d1bf03283b83.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786176129064-a4308f5e-c524-4b8c-be37-d1bf03283b83-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3851c3b04a99809739cdd7f814112f6e7d3775e9984acd66a15053cdb44fd082:1786176129084-c33cdf6b-ff21-4ea0-acb5-58dc13087627.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786176129084-c33cdf6b-ff21-4ea0-acb5-58dc13087627-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "31bb46a2c87e223e9e06cbb39d7eb21ba2408c35559661fa397ba478ffc9d31e:1786176129117-20fde6c6-6ad6-4f6e-b40f-01f57bd63f26.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786176129117-20fde6c6-6ad6-4f6e-b40f-01f57bd63f26-display.webp",
+      "sort_order": 5
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCT272",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T08:02:12.519Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/products/hct272",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCT272",
+  "slug": "hct272",
+  "sort_order": 0,
+  "summary": {
+    "en": "A stylish and functional coffee table crafted with attention to detail. Designed for contemporary homes, hospitality spaces, and commercial projects, it offers customizable options in size, material, and finish.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 08:02:12",
+  "videos": []
+}

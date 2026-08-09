@@ -1,0 +1,97 @@
+{
+  "booth_number": "",
+  "content": {
+    "en": "1153",
+    "zh": ""
+  },
+  "cover": {
+    "media_key": "43337d955b4a40e2b430f3b194b43c2ecf356bdc5388fc761f8e0fcc7030ca09:1784716917113-603kjl.png",
+    "public_url": "/ness-furniture-site/media/derived/1784716917113-603kjl-display.webp"
+  },
+  "dates": {
+    "end": "2024-03-10",
+    "start": "2024-03-08"
+  },
+  "event_name": "",
+  "id": 3,
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "media": [
+    {
+      "alt_text": {
+        "en": "4月9日 (3)(6).mp4",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "0ec56d824d1cc996f8fcd10078394338b043ea6c5fc3c9628bc5883e3ec60ba3:1786189103854-c131ebe9-bc85-4ce0-b281-cbaf43eab41c.mp4",
+      "media_type": "video",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/uploads/1786189103854-c131ebe9-bc85-4ce0-b281-cbaf43eab41c.mp4",
+      "sort_order": 0,
+      "title": {
+        "en": "4月9日 (3)(6).mp4",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2024-3月广州CIFF.png",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": true,
+      "media_key": "43337d955b4a40e2b430f3b194b43c2ecf356bdc5388fc761f8e0fcc7030ca09:1784716917113-603kjl.png",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1784716917113-603kjl-display.webp",
+      "sort_order": 1,
+      "title": {
+        "en": "2024-3月广州CIFF.png",
+        "zh": ""
+      }
+    }
+  ],
+  "published_at": "2026-08-08T11:39:35.057Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/exhibitions/ciff",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "ciff",
+  "sort_order": 0,
+  "subtitle": {
+    "en": "",
+    "zh": ""
+  },
+  "summary": {
+    "en": "",
+    "zh": ""
+  },
+  "title": {
+    "en": "2024 5Ist CIFF GuangzhouMarch 2024",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 11:39:35",
+  "venue": ""
+}

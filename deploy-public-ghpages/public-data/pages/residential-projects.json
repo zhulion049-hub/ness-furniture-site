@@ -1,0 +1,149 @@
+{
+  "hero": {
+    "autoplay": false,
+    "controls": false,
+    "cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "loop": false,
+    "muted": false,
+    "overlay_depth": "0.95",
+    "poster": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "secondary_cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "source_type": "",
+    "type": "",
+    "video": {
+      "media_key": null,
+      "public_url": ""
+    }
+  },
+  "name": {
+    "en": "Residential Projects",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T11:06:21.063Z",
+  "sections": [
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "43652c2336f9459a9a909bbdc1b9c46be71b9b7deae303e04c65d64cf0a0eb1e:1785894181510-cf0d7b1d-8b58-4143-bd88-ac4d6090d28c.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181510-cf0d7b1d-8b58-4143-bd88-ac4d6090d28c-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "hero",
+      "section_type": "hero",
+      "settings": {},
+      "sort_order": 0,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [
+        {
+          "alt_text": "住宅案例",
+          "caption": "",
+          "media_key": "43652c2336f9459a9a909bbdc1b9c46be71b9b7deae303e04c65d64cf0a0eb1e:1785894181510-cf0d7b1d-8b58-4143-bd88-ac4d6090d28c.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181510-cf0d7b1d-8b58-4143-bd88-ac4d6090d28c-display.webp",
+          "sort_order": 0
+        },
+        {
+          "alt_text": "住宅案例",
+          "caption": "",
+          "media_key": "3667deac85af17188cc4e6f015fea3a93bcf63e8923bc83c8ca4776bd9eac77d:1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181470-219cd790-aa98-4e74-a3eb-d56d8c9b380b-display.webp",
+          "sort_order": 1
+        },
+        {
+          "alt_text": "住宅案例",
+          "caption": "",
+          "media_key": "f3f27e20b9af0891507e32465b5f70e2fcba6e1fdd87871223a033813f1c0e90:1785894181500-6f6c7dc6-f56c-4604-9e6c-918cb4611ca7.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181500-6f6c7dc6-f56c-4604-9e6c-918cb4611ca7-display.webp",
+          "sort_order": 2
+        },
+        {
+          "alt_text": "住宅案例",
+          "caption": "",
+          "media_key": "3db036b8aa2549fd2e15883f164be0b2ca321f1a4e9aef8de3eaf37284752fd2:1785894181258-d2803212-b286-4c78-b98e-e378bfa937d8.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181258-d2803212-b286-4c78-b98e-e378bfa937d8-display.webp",
+          "sort_order": 3
+        },
+        {
+          "alt_text": "住宅案例",
+          "caption": "",
+          "media_key": "aec28604c4d89f4188e57d6eee2eaa4014224e5b8ed1db21d66a4099113747d2:1785894181176-b5193633-c6d5-4826-9d7e-29372714beb7.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181176-b5193633-c6d5-4826-9d7e-29372714beb7-display.webp",
+          "sort_order": 4
+        }
+      ],
+      "images": [],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "gallery",
+      "section_type": "gallery",
+      "settings": {},
+      "sort_order": 2,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "og_image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "residential-projects",
+  "updated_at": "2026-08-08T11:06:21.063Z"
+}

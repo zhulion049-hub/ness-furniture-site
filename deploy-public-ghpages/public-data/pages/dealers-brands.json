@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "autoplay": false,
+    "controls": false,
+    "cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "loop": false,
+    "muted": false,
+    "overlay_depth": "0.95",
+    "poster": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "secondary_cta": {
+      "href": "",
+      "label": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "source_type": "",
+    "type": "",
+    "video": {
+      "media_key": null,
+      "public_url": ""
+    }
+  },
+  "name": {
+    "en": "Dealers and Brands",
+    "zh": ""
+  },
+  "published_at": "2026-08-08T11:03:20.484Z",
+  "sections": [
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "With extensive furniture manufacturing experience and a complete supply chain system, NESS provides global furniture brands, distributors, and retailers with one-stop solutions from product development and customization to mass production and delivery.",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "85de7fd3bf0aaf87cb13effff26881539db6ce12ea6bcc29b9c8d28ffb4626b8:1785894181125-4a0d3c75-dafb-48ee-b5bd-92a90a9d7c42.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181125-4a0d3c75-dafb-48ee-b5bd-92a90a9d7c42-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "hero",
+      "section_type": "hero",
+      "settings": {},
+      "sort_order": 0,
+      "subtitle": "",
+      "title": "Professional Furniture Manufacturing Solutions for Global Brands and Distributors",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [
+        {
+          "alt_text": "住宅案例",
+          "caption": "",
+          "media_key": "b5f9f58f78509e9a340c2cacad451021f9ea33ed07319ac76473117669adfed5:1785894181745-31dbe578-1aeb-4caf-8238-9402ff9a0359.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181745-31dbe578-1aeb-4caf-8238-9402ff9a0359-display.webp",
+          "sort_order": 0
+        },
+        {
+          "alt_text": "住宅案例",
+          "caption": "",
+          "media_key": "0bfb4f27262d1f28a7d45c1aaf948b147c5299f80bd4266cfea8ec28f100d883:1785894181715-425b23f9-62bb-4451-ad8c-a509244f08cb.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1785894181715-425b23f9-62bb-4451-ad8c-a509244f08cb-display.webp",
+          "sort_order": 1
+        }
+      ],
+      "images": [],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "gallery-1786186967514",
+      "section_type": "gallery",
+      "settings": {},
+      "sort_order": 1,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "og_image": {
+      "media_key": null,
+      "public_url": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "dealers-brands",
+  "updated_at": "2026-08-08T11:03:20.484Z"
+}

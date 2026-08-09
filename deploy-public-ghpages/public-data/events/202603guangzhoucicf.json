@@ -1,0 +1,350 @@
+{
+  "booth_number": "",
+  "content": {
+    "en": "We joined the Guangzhou Furniture Fair in March 2026 to introduce our microcement furniture collection to more international buyers and explore new project opportunities. The collection received strong interest and positive feedback from visitors throughout the show.",
+    "zh": ""
+  },
+  "cover": {
+    "media_key": "367e9957f3cbd7492ee330bbe6db46697526d81cc43f25e71972fd6f8c569c04:1786200053011-81519927-c319-4e72-b57a-9bc5cc14ea04.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1786200053011-81519927-c319-4e72-b57a-9bc5cc14ea04-display.webp"
+  },
+  "dates": {
+    "end": "2026-03-21",
+    "start": "2026-03-18"
+  },
+  "event_name": "",
+  "id": 5,
+  "location": {
+    "city": "Guangzhou",
+    "country": "China"
+  },
+  "media": [
+    {
+      "alt_text": {
+        "en": "f02088cfa2476dbb9d546fbc3565434d.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "81fbab85ef2bf547d6cb06b4bba4c90daff1ad5861aef084f92258ed7272ec2e:1786200052828-d58ce0dc-90a2-41ff-8279-8c16a1b070a9.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200052828-d58ce0dc-90a2-41ff-8279-8c16a1b070a9-display.webp",
+      "sort_order": 0,
+      "title": {
+        "en": "f02088cfa2476dbb9d546fbc3565434d.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2c3b84494cdc4f80818a1f0f40242af0.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "318d14be0c57ded4e645c046f4aadc8e01a38dd065536a412d26f320a0eb6309:1786200052890-ce97fb12-2760-472b-95ed-199cff54af11.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200052890-ce97fb12-2760-472b-95ed-199cff54af11-display.webp",
+      "sort_order": 1,
+      "title": {
+        "en": "2c3b84494cdc4f80818a1f0f40242af0.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2f3bd5c14c75ac98060d72cd471c7c5f.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "e7b7ff75e76ce6cf51722e9bce889ab462b99579cb1d3554a77b95689d0ca0e9:1786200052904-1893fa3f-eb93-4263-b2f7-e2d03d3bc5d5.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200052904-1893fa3f-eb93-4263-b2f7-e2d03d3bc5d5-display.webp",
+      "sort_order": 2,
+      "title": {
+        "en": "2f3bd5c14c75ac98060d72cd471c7c5f.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "3cc4063ddd78e8aac9de3a22cadf1787.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "7cf727b5466c07869b114321ac5f1d2894a967c0eacccb71dca38396a0eec31d:1786200052976-27f12d01-2e9b-445f-8cc0-90bb48062cf9.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200052976-27f12d01-2e9b-445f-8cc0-90bb48062cf9-display.webp",
+      "sort_order": 3,
+      "title": {
+        "en": "3cc4063ddd78e8aac9de3a22cadf1787.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "4f83cbfbba43c7448932b2c44191dd32.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "9a61ca0009bceb8a845a1a4ae889a0824cc86a923716b52992cd35acaccb863a:1786200052994-3aaab640-d30f-4e38-b9bf-75dc2c1347e7.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200052994-3aaab640-d30f-4e38-b9bf-75dc2c1347e7-display.webp",
+      "sort_order": 4,
+      "title": {
+        "en": "4f83cbfbba43c7448932b2c44191dd32.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "8b3c159712f27e4f5c5febd40ed9d53b.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": true,
+      "media_key": "367e9957f3cbd7492ee330bbe6db46697526d81cc43f25e71972fd6f8c569c04:1786200053011-81519927-c319-4e72-b57a-9bc5cc14ea04.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053011-81519927-c319-4e72-b57a-9bc5cc14ea04-display.webp",
+      "sort_order": 5,
+      "title": {
+        "en": "8b3c159712f27e4f5c5febd40ed9d53b.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "34e1d2458c3c81ab42401d22bdc917a4.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "74de39a2882872d7c9015b3aab3032ce7bdfc7250a8cd22f25ee946038841c74:1786200053071-aafbe53e-58e3-4de2-a9de-8bb3c693a162.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053071-aafbe53e-58e3-4de2-a9de-8bb3c693a162-display.webp",
+      "sort_order": 6,
+      "title": {
+        "en": "34e1d2458c3c81ab42401d22bdc917a4.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "42dd3c246dbfa25baec956c8e71e47eb.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "4e34042bfac6f2b3d07b7c5c15062930690dda359caff60c409096e23176d8c5:1786200053090-8eec7db6-c6d3-43c8-ac0d-fd193fee548e.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053090-8eec7db6-c6d3-43c8-ac0d-fd193fee548e-display.webp",
+      "sort_order": 7,
+      "title": {
+        "en": "42dd3c246dbfa25baec956c8e71e47eb.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "305a37d22a798ab5df1f097470d3c0de.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "ab03f8e2c1cebd408fe7e55dd3c0d59aeec76c161886e587e1f679460a7e08e9:1786200053130-c056d915-c82c-4b6e-b69d-68db168b2763.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053130-c056d915-c82c-4b6e-b69d-68db168b2763-display.webp",
+      "sort_order": 8,
+      "title": {
+        "en": "305a37d22a798ab5df1f097470d3c0de.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "585b5ca18abb3d8d86bb370d285b3635.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "70b01b5d951a2d852deb71b1052e9742aad1599982259e17c967afefe095455c:1786200053260-bc1b2d9c-266d-4cd5-8254-a7951cb96750.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053260-bc1b2d9c-266d-4cd5-8254-a7951cb96750-display.webp",
+      "sort_order": 9,
+      "title": {
+        "en": "585b5ca18abb3d8d86bb370d285b3635.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "4766132218cb814607414a288a24b004.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "565771441ef0666e0ce2ca112f3e891e9eb37b6f6006ea629c9fe4c77e80ca95:1786200053324-948e0bdb-1ffe-4fee-acc1-43f4e6adea37.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053324-948e0bdb-1ffe-4fee-acc1-43f4e6adea37-display.webp",
+      "sort_order": 10,
+      "title": {
+        "en": "4766132218cb814607414a288a24b004.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "e3a3a348b7e74d5687cb0ab3d5618834.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "054960d5ac9045f3da05bd20c44450d5bf4643ea263ec053689031d4f933dc07:1786200053356-0721df41-5014-4f56-b425-8a460188b747.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053356-0721df41-5014-4f56-b425-8a460188b747-display.webp",
+      "sort_order": 11,
+      "title": {
+        "en": "e3a3a348b7e74d5687cb0ab3d5618834.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "fa1137bd884c33e0951ee72f80685f04.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "4b3b8f586bb47f124bf2557215de3f317e0db9b2e3595331f392488c249363e0:1786200053430-c2c1e693-8231-401b-bbe0-1ad2d4262318.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786200053430-c2c1e693-8231-401b-bbe0-1ad2d4262318-display.webp",
+      "sort_order": 12,
+      "title": {
+        "en": "fa1137bd884c33e0951ee72f80685f04.jpg",
+        "zh": ""
+      }
+    }
+  ],
+  "published_at": "2026-08-08T14:51:16.010Z",
+  "seo": {
+    "canonical_path": "/ness-furniture-site/exhibitions/202603guangzhoucicf",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "202603guangzhoucicf",
+  "sort_order": 0,
+  "subtitle": {
+    "en": "",
+    "zh": ""
+  },
+  "summary": {
+    "en": "We joined the Guangzhou Furniture Fair in March 2026 to introduce our microcement furniture collection to more international buyers and explore new project opportunities. The collection received strong interest and positive feedback from visitors throughout the show.",
+    "zh": ""
+  },
+  "title": {
+    "en": "2026-3-Guangzhou cicf",
+    "zh": ""
+  },
+  "updated_at": "2026-08-08 14:51:16",
+  "venue": ""
+}
