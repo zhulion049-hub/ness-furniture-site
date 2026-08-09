@@ -57,11 +57,21 @@ jobs:
           # enabled yet (avoids requiring manual Settings -> Pages setup).
           enablement: true
 
+      - name: Prepare clean copy (dereference symlinks for artifact deploy)
+        run: |
+          # deploy-pages rejects artifacts containing symlinks/hard links.
+          # Copy with -L to dereference any links into real files.
+          rm -rf _deploy
+          mkdir -p _deploy
+          cp -rL deploy-public-ghpages/. _deploy/
+          echo "Files: $(find _deploy -type f | wc -l)"
+          echo "Size: $(du -sh _deploy | cut -f1)"
+
       - name: Upload artifact (standard uploader, reliable for many small files)
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: deploy-public-ghpages
+          path: _deploy
           if-no-files-found: error
           retention-days: 1
 
