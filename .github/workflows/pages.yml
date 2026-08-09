@@ -57,12 +57,16 @@ jobs:
           # enabled yet (avoids requiring manual Settings -> Pages setup).
           enablement: true
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact (standard uploader, reliable for many small files)
+        uses: actions/upload-artifact@v4
         with:
-          # Only the static public frontend is published.
+          name: github-pages
           path: deploy-public-ghpages
+          if-no-files-found: error
+          retention-days: 1
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages
