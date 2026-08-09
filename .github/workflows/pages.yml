@@ -41,6 +41,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Verify static frontend completeness
+        run: |
+          echo "Files in deploy-public-ghpages: $(find deploy-public-ghpages -type f | wc -l)"
+          echo "Total size: $(du -sh deploy-public-ghpages | cut -f1)"
+          # Critical integrity check: sample images must exist (they were missing from an earlier artifact upload)
+          test -f "deploy-public-ghpages/media/derived/1786185490723-5b961f63-51a3-44b0-8ab1-1b16f61f594e-display.webp" && echo "Sample image OK"
+          test -f "deploy-public-ghpages/index.html" && echo "index.html OK"
+          test -f "deploy-public-ghpages/.nojekyll" && echo ".nojekyll OK"
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:
