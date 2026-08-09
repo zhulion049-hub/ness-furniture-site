@@ -93,7 +93,7 @@
       {
         "alt_text": "Custom upholstered furniture",
         "description": "Custom upholstered furniture, tables, beds and casegoods.",
-        "href": "/ness-furniture-site/products",
+        "href": "/products",
         "id": 1,
         "media_key": "15e9f197f92b2f73a03a2646a5b85d6fc6ca63b47b49a498edcbff7f3d714347:1784715326640-2ln3n7.jpg",
         "public_url": "/ness-furniture-site/media/derived/1784715326640-2ln3n7-display.webp",
@@ -104,7 +104,7 @@
       {
         "alt_text": "Concrete furniture",
         "description": "Concrete, microcement, GFRC and HPC furniture.",
-        "href": "/ness-furniture-site/concrete-furniture",
+        "href": "/concrete-furniture",
         "id": 2,
         "media_key": "8653b8f0b6b9b0ae074bc9bc564128d4d0215ad75a3b1ee45d2394c605aea5ff:1784716670276-8hvcm1.png",
         "public_url": "/ness-furniture-site/media/derived/1784716670276-8hvcm1-display.webp",
@@ -115,7 +115,7 @@
       {
         "alt_text": "Mosaic craftsmanship",
         "description": "Handcrafted mosaic furniture using natural stone, ceramic and glass.",
-        "href": "/ness-furniture-site/mosaic-atelier",
+        "href": "/mosaic-atelier",
         "id": 3,
         "media_key": "4ab94e426b54d29636d01ab50b1d5010c064f220ae4943017cc6ef458bb98cc0:1784723448679-5oairs.png",
         "public_url": "/ness-furniture-site/media/derived/1784723448679-5oairs-display.webp",
@@ -131,9 +131,9 @@
     "manufacturing_systems_title": "Three Manufacturing Systems",
     "manufacturing_systems_title_zh": "",
     "overlay_depth": "0.95",
-    "primary_cta_href": "/ness-furniture-site/projects",
+    "primary_cta_href": "/projects",
     "primary_cta_label": "View Projects",
-    "secondary_cta_href": "/ness-furniture-site/send-your-project",
+    "secondary_cta_href": "/send-your-project",
     "secondary_cta_label": "Send Your Project",
     "selected_projects": [
       {
@@ -166,39 +166,39 @@
   "navigation": {
     "footer": [
       {
-        "href": "/ness-furniture-site/products",
+        "href": "/products",
         "label": "Products"
       },
       {
-        "href": "/ness-furniture-site/projects",
+        "href": "/projects",
         "label": "Projects"
       },
       {
-        "href": "/ness-furniture-site/concrete-furniture",
+        "href": "/concrete-furniture",
         "label": "Concrete Furniture"
       },
       {
-        "href": "/ness-furniture-site/mosaic-atelier",
+        "href": "/mosaic-atelier",
         "label": "Mosaic Atelier"
       },
       {
-        "href": "/ness-furniture-site/manufacturing",
+        "href": "/manufacturing",
         "label": "Manufacturing"
       },
       {
-        "href": "/ness-furniture-site/quality-control",
+        "href": "/quality-control",
         "label": "Quality Control"
       },
       {
-        "href": "/ness-furniture-site/about-ness",
+        "href": "/about-ness",
         "label": "About NESS"
       },
       {
-        "href": "/ness-furniture-site/contact",
+        "href": "/contact",
         "label": "Contact Us"
       },
       {
-        "href": "/ness-furniture-site/send-your-project",
+        "href": "/send-your-project",
         "label": "Send Your Project"
       }
     ],
@@ -211,7 +211,7 @@
       {
         "label": "Chinese",
         "locale": "zh",
-        "prefix": "/ness-furniture-site/zh"
+        "prefix": "/zh"
       }
     ],
     "primary": [
@@ -220,31 +220,31 @@
         "label": "Home"
       },
       {
-        "href": "/ness-furniture-site/products",
+        "href": "/products",
         "label": "Products"
       },
       {
-        "href": "/ness-furniture-site/projects",
+        "href": "/projects",
         "label": "Projects"
       },
       {
-        "href": "/ness-furniture-site/solutions",
+        "href": "/solutions",
         "label": "Solutions"
       },
       {
-        "href": "/ness-furniture-site/manufacturing",
+        "href": "/manufacturing",
         "label": "Manufacturing"
       },
       {
-        "href": "/ness-furniture-site/materials-craft",
+        "href": "/materials-craft",
         "label": "Materials & Craft"
       },
       {
-        "href": "/ness-furniture-site/about-ness",
+        "href": "/about-ness",
         "label": "About NESS"
       },
       {
-        "href": "/ness-furniture-site/contact",
+        "href": "/contact",
         "label": "Contact"
       }
     ]

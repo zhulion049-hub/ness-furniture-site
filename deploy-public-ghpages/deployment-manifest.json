@@ -1,7 +1,7 @@
 {
   "build_version": "stage82d-ee8b392d2dd99e82",
-  "core_hash": "610836ccca861e0bfc08763778e4664cd535c00cc339c1eaf98e358eae9e7d36",
-  "created_at": "2026-08-09T10:40:49.019Z",
+  "core_hash": "21734909cfd4e9130fe53933c72262b9bbb5e85f05afe46cbd3a83e85f005a70",
+  "created_at": "2026-08-09T17:04:06.041Z",
   "deployment_schema_version": "stage-8.2d-1",
   "file_hash_manifest": "file-hashes.json",
   "media_count": 1781,
@@ -12,6 +12,6 @@
   "route_manifest": "route-manifest.json",
   "source_commit": "bfb1876250d4c8e8bac835bfabeee5c337be6789",
   "total_file_count": 9681,
-  "total_file_size": 4607979091,
+  "total_file_size": 4608010821,
   "validation_report": "validation-report.json"
 }
