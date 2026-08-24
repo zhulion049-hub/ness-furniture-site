@@ -1,0 +1,87 @@
+{
+  "category": {
+    "id": 3,
+    "name": {
+      "en": "Clubs & Lounges",
+      "zh": "会所与休息区"
+    },
+    "slug": "clubhouse"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "df127f25fb5da0001424f10ab17c1f9ea074e34269a19dbe8188caeeac505179:1787037543867-9ab31f15-9bc6-4ab1-a246-ea7f42f7780f.png",
+    "public_url": "/ness-furniture-site/media/derived/1787037543867-9ab31f15-9bc6-4ab1-a246-ea7f42f7780f-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 149,
+  "images": [
+    {
+      "alt_text": "2026最新桌椅图册住贝_136.png",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "df127f25fb5da0001424f10ab17c1f9ea074e34269a19dbe8188caeeac505179:1787037543867-9ab31f15-9bc6-4ab1-a246-ea7f42f7780f.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037543867-9ab31f15-9bc6-4ab1-a246-ea7f42f7780f-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_133.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "b650d1f3b13f1dad9158841f99f9e2d516e5056ace9567b1a11ace7b3a6de93b:1787037543895-20145e37-e7c4-42d7-b262-f0459d58ec31.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037543895-20145e37-e7c4-42d7-b262-f0459d58ec31-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_134.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "c8c51cf81537e9a648ea13b2cef0755e54897531e8c14102a400eda85490d85d:1787037543911-dd556ecf-52ac-4b01-9cee-1d49d27b1011.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037543911-dd556ecf-52ac-4b01-9cee-1d49d27b1011-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_135.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "ce97d8ff4837021424adffdb878640885f1d0af13951043ec2b306e2b618fc9e:1787037543933-8a5ad6bf-7a1e-48a0-b5c4-d39066cade2c.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037543933-8a5ad6bf-7a1e-48a0-b5c4-d39066cade2c-display.webp",
+      "sort_order": 3
+    }
+  ],
+  "location": {
+    "city": "深圳",
+    "country": ""
+  },
+  "name": {
+    "en": "Shenzhen Happy Bay Project Shenzhen, Guangdong, China",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/shenzhen-happy-bay-project-shenzhen-guangdong-china",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "shenzhen-happy-bay-project-shenzhen-guangdong-china",
+  "sort_order": 0,
+  "summary": {
+    "en": "A customized furniture project in Shenzhen, featuring furniture developed to complement the project's design concept and functional requirements. NESS supported the project through material selection, sampling, production and quality control.",
+    "zh": ""
+  },
+  "type": "clubhouse",
+  "updated_at": "2026-08-18 07:20:29",
+  "videos": [],
+  "year": ""
+}

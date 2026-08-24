@@ -1,0 +1,100 @@
+{
+  "applications": "",
+  "category_slug": "dining-chairs",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "780.0",
+    "length": "520.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "500.0"
+  },
+  "featured": false,
+  "id": 402,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "0c26f2af1e9b004647fa51cc0fc4447bb8e9a2f57065c557be725db2bdf3ee47:1786343677345-9203cb39-f88a-434b-a6a2-0b342e15569d.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786343677345-9203cb39-f88a-434b-a6a2-0b342e15569d-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7e74f4a883a36c5da90deb6f46fd54aafa9155c18d159e0241a93f74b834853b:1786343677380-5aa89435-7469-456d-b3f0-8263148bf83a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786343677380-5aa89435-7469-456d-b3f0-8263148bf83a-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "c85b633edd47cae0acbe71fc5033fbc74159f17360d9f46eb795d54c0d3f145c:1786343677411-fc59b8cc-3e73-4791-a7ba-81a187a935ba.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786343677411-fc59b8cc-3e73-4791-a7ba-81a187a935ba-display.webp",
+      "sort_order": 2
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCD-C255",
+    "zh": ""
+  },
+  "published_at": "2026-08-10T06:34:42.665Z",
+  "seo": {
+    "canonical_path": "/products/hcd-c255",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCD-C255",
+  "slug": "hcd-c255",
+  "sort_order": 0,
+  "summary": {
+    "en": "Crafted with quality materials, refined craftsmanship, and ergonomic design, our dining chairs offer lasting comfort, durability, and contemporary style.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-10 06:34:42",
+  "videos": []
+}

@@ -1,0 +1,100 @@
+{
+  "applications": "",
+  "category_slug": "beds-headboards",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "1280.0",
+    "length": "3900.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "2170.0"
+  },
+  "featured": false,
+  "id": 514,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "1ae9fe409826153ffa7e742dbdc805cc4e4ba3c6036e3633117cada5822eee57:1786417053257-a905e58f-636d-4ba9-a73b-d3591bf52ca5.png",
+      "public_url": "/ness-furniture-site/media/derived/1786417053257-a905e58f-636d-4ba9-a73b-d3591bf52ca5-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3f7389081b06588162dd848bb301ed0eece9905a41ced2c8b4fb09d26ffc4e45:1786417053273-9a848716-92a4-4b6d-94e5-e69f49ec296d.png",
+      "public_url": "/ness-furniture-site/media/derived/1786417053273-9a848716-92a4-4b6d-94e5-e69f49ec296d-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "d314a7f008cee55a240bf67f7fe49529f45159f1ea2585d14a786c8e109073a9:1786417053284-d25e8af9-efdc-4e29-97a1-7435a02e81a1.png",
+      "public_url": "/ness-furniture-site/media/derived/1786417053284-d25e8af9-efdc-4e29-97a1-7435a02e81a1-display.webp",
+      "sort_order": 2
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCB260",
+    "zh": ""
+  },
+  "published_at": "2026-08-11T02:57:35.863Z",
+  "seo": {
+    "canonical_path": "/products/hcb260",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCB260",
+  "slug": "hcb260",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-11 06:12:46",
+  "videos": []
+}

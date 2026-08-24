@@ -1,0 +1,7 @@
+:HL["/ness-furniture-site/_next/static/css/db1d1eca5fff8463.css","style"]
+:HL["/ness-furniture-site/media/derived/1787037921101-3911081a-363b-4ce3-b6bf-f6605b45f7e0-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787037921055-a4825290-6d2d-466d-a6bc-fab5c01fd65d-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787037921076-a0ba46d2-58ae-4322-93e0-74c484eebd16-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787037921125-3adaf8bf-4ba0-4d9e-8036-347279c26694-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787037921145-c6a58c8c-72a9-4b65-b8e4-b58235c9cf51-display.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"jilin-qingshuiwan-residential-project-jilin-jilin-china","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-7335872086ec400f"}

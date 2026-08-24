@@ -38,13 +38,13 @@
     "en": "Material & Finish Customization",
     "zh": ""
   },
-  "published_at": "2026-08-07T07:04:08.754Z",
+  "published_at": "2026-08-17T10:15:19.095Z",
   "sections": [
     {
       "body": "",
       "button_link": "",
       "button_text": "",
-      "description": "",
+      "description": "NESS helps clients develop and coordinate materials, colors, textures, upholstery, coatings, and surface finishes for furniture projects. From reference images and physical samples to approved specifications and batch production, we help translate design requirements into practical manufacturing solutions.",
       "display_name": "",
       "focus_point": "center",
       "gallery": [],
@@ -53,8 +53,8 @@
           "alt_text": "",
           "caption": "",
           "focus_point": "center",
-          "media_key": "13e3b2260e1630b3e6724c343984a3658025a0c0bece822e6a9127f4760b3f23:1786084574151-8c8c4a86-5213-49b4-910e-3826466cd3a4.png",
-          "public_url": "/ness-furniture-site/media/derived/1786084574151-8c8c4a86-5213-49b4-910e-3826466cd3a4-display.webp",
+          "media_key": "b29778759393abc5a19c5021d91ba5561261daf4721104b3182877cdb7035c45:1786701864766-0e08dda0-ad13-47b0-ac6b-58019ace7896.png",
+          "public_url": "/ness-furniture-site/media/derived/1786701864766-0e08dda0-ad13-47b0-ac6b-58019ace7896-display.webp",
           "sort_order": 0
         }
       ],
@@ -65,8 +65,179 @@
       "section_type": "hero",
       "settings": {},
       "sort_order": 0,
+      "subtitle": "Turning Material References into Production-Ready Specifications.",
+      "title": "Material & Finish Customization",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "db9906cb9a15d0a939087dded853a70307841f63e23b947634f726ea0465358b:1786702281117-a67215e9-d63f-407e-b34c-e0fadd37d66e.png",
+          "public_url": "/ness-furniture-site/media/derived/1786702281117-a67215e9-d63f-407e-b34c-e0fadd37d66e-display.webp",
+          "sort_order": 0
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "3ba54d0bcba71191d0af0b020e80ae9df8ceed243c83256f7901a36c8ef741bc:1786702281057-2db26a5b-788c-4fa1-976c-c03ded47cfa2.png",
+          "public_url": "/ness-furniture-site/media/derived/1786702281057-2db26a5b-788c-4fa1-976c-c03ded47cfa2-display.webp",
+          "sort_order": 1
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "be29a56c1cbda82f2cc07b4ffa65b13e201507fa61e6c258d8a0bda8fad12a8e:1786961601128-4ef6aeee-08f7-4ce5-9423-796d754c825a.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961601128-4ef6aeee-08f7-4ce5-9423-796d754c825a-display.webp",
+          "sort_order": 2
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "9abface9e2b3549797936e36203cb3925ee6b9d73721abd410bc6ec4002b7643:1786961601095-ca0eb95c-7199-4fac-8aa8-ec5a420c94e5.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961601095-ca0eb95c-7199-4fac-8aa8-ec5a420c94e5-display.webp",
+          "sort_order": 3
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "c5d1261d49e5ee7aded41c364fba94ab75b2e8ac0210641da71d7c9313f38274:1786961601047-b60c77d1-bbf5-4406-8be4-ae30c0670872.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961601047-b60c77d1-bbf5-4406-8be4-ae30c0670872-display.webp",
+          "sort_order": 4
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "21f291808c3532b195b88b87a9aca0125091541fb7bcfd92f41919cff214152e:1786961601005-0521912f-f2bb-44ab-a430-0dbcee2bde4d.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961601005-0521912f-f2bb-44ab-a430-0dbcee2bde4d-display.webp",
+          "sort_order": 5
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "dd69b39124167ae1cb1e377d974e6f975db9af557a1951fefd1197b6c31f6d01:1786961600884-cc0b6504-d7e0-43f4-be67-a3ac6636e70e.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961600884-cc0b6504-d7e0-43f4-be67-a3ac6636e70e-display.webp",
+          "sort_order": 6
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "b54f659c9fcadc50637124b053022ebbfcfa8b9a3c432789b53a55b2db22bf73:1786961600834-8caa9033-8ea5-40cb-9096-959d8848b5b8.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961600834-8caa9033-8ea5-40cb-9096-959d8848b5b8-display.webp",
+          "sort_order": 7
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "b383b6433aa91c7a902a53030b8e6ffe2dd9f42df874b27e241b189cc40f68af:1786961600785-ba566751-dd5d-43aa-8710-0f09d0a2c5ce.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961600785-ba566751-dd5d-43aa-8710-0f09d0a2c5ce-display.webp",
+          "sort_order": 8
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "7556271f03cb2b9779d026a78f3317d2be03a227cada0e1bf817e815ab26d692:1786961600729-30cac9f5-badb-456f-bf7f-4d631d0aa3be.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961600729-30cac9f5-badb-456f-bf7f-4d631d0aa3be-display.webp",
+          "sort_order": 9
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "3b4d6220d9b9e7a880124153d1bf8e32c0c10299c5a5f6f1cdbbbbe048d283f0:1786961600663-057ef2db-3c91-4471-8f9c-c5bc827eea81.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961600663-057ef2db-3c91-4471-8f9c-c5bc827eea81-display.webp",
+          "sort_order": 10
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "269edbd5c303fd996904934fcb0797c4083ff18c7ea6b83903711d9e888b2841:1786961418766-34abb2bc-43e5-483a-bad7-939fb4bcf479.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961418766-34abb2bc-43e5-483a-bad7-939fb4bcf479-display.webp",
+          "sort_order": 11
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "f1377359f904d2363e64ea07b40a0b8c4c749d273bd97ddfe7678610186ea6b4:1786961418751-f64b5295-0e75-40ce-9cd5-90c16c77d4a5.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961418751-f64b5295-0e75-40ce-9cd5-90c16c77d4a5-display.webp",
+          "sort_order": 12
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "f0e41b6a8e6fefe981678c0584b0e5c9a2a1d8985920e6858caa9ebe140a8c5e:1786961418735-a544af8d-e65a-4e56-9f89-92d5d9f68a7c.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961418735-a544af8d-e65a-4e56-9f89-92d5d9f68a7c-display.webp",
+          "sort_order": 13
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "312db0b74bb21445da30407616c0224ddd368afd7fae4f762ad7f937329741b4:1786961418714-0898048e-9a55-4e27-accf-545833b69ef8.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961418714-0898048e-9a55-4e27-accf-545833b69ef8-display.webp",
+          "sort_order": 14
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "84c1ec199682b0033b06cb6e0148d94e1c9810cf5064dbde050c7f309211c727:1786961418697-aa5e7e11-fcee-430a-8a25-fc45669970e1.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961418697-aa5e7e11-fcee-430a-8a25-fc45669970e1-display.webp",
+          "sort_order": 15
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "72e01728234ec9378efd58f8afaa8fd8341bee7cfae797fe9e572aa2a99c267e:1786961418687-e432f9e2-5a0f-4d51-94f4-81878af58deb.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961418687-e432f9e2-5a0f-4d51-94f4-81878af58deb-display.webp",
+          "sort_order": 16
+        },
+        {
+          "alt_text": "",
+          "caption": "",
+          "media_key": "985f9237913f80e81e27ae526ea2108d853a8385c4cd241f3c1361dc5afc83d0:1786961418663-459dd068-ed48-44fb-90e8-d9bd6d55d0b1.png",
+          "public_url": "/ness-furniture-site/media/derived/1786961418663-459dd068-ed48-44fb-90e8-d9bd6d55d0b1-display.webp",
+          "sort_order": 17
+        }
+      ],
+      "images": [],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "gallery-1786702234743",
+      "section_type": "gallery",
+      "settings": {},
+      "sort_order": 1,
       "subtitle": "",
-      "title": "",
+      "title": "Materials We Can Customize",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "Share your drawings, reference images or material requirements with our team. We can help you evaluate options, develop samples and prepare production-ready specifications.",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "cta-1786961675682",
+      "section_type": "cta",
+      "settings": {},
+      "sort_order": 2,
+      "subtitle": "",
+      "title": "Let’s Develop the Right Material Solution for Your Project",
       "translations": {},
       "video_media_key": null,
       "video_url": ""
@@ -87,5 +258,5 @@
     }
   },
   "slug": "solutions/material-finish-customization",
-  "updated_at": "2026-08-07T07:04:08.754Z"
+  "updated_at": "2026-08-17T10:15:19.095Z"
 }

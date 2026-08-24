@@ -1,0 +1,79 @@
+{
+  "category": {
+    "id": 8,
+    "name": {
+      "en": "Retail & Branded Spaces",
+      "zh": "零售与品牌空间"
+    },
+    "slug": "commercial"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "39aeadc3e66570a34c943075294656c23f8d6524adaa02d8b85479fc70642c92:1785894181909-c8c042d6-622c-4c89-92d6-88e47ca62877.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1785894181909-c8c042d6-622c-4c89-92d6-88e47ca62877-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 137,
+  "images": [
+    {
+      "alt_text": "微信图片_20241007172003.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "01aecdc4e6f5a944f3dd89bcb60822a039360d7a2e577dc981a540d7d854327f:1785894181930-cb9fce1b-505b-4655-bb23-38466c4d17d6.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181930-cb9fce1b-505b-4655-bb23-38466c4d17d6-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "微信图片_20241007172000.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "39aeadc3e66570a34c943075294656c23f8d6524adaa02d8b85479fc70642c92:1785894181909-c8c042d6-622c-4c89-92d6-88e47ca62877.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181909-c8c042d6-622c-4c89-92d6-88e47ca62877-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "微信图片_20241007172001.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "76c11bed305a9fd75b6cda39ebfb0ec052d2b53f0d85f3b6aa057dd8fc641ac6:1785894181921-86f78121-aee6-44e7-b651-5d1376d0f229.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181921-86f78121-aee6-44e7-b651-5d1376d0f229-display.webp",
+      "sort_order": 2
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Project References",
+    "zh": "Project References"
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/project-references",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "project-references",
+  "sort_order": 0,
+  "summary": {
+    "en": "With extensive experience in furniture design and manufacturing, we provide one-stop solutions from product development to production delivery, meeting the diverse needs of various projects.",
+    "zh": ""
+  },
+  "type": "commercial",
+  "updated_at": "2026-08-14 07:29:59",
+  "videos": [],
+  "year": ""
+}

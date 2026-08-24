@@ -1,0 +1,91 @@
+{
+  "applications": "",
+  "category_slug": "sofas-sectionals",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "600.0",
+    "length": "3120.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "1000.0"
+  },
+  "featured": false,
+  "id": 643,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "3d84e7a43e3ff198cb406a3ccc8291f0b19cb8af9f61ea6e72f497716b23a2d3:1786521813928-80a55228-8087-48cc-915d-efb3b918bd02.jpeg",
+      "public_url": "/ness-furniture-site/media/derived/1786521813928-80a55228-8087-48cc-915d-efb3b918bd02-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "a6476c3fa9f17d7b64d3010e5ec004443b1cc4a8ec04f894302cc207deabd169:1786521830571-9a6de52b-c4c3-4c85-b8c4-1ac8f1470848.png",
+      "public_url": "/ness-furniture-site/media/derived/1786521830571-9a6de52b-c4c3-4c85-b8c4-1ac8f1470848-display.webp",
+      "sort_order": 1
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCS283",
+    "zh": ""
+  },
+  "published_at": "2026-08-12T08:03:53.615Z",
+  "seo": {
+    "canonical_path": "/products/hcs283",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCS283",
+  "slug": "hcs283",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining modern design aesthetics with exceptional comfort, our sofa collection features elegant forms, premium quality, and functional design for refined residential, hospitality, and commercial spaces.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-12 08:03:53",
+  "videos": []
+}

@@ -36,8 +36,125 @@
         "en": "2026-3-Guangzhou cicf",
         "zh": ""
       },
-      "updated_at": "2026-08-08 14:51:16",
+      "updated_at": "2026-08-23 03:25:01",
       "venue": ""
+    },
+    {
+      "cover": {
+        "media_key": "bc7f1da8e6ec5b2564b9f148fe0b6cf7390eb4bf3dc0b35d623ffec70f8c30e7:1786333403708-34eb8e00-935e-4148-8c91-c85e0d9dd4af.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786333403708-34eb8e00-935e-4148-8c91-c85e0d9dd4af-display.webp"
+      },
+      "dates": {
+        "end": "2025-12-18",
+        "start": "2025-12-16"
+      },
+      "event_name": "",
+      "id": 9,
+      "location": {
+        "city": "深圳",
+        "country": ""
+      },
+      "seo": {
+        "canonical_path": "/exhibitions/2025-shenzhen-design-weck",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "2025-shenzhen-design-weck",
+      "sort_order": 0,
+      "summary": {
+        "en": "",
+        "zh": "2025深圳设计周"
+      },
+      "title": {
+        "en": "2025 Shenzhen Design Weck",
+        "zh": "2025 Shenzhen Design Weck"
+      },
+      "updated_at": "2026-08-23 03:03:15",
+      "venue": "深圳"
+    },
+    {
+      "cover": {
+        "media_key": "984a4e4794e5687b5a0da4e2ebfb13a6e78424d3fd4b39bc9ad97f150191d569:1786333107342-b14b102b-bdf3-4991-b1ab-f9887eb39be9.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786333107342-b14b102b-bdf3-4991-b1ab-f9887eb39be9-display.webp"
+      },
+      "dates": {
+        "end": "2025-09-13",
+        "start": "2025-09-11"
+      },
+      "event_name": "",
+      "id": 8,
+      "location": {
+        "city": "上海",
+        "country": ""
+      },
+      "seo": {
+        "canonical_path": "/exhibitions/2025-shanghai-international-furniture-fair",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "2025 Shanghai International Furniture Fair",
+          "zh": "2025 Shanghai International Furniture Fair"
+        }
+      },
+      "slug": "2025-shanghai-international-furniture-fair",
+      "sort_order": 0,
+      "summary": {
+        "en": "NESS Furniture participated in the 2025 Shanghai International Furniture Fair, presenting our latest furniture collections and manufacturing capabilities.",
+        "zh": ""
+      },
+      "title": {
+        "en": "2025 Shanghai International Furniture Fair",
+        "zh": ""
+      },
+      "updated_at": "2026-08-23 03:12:42",
+      "venue": "上海"
+    },
+    {
+      "cover": {
+        "media_key": "c204461cf453b725f569d5237c4b05ea13099cf653d26ea7fed9017ca7f6a7c4:1786332807996-84f00241-7908-4b36-bb11-e71d6e4ebf4c.jpg",
+        "public_url": "/ness-furniture-site/media/derived/1786332807996-84f00241-7908-4b36-bb11-e71d6e4ebf4c-display.webp"
+      },
+      "dates": {
+        "end": "2025-03-21",
+        "start": "2025-03-18"
+      },
+      "event_name": "",
+      "id": 7,
+      "location": {
+        "city": "广州",
+        "country": ""
+      },
+      "seo": {
+        "canonical_path": "/exhibitions/2025-ciff-guangzhou",
+        "description": {
+          "en": "",
+          "zh": ""
+        },
+        "title": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      "slug": "2025-ciff-guangzhou",
+      "sort_order": 0,
+      "summary": {
+        "en": "2025 CIFF Guangzhou",
+        "zh": "2025 CIFF Guangzhou"
+      },
+      "title": {
+        "en": "2025 CIFF Guangzhou",
+        "zh": ""
+      },
+      "updated_at": "2026-08-19 08:19:48",
+      "venue": "广州"
     },
     {
       "cover": {
@@ -114,7 +231,7 @@
         "en": "Dubai International Furniture Fair",
         "zh": ""
       },
-      "updated_at": "2026-08-08 14:35:26",
+      "updated_at": "2026-08-23 03:26:52",
       "venue": ""
     }
   ]

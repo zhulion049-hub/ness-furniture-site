@@ -1,0 +1,280 @@
+{
+  "applications": "",
+  "category_slug": "lounge-chairs",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "730.0",
+    "length": "1030.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "630.0"
+  },
+  "featured": false,
+  "id": 602,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "e806b9b0d3e48eb78b66fca5e342321af6f849294567d6fd9a07e248722e38d2:1786504537432-4f87a840-66d1-450c-a0f8-7a0db2d67e54.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537432-4f87a840-66d1-450c-a0f8-7a0db2d67e54-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "ec4830be7a1bc6498d172d2ede9efd7e1b091a979bce81674c969845237f3086:1786504537479-7ba29331-7cf0-4cd0-821c-4a80a1f7d251.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537479-7ba29331-7cf0-4cd0-821c-4a80a1f7d251-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "00bbbc0d535f687241bab16d9873266a3b1d897227e212d98a444eedf193a178:1786504537497-09d46fa6-3181-448d-a672-3fe82ceff10b.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537497-09d46fa6-3181-448d-a672-3fe82ceff10b-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "5cb6ad9b6ef045d4788a329f533d0c2dbaa3144ac0621629c565ad7020db1b30:1786504537517-c9b0bb03-76c8-4e55-bad5-4055bbd5a6e3.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537517-c9b0bb03-76c8-4e55-bad5-4055bbd5a6e3-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7bf9e5d439defeada17d351fe68f4c920647d5e1c3f52296cc35466ce755b39c:1786504537533-c96875df-b903-4751-8454-95eae5d66210.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537533-c96875df-b903-4751-8454-95eae5d66210-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "53d102091e953cd6dbc1844e9b52ec559e7028f49d53458153972dadf090e6ce:1786504537576-1b9c6985-9677-43fe-a77f-a09687b35900.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537576-1b9c6985-9677-43fe-a77f-a09687b35900-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "1e52590f01c41b2cbe01f700a58ca5178a8e5e657f9c57372bb87c5b33586235:1786504537600-3a1bc0d4-4f66-483d-8447-78a04647738e.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537600-3a1bc0d4-4f66-483d-8447-78a04647738e-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "73ecdbae360d713e9c56a7a391243967341f8e5fb04861469876f2d9b3216c97:1786504537627-d514c476-95a2-4fe7-8bd2-0580317ba972.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537627-d514c476-95a2-4fe7-8bd2-0580317ba972-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "e7f03b955828d646a73354c2b0f9c0f5a2a5bc419329368a27440694172c87c3:1786504537662-ff70efb8-d3c5-42a7-9871-3a266bad6d27.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537662-ff70efb8-d3c5-42a7-9871-3a266bad6d27-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "97d0b136c2978034f34da9bd6668b5d5c6ff9ac55bad225aee1083c58611f6fe:1786504537681-85755724-4f58-4a8f-88ee-d0467443c782.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537681-85755724-4f58-4a8f-88ee-d0467443c782-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "8dacf761a155c33171ab653efbe9cfef904181f048b24b47f48f0bad363d3d4b:1786504537706-66c3e7c8-7326-4f4f-ac13-e16421e92824.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537706-66c3e7c8-7326-4f4f-ac13-e16421e92824-display.webp",
+      "sort_order": 10
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "d0bc809312e8e8339435dfe22786d368af23fd9c2047fa601ba54c860c8c4d66:1786504537727-94b7f3d0-3c06-45d3-b681-25c5ed9e8950.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537727-94b7f3d0-3c06-45d3-b681-25c5ed9e8950-display.webp",
+      "sort_order": 11
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "ccf0773bd33102bd2a80027a03fdf1d8b6033a41fa0757b997e36ae1c9a260c1:1786504537744-985911dd-b27d-4ee1-a26e-0286a83dafb6.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537744-985911dd-b27d-4ee1-a26e-0286a83dafb6-display.webp",
+      "sort_order": 12
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "6de52312725dfb9ecdcea0619f5bf576f75defae2cf7f68b7eb7de1a7715fc35:1786504537762-2518131c-b485-485d-82ad-281c9f96d305.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537762-2518131c-b485-485d-82ad-281c9f96d305-display.webp",
+      "sort_order": 13
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "0e0a1774743045390be6937837e844e19c8a9438386908343a2b642ec61648bb:1786504537782-5caf7bd4-ded3-4cb3-b150-36d217f9d71a.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537782-5caf7bd4-ded3-4cb3-b150-36d217f9d71a-display.webp",
+      "sort_order": 14
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "c3c0a567eafb49ee97ccbe5cdb12cd34d2d9c7aa8f7bcfe1495eb2d7709a1e9e:1786504537797-8f3249f4-4b95-46b1-bb42-43c575c548b3.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537797-8f3249f4-4b95-46b1-bb42-43c575c548b3-display.webp",
+      "sort_order": 15
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "bf68746adc3ab127997c4ddb1b66c4b758eeaf366bcebfc9abe3a98f657689ab:1786504537842-f50f69ea-c911-4e86-9ef0-817883f9e60e.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537842-f50f69ea-c911-4e86-9ef0-817883f9e60e-display.webp",
+      "sort_order": 16
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "a6a57c927456a87fa14d5591ebc082adbc3323f46b53ade9918867424cb9e313:1786504537894-ce363e18-644c-45d0-8afb-b1d979f20002.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537894-ce363e18-644c-45d0-8afb-b1d979f20002-display.webp",
+      "sort_order": 17
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "ef33a1004736c03f7273994418fde2df9395f9bf64751aacbbd03dd7cccb1d98:1786504537934-3dbd33fb-e9b0-4058-a8e2-02d2e83f7356.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537934-3dbd33fb-e9b0-4058-a8e2-02d2e83f7356-display.webp",
+      "sort_order": 18
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b63f98cf5702b698b002af0c555b57e3dfa2b49fb2c3275844e6cace8bd8017b:1786504537953-c8362159-85ce-4679-8f65-64cdbf6c4dfc.png",
+      "public_url": "/ness-furniture-site/media/derived/1786504537953-c8362159-85ce-4679-8f65-64cdbf6c4dfc-display.webp",
+      "sort_order": 19
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "317646b7df74b4db5c741ffe3c899a2255c7c7a5ae36bad8bc36213d5dbed122:1786504538028-395e5ca2-c235-4e16-a65e-1384ed2bdd4e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786504538028-395e5ca2-c235-4e16-a65e-1384ed2bdd4e-display.webp",
+      "sort_order": 20
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "76b7974da00cc3acf109888e2dbfc24b4c7393a23ed52ef4a6db7c8cb3d0d377:1786504538072-9792c0f3-795a-49f6-8d7d-0c993ef1932a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786504538072-9792c0f3-795a-49f6-8d7d-0c993ef1932a-display.webp",
+      "sort_order": 21
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7d16881ecc8b8b3b0992c78aa97844d0fe9560aa01076c7344d1c99a5ff7b0dd:1786504538111-67338d19-91fc-4102-91f1-a7c2e1589fc2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786504538111-67338d19-91fc-4102-91f1-a7c2e1589fc2-display.webp",
+      "sort_order": 22
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCC353",
+    "zh": ""
+  },
+  "published_at": "2026-08-12T03:15:55.083Z",
+  "seo": {
+    "canonical_path": "/products/hcc353",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCC353",
+  "slug": "hcc353",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our lounge chair collection delivers elegant and functional seating solutions for residential, hospitality, and commercial spaces.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-12 03:15:55",
+  "videos": []
+}

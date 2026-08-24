@@ -20,7 +20,7 @@
         }
       },
       "slug": "about-ness",
-      "updated_at": "2026-08-08T15:00:23.625Z"
+      "updated_at": "2026-08-14T08:42:03.455Z"
     },
     {
       "name": {
@@ -42,7 +42,7 @@
         }
       },
       "slug": "contact",
-      "updated_at": "2026-08-06T02:14:52.536Z"
+      "updated_at": "2026-08-18T09:33:11.516Z"
     },
     {
       "name": {
@@ -86,7 +86,7 @@
         }
       },
       "slug": "dealers-brands",
-      "updated_at": "2026-08-08T11:03:20.484Z"
+      "updated_at": "2026-08-17T08:05:50.259Z"
     },
     {
       "name": {
@@ -108,7 +108,7 @@
         }
       },
       "slug": "exhibitions",
-      "updated_at": "2026-08-08T11:40:53.160Z"
+      "updated_at": "2026-08-20T01:12:37.250Z"
     },
     {
       "name": {
@@ -130,7 +130,7 @@
         }
       },
       "slug": "hotels-ff-e",
-      "updated_at": "2026-08-08T10:59:48.543Z"
+      "updated_at": "2026-08-18T09:45:38.031Z"
     },
     {
       "name": {
@@ -152,7 +152,7 @@
         }
       },
       "slug": "interior-designers",
-      "updated_at": "2026-08-08T11:04:38.493Z"
+      "updated_at": "2026-08-17T08:24:00.910Z"
     },
     {
       "name": {
@@ -196,7 +196,7 @@
         }
       },
       "slug": "materials-craft",
-      "updated_at": "2026-08-08T11:34:25.936Z"
+      "updated_at": "2026-08-14T08:01:26.944Z"
     },
     {
       "name": {
@@ -218,7 +218,7 @@
         }
       },
       "slug": "quality-control",
-      "updated_at": "2026-08-08T11:32:54.015Z"
+      "updated_at": "2026-08-14T08:07:46.577Z"
     },
     {
       "name": {
@@ -240,16 +240,16 @@
         }
       },
       "slug": "residential-projects",
-      "updated_at": "2026-08-08T11:06:21.063Z"
+      "updated_at": "2026-08-17T08:42:54.952Z"
     },
     {
       "name": {
-        "en": "Hotels and FF&E",
+        "en": "Solutions",
         "zh": ""
       },
       "seo": {
         "description": {
-          "en": "",
+          "en": "NESS provides hotel furniture and FF&E manufacturing solutions for hotels, resorts, restaurants and hospitality projects, supporting specification review, custom development, sampling, production, QC, packing and delivery.",
           "zh": ""
         },
         "og_image": {
@@ -257,16 +257,16 @@
           "public_url": ""
         },
         "title": {
-          "en": "",
+          "en": "Hotel Furniture & FF&E Manufacturing Solutions | NESS Furniture",
           "zh": ""
         }
       },
       "slug": "solutions",
-      "updated_at": "2026-08-06T01:57:53.173Z"
+      "updated_at": "2026-08-17T09:33:17.085Z"
     },
     {
       "name": {
-        "en": "Custom Furniture Development",
+        "en": "Custom Furniture Development & Manufacturing | NESS Furniture",
         "zh": ""
       },
       "seo": {
@@ -284,7 +284,7 @@
         }
       },
       "slug": "solutions/custom-furniture-development",
-      "updated_at": "2026-08-07T07:11:18.755Z"
+      "updated_at": "2026-08-14T10:09:02.036Z"
     },
     {
       "name": {
@@ -306,7 +306,7 @@
         }
       },
       "slug": "solutions/material-finish-customization",
-      "updated_at": "2026-08-07T07:04:08.754Z"
+      "updated_at": "2026-08-17T10:15:19.095Z"
     },
     {
       "name": {
@@ -328,7 +328,7 @@
         }
       },
       "slug": "solutions/oem-odm-manufacturing",
-      "updated_at": "2026-08-07T06:39:16.746Z"
+      "updated_at": "2026-08-18T09:51:41.083Z"
     },
     {
       "name": {
@@ -350,7 +350,7 @@
         }
       },
       "slug": "solutions/private-label-production",
-      "updated_at": "2026-08-07T07:02:09.537Z"
+      "updated_at": "2026-08-17T07:07:03.019Z"
     },
     {
       "name": {

@@ -38,7 +38,7 @@
     "en": "Quality Control",
     "zh": ""
   },
-  "published_at": "2026-08-08T11:32:54.015Z",
+  "published_at": "2026-08-14T08:07:46.577Z",
   "sections": [
     {
       "body": "",
@@ -405,6 +405,41 @@
       "translations": {},
       "video_media_key": null,
       "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "968d0962e27fcc74346af59baba55d447eb1284c7b566d2a045bcf9900c59730:1786694757969-34cafb6c-ef9c-4b01-b608-1b51a44d113e.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1786694757969-34cafb6c-ef9c-4b01-b608-1b51a44d113e-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "video-1786694712356",
+      "section_type": "video",
+      "settings": {
+        "autoplay": true,
+        "loop": true,
+        "video_source_type": "upload"
+      },
+      "sort_order": 4,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": "3fc316b3bf649fa50c58712341e37714a1157592baf41cf270281adcc9586127:1786694774292-c9e0d9ac-7971-4751-b407-4b3c66f8147f.mp4",
+      "video_url": "/ness-furniture-site/uploads/1786694774292-c9e0d9ac-7971-4751-b407-4b3c66f8147f.mp4"
     }
   ],
   "seo": {
@@ -422,5 +457,5 @@
     }
   },
   "slug": "quality-control",
-  "updated_at": "2026-08-08T11:32:54.015Z"
+  "updated_at": "2026-08-14T08:07:46.577Z"
 }

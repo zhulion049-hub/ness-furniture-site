@@ -1,0 +1,6 @@
+:HL["/ness-furniture-site/_next/static/css/db1d1eca5fff8463.css","style"]
+:HL["/ness-furniture-site/media/derived/1787037543867-9ab31f15-9bc6-4ab1-a246-ea7f42f7780f-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787037543895-20145e37-e7c4-42d7-b262-f0459d58ec31-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787037543911-dd556ecf-52ac-4b01-9cee-1d49d27b1011-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787037543933-8a5ad6bf-7a1e-48a0-b5c4-d39066cade2c-display.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shenzhen-happy-bay-project-shenzhen-guangdong-china","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-7335872086ec400f"}

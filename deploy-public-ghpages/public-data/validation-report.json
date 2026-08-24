@@ -1,14 +1,14 @@
 {
   "absolute_path_scan_passed": true,
   "all_json_parseable": true,
-  "core_hash": "ee8b392d2dd99e822246e9a8c395eaa42d19b40f12970b2777d7c8521a72a6a9",
+  "core_hash": "7335872086ec400f8bac42fc102c987d8acad31163cf746be46a908cb7ae2a47",
   "counts": {
     "categories": 11,
-    "events": 3,
-    "media": 1781,
+    "events": 6,
+    "media": 5170,
     "pages": 17,
-    "products": 149,
-    "projects": 10
+    "products": 450,
+    "projects": 30
   },
   "deployment_profile": "stage-8.2d-1",
   "export_version": "stage-8.2b-1",

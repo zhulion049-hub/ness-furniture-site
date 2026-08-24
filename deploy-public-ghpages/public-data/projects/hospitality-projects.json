@@ -1,0 +1,95 @@
+{
+  "category": {
+    "id": 1,
+    "name": {
+      "en": "Hotels & Resorts",
+      "zh": "酒店与度假村"
+    },
+    "slug": "hotel"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "5dd7b095dfe2c51aa163bc141204172b59f314ff4f78217b3a998d6b175b5bcb:1785894181026-85c8cdb3-4a9e-41da-85af-bbbd8e0dba00.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1785894181026-85c8cdb3-4a9e-41da-85af-bbbd8e0dba00-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 136,
+  "images": [
+    {
+      "alt_text": "微信图片_20241007172026.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "5dd7b095dfe2c51aa163bc141204172b59f314ff4f78217b3a998d6b175b5bcb:1785894181026-85c8cdb3-4a9e-41da-85af-bbbd8e0dba00.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181026-85c8cdb3-4a9e-41da-85af-bbbd8e0dba00-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "微信图片_20241007171947.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "2c9143b0ce1948467b5aefebd25cc4d4db5502ca8ff8857780f198e7ee972d25:1785894181755-fb083cfc-1ae0-4d77-bdaf-d8c8eefa4590.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181755-fb083cfc-1ae0-4d77-bdaf-d8c8eefa4590-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "微信图片_20241007171949.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "3faa79cd651e4361b49014860a03f35d5f4f6f612bc63d6cdeac8809cb0c30d7:1785894181769-da77fcf8-3607-4d80-a0cd-220edc9a9cbc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894181769-da77fcf8-3607-4d80-a0cd-220edc9a9cbc-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "微信图片_20241007172024.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "d0e4d733cfbd5de04c2bd0ab85843cb195c8d6c5d4c4462955cf1478d401fd1a:1785894182186-508e25e3-c16e-4b69-812d-6481652e0bd9.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894182186-508e25e3-c16e-4b69-812d-6481652e0bd9-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "微信图片_20241007172025.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "c96fe8ab5b3c3af262fcdfa32bce617e7ee1a807eefb346579196b673dffefa3:1785894182196-0f267e4a-aeb2-42f4-97c0-3a36fb692019.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894182196-0f267e4a-aeb2-42f4-97c0-3a36fb692019-display.webp",
+      "sort_order": 4
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Hospitality Projects",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/hospitality-projects",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "hospitality-projects",
+  "sort_order": 0,
+  "summary": {
+    "en": "From individual custom pieces to large-scale projects, NESS provides professional manufacturing support to ensure design visions are successfully realized.",
+    "zh": ""
+  },
+  "type": "hotel",
+  "updated_at": "2026-08-14 07:25:22",
+  "videos": [],
+  "year": ""
+}

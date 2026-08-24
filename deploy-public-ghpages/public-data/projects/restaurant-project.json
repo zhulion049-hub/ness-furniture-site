@@ -1,0 +1,103 @@
+{
+  "category": {
+    "id": 2,
+    "name": {
+      "en": "Restaurants & Cafes",
+      "zh": "餐厅与咖啡馆"
+    },
+    "slug": "restaurant"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "ee30c0d4f8ec5c5f7b26593414cb2afee051f72c21e835a802ccaf40a6a2ad63:1786691704500-1fb11037-f98c-4b8c-8734-93dd7ab36fe9.png",
+    "public_url": "/ness-furniture-site/media/derived/1786691704500-1fb11037-f98c-4b8c-8734-93dd7ab36fe9-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 134,
+  "images": [
+    {
+      "alt_text": "图片5.png",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "ee30c0d4f8ec5c5f7b26593414cb2afee051f72c21e835a802ccaf40a6a2ad63:1786691704500-1fb11037-f98c-4b8c-8734-93dd7ab36fe9.png",
+      "public_url": "/ness-furniture-site/media/derived/1786691704500-1fb11037-f98c-4b8c-8734-93dd7ab36fe9-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "、.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0631c68db8261bdce4cfd51ddd612f0bbcb9776591fa7aefbb57abb5bfd42602:1786691704524-58508eda-99e7-4571-b80a-7556b4c0f3f1.png",
+      "public_url": "/ness-furniture-site/media/derived/1786691704524-58508eda-99e7-4571-b80a-7556b4c0f3f1-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "图片1.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "9183454edbd650324d5dadab08336b36d07b6edcbab2a6c6fe85650ce77cea4e:1786691704541-fec0ae01-d277-4969-8c06-70bfdace7aa4.png",
+      "public_url": "/ness-furniture-site/media/derived/1786691704541-fec0ae01-d277-4969-8c06-70bfdace7aa4-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "图片2.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "c748b38e04cba2a3695e37740819867c31bfa9a7f1f7b6952f6f22b3d972ec2b:1786691704553-e1b78159-68ea-4fb7-8820-e1746af1da26.png",
+      "public_url": "/ness-furniture-site/media/derived/1786691704553-e1b78159-68ea-4fb7-8820-e1746af1da26-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "图片3.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "1fdf051c97ed9ed1920eee7f7736f600c731d6627f82d99c2efba8522b3a45c1:1786691704568-0682c38d-3406-42c1-a027-a0e625e6d888.png",
+      "public_url": "/ness-furniture-site/media/derived/1786691704568-0682c38d-3406-42c1-a027-a0e625e6d888-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "图片4.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "b526c643f8cd665310b792f3c2eb96f286f9fda78a3352baaf483402239b4204:1786691704582-19fad415-476d-4aa4-a6f9-93d59ee329a1.png",
+      "public_url": "/ness-furniture-site/media/derived/1786691704582-19fad415-476d-4aa4-a6f9-93d59ee329a1-display.webp",
+      "sort_order": 5
+    }
+  ],
+  "location": {
+    "city": "吉林",
+    "country": ""
+  },
+  "name": {
+    "en": "Restaurant Project",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/restaurant-project",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "restaurant-project",
+  "sort_order": 0,
+  "summary": {
+    "en": "Hotel Restaurant Project\nCustom furniture supplied for a hotel restaurant, including dining tables, chairs, and complementary furniture designed to create a cohesive and functional dining environment.",
+    "zh": ""
+  },
+  "type": "restaurant",
+  "updated_at": "2026-08-14 07:15:31",
+  "videos": [],
+  "year": ""
+}

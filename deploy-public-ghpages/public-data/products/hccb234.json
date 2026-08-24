@@ -1,0 +1,118 @@
+{
+  "applications": "",
+  "category_slug": "cabinets-casegoods",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "504.0",
+    "length": "520.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "395.0"
+  },
+  "featured": false,
+  "id": 449,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "3e6236b532db49bd84606f1b76c631f4494e5f5c5354dec700e453db77e61de8:1786350913562-ef08cdc2-5c6b-477a-b0d6-743bc9c5db06.png",
+      "public_url": "/ness-furniture-site/media/derived/1786350913562-ef08cdc2-5c6b-477a-b0d6-743bc9c5db06-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "5b9fecfa3c6c779a287c5670c4a332096709ac1a1a98cfc3393516f3635f2842:1786350913583-ed9729b7-7eaa-4f44-b754-fee6c06caf77.png",
+      "public_url": "/ness-furniture-site/media/derived/1786350913583-ed9729b7-7eaa-4f44-b754-fee6c06caf77-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "f22c695da919ed138ac2a3c5a30f6ca201883de8264a8c4f02fd812b25090c50:1786350913594-e305e8fb-1dab-4cd3-a647-aaaa8f943fc8.png",
+      "public_url": "/ness-furniture-site/media/derived/1786350913594-e305e8fb-1dab-4cd3-a647-aaaa8f943fc8-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "5627f870a2c2aadc66179a1f261ea0d5f6554d5bccf5b4e13bbe17778abbc1d8:1786350913607-dbf2f75e-2968-4815-9e88-903a16b90794.png",
+      "public_url": "/ness-furniture-site/media/derived/1786350913607-dbf2f75e-2968-4815-9e88-903a16b90794-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "dd3dcf24007dc66ad7a06d576860aef73bd7cd3d37b02ecc9dc16c2c91677e23:1786350913664-fafec560-9d50-46c0-9f59-f44eb0857df9.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786350913664-fafec560-9d50-46c0-9f59-f44eb0857df9-display.webp",
+      "sort_order": 4
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCCB234",
+    "zh": ""
+  },
+  "published_at": "2026-08-10T08:35:30.391Z",
+  "seo": {
+    "canonical_path": "/products/hccb234",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCCB234",
+  "slug": "hccb234",
+  "sort_order": 0,
+  "summary": {
+    "en": "Crafted with quality materials, refined craftsmanship, and thoughtful structures, our cabinet collection combines durability, functionality, and contemporary style.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-10 08:46:28",
+  "videos": []
+}

@@ -1,0 +1,95 @@
+{
+  "category": {
+    "id": 2,
+    "name": {
+      "en": "Restaurants & Cafes",
+      "zh": "餐厅与咖啡馆"
+    },
+    "slug": "restaurant"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "dca90612b4efa0c7aed4ccf4db806e4fbeeda283000fc237be4aed1a1e8b73c3:1787037921101-3911081a-363b-4ce3-b6bf-f6605b45f7e0.png",
+    "public_url": "/ness-furniture-site/media/derived/1787037921101-3911081a-363b-4ce3-b6bf-f6605b45f7e0-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 152,
+  "images": [
+    {
+      "alt_text": "2026最新桌椅图册住贝_123.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "c986a754f289ed9b96ad84199d82d4f5657f0ca2e334de9e07b7fc7fe9f46dce:1787037921055-a4825290-6d2d-466d-a6bc-fab5c01fd65d.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037921055-a4825290-6d2d-466d-a6bc-fab5c01fd65d-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_119.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "a9fc974429ac206c2fccbaa405641464c3b22038b07c5544870f0e934bd28fd6:1787037921076-a0ba46d2-58ae-4322-93e0-74c484eebd16.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037921076-a0ba46d2-58ae-4322-93e0-74c484eebd16-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_120.png",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "dca90612b4efa0c7aed4ccf4db806e4fbeeda283000fc237be4aed1a1e8b73c3:1787037921101-3911081a-363b-4ce3-b6bf-f6605b45f7e0.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037921101-3911081a-363b-4ce3-b6bf-f6605b45f7e0-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_121.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "46be084c22e3a0c46f4293a15305f8d753365a78b65615dfeb2bc33d4a274203:1787037921125-3adaf8bf-4ba0-4d9e-8036-347279c26694.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037921125-3adaf8bf-4ba0-4d9e-8036-347279c26694-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_122.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "33e7953011565b47476064e8a4d48966d77c9b3e1cb51f6c4cc59e60d5b1c80f:1787037921145-c6a58c8c-72a9-4b65-b8e4-b58235c9cf51.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037921145-c6a58c8c-72a9-4b65-b8e4-b58235c9cf51-display.webp",
+      "sort_order": 4
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Jilin Qingshuiwan Residential Project Jilin, Jilin, China",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/jilin-qingshuiwan-residential-project-jilin-jilin-china",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "jilin-qingshuiwan-residential-project-jilin-jilin-china",
+  "sort_order": 0,
+  "summary": {
+    "en": "A customized residential furniture project in Jilin, featuring furniture developed to complement the interior environment and meet specific project requirements. NESS supported the project through material selection, sampling, production and quality control.",
+    "zh": ""
+  },
+  "type": "restaurant",
+  "updated_at": "2026-08-18 07:25:50",
+  "videos": [],
+  "year": ""
+}

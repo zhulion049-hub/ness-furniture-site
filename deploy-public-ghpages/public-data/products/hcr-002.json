@@ -1,0 +1,82 @@
+{
+  "applications": "",
+  "category_slug": "cabinets-casegoods",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "3099.0",
+    "length": "800.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "290.0"
+  },
+  "featured": false,
+  "id": 458,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "615a06e139fddb8dc633d14484f7f277680db1d0852f13a6b71acdea2520aeb1:1786351528924-7563babe-c4d3-4ce3-85d6-9cbe0aaf3abf.png",
+      "public_url": "/ness-furniture-site/media/derived/1786351528924-7563babe-c4d3-4ce3-85d6-9cbe0aaf3abf-display.webp",
+      "sort_order": 0
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCR-002",
+    "zh": ""
+  },
+  "published_at": "2026-08-10T08:45:31.862Z",
+  "seo": {
+    "canonical_path": "/products/hcr-002",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCR-002",
+  "slug": "hcr-002",
+  "sort_order": 0,
+  "summary": {
+    "en": "Crafted with quality materials, refined craftsmanship, and thoughtful structures, our cabinet collection combines durability, functionality, and contemporary style.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-10 08:46:28",
+  "videos": []
+}

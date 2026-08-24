@@ -1,0 +1,181 @@
+{
+  "applications": "",
+  "category_slug": "ottomans-benches",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "420.0",
+    "length": "1680.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "520.0"
+  },
+  "featured": false,
+  "id": 468,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "57d6ededd2bf03038715bca522842536cc0c3bb4ce25182ba2f624298a6c2698:1786354383972-bcd36514-460d-42b0-9510-cd1b506dfbc7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354383972-bcd36514-460d-42b0-9510-cd1b506dfbc7-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "aac73571aa23cd7ce8f32b27ee04d1c5ed4780bdf6ea87b3f659a8cc0ed9df06:1786354383986-bde29bc5-502e-4d79-b88b-a280c083af75.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354383986-bde29bc5-502e-4d79-b88b-a280c083af75-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "30c77ce71ec76eeb6be7ff7ee53124246c2ca992ded269d675286d9b8f1e830c:1786354383999-be94f0c7-69a2-4554-b95e-27272cf888e3.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354383999-be94f0c7-69a2-4554-b95e-27272cf888e3-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "84ef739090f32210fbf3a2689f8feaa1c19ae4895c0d6865679eb3b0aeb6e8b2:1786354384014-2017179b-948d-4eed-949c-853db2302c91.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384014-2017179b-948d-4eed-949c-853db2302c91-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "0bc103803889b57265813937dd5974b27470bd26673b25559508d81ca5cb5370:1786354384028-2e1a99f5-a676-4fdf-94c8-132037edaaaf.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384028-2e1a99f5-a676-4fdf-94c8-132037edaaaf-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "c2cc82bf7cc70752832207157a415b4af6ba5a37409c924ceb269272646fed42:1786354384044-85a7b1d4-9014-4a7c-83d6-43d7773bb042.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384044-85a7b1d4-9014-4a7c-83d6-43d7773bb042-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "ab555cfa09673cdba1f4c977f6a30315ed3e1d311cb853024a55dc5e8eb4b48d:1786354384059-a32237b0-6915-4a46-a04d-75c21d92ebed.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384059-a32237b0-6915-4a46-a04d-75c21d92ebed-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "b089edee83776598b30a0a919437748af56d486ebc4c92d05303aaec2ae6679f:1786354384079-ac8eb877-031d-47e0-8d85-c53bfff2ee5f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384079-ac8eb877-031d-47e0-8d85-c53bfff2ee5f-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "6ad8eceeda014b57be7565c633822eef975ba41911863c28a1b159414e85fc52:1786354384092-4a121450-7434-4a9d-b3dc-c5dccfd533ab.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384092-4a121450-7434-4a9d-b3dc-c5dccfd533ab-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "3f2b6eed786cec1f1f7b4841ef099ad17e19b12e0224565d1e8e81dbd8b5b5f1:1786354384107-b66da7ee-3075-46a3-862e-1b635670e050.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384107-b66da7ee-3075-46a3-862e-1b635670e050-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "09c14cd16cf46125490fa2f8a72dba370f35b6a0266c2db9d2d32ac244c86f6f:1786354384124-04dffc5c-e609-4eb9-bcd4-478b2d836c09.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384124-04dffc5c-e609-4eb9-bcd4-478b2d836c09-display.webp",
+      "sort_order": 10
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "e355f91a83a2a2759ba3bb5c010e1792b075616686266669095dd5db000f1a65:1786354384145-f7dbbb5b-5e12-4ebc-80cc-19b44ebf1c94.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786354384145-f7dbbb5b-5e12-4ebc-80cc-19b44ebf1c94-display.webp",
+      "sort_order": 11
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCC241",
+    "zh": ""
+  },
+  "published_at": "2026-08-10T09:35:51.488Z",
+  "seo": {
+    "canonical_path": "/products/hcc241",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCC241",
+  "slug": "hcc241",
+  "sort_order": 0,
+  "summary": {
+    "en": "Crafted with quality materials and refined craftsmanship, our daybeds are designed for comfort, style, and functionality across various interior spaces.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-10 09:47:09",
+  "videos": []
+}

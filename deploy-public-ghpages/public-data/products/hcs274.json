@@ -1,0 +1,136 @@
+{
+  "applications": "",
+  "category_slug": "sofas-sectionals",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "680.0",
+    "length": "3600.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "1620.0"
+  },
+  "featured": false,
+  "id": 638,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "99182a9b205b6bf4f9810d82d0e961bcbd092ba4f7b11cdb425e304fb4aff9ce:1786520889913-e6a18df6-43a5-4a2b-a0c1-614fc295a900.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786520889913-e6a18df6-43a5-4a2b-a0c1-614fc295a900-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "af1f75c4f410030db1409ba2c1672a8ff50cb1446d1e8b52f2b90168c32e6ece:1786520889925-a1143202-9348-47aa-bd38-073737ec09ce.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786520889925-a1143202-9348-47aa-bd38-073737ec09ce-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "10ce0567136124ac21e53a54c56fa45cac3180277290a31ab1fc69b0a81ef6e6:1786520889971-af2ab2cb-fdbc-4126-9aed-94578836fc7b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786520889971-af2ab2cb-fdbc-4126-9aed-94578836fc7b-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "4571b82581c201b0cf6c7cee26b5b54954fc3ac9270a2aac6dea6cd4cfe8fa49:1786520890031-7fab06c3-2c08-4994-b130-6dafe3d45962.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786520890031-7fab06c3-2c08-4994-b130-6dafe3d45962-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "54f2ef9063c9be88aac238598bb450de3b7319757584ce87079743b2dc7b8690:1786520890075-5c16e98b-247b-4b41-946d-0ab6791a772d.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786520890075-5c16e98b-247b-4b41-946d-0ab6791a772d-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "950201651d8b05f797a7a71e2d8b872491e1f55406a18a725f2a597b052cb41a:1786520890112-8f5bbfc2-e3b1-4fdc-899b-efc2df717036.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786520890112-8f5bbfc2-e3b1-4fdc-899b-efc2df717036-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "5fbdcb363d4bd111261e57dce8837e9a452a1c964955f60b6e2dc74acfce0fa8:1786520890163-16f94bcb-4f18-4d37-9b95-70491ad947a0.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786520890163-16f94bcb-4f18-4d37-9b95-70491ad947a0-display.webp",
+      "sort_order": 6
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCS274",
+    "zh": ""
+  },
+  "published_at": "2026-08-12T07:48:24.408Z",
+  "seo": {
+    "canonical_path": "/products/hcs274",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCS274",
+  "slug": "hcs274",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining modern design aesthetics with exceptional comfort, our sofa collection features elegant forms, premium quality, and functional design for refined residential, hospitality, and commercial spaces.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-12 07:48:24",
+  "videos": []
+}

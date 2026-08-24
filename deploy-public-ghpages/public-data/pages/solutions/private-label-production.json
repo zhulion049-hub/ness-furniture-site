@@ -5,7 +5,7 @@
     "cta": {
       "href": "",
       "label": {
-        "en": "",
+        "en": "Build Your Furniture Collection",
         "zh": ""
       }
     },
@@ -38,13 +38,13 @@
     "en": "Private Label Production",
     "zh": ""
   },
-  "published_at": "2026-08-07T07:02:09.537Z",
+  "published_at": "2026-08-17T07:07:03.019Z",
   "sections": [
     {
       "body": "",
       "button_link": "",
       "button_text": "",
-      "description": "",
+      "description": "NESS Furniture works with furniture dealers, distributors, and brands to develop, manufacture, and supply furniture collections for long-term business. From OEM and ODM development to sampling, production, quality control, packaging, and repeat orders, we provide a flexible manufacturing system that can grow with your product range.",
       "display_name": "",
       "focus_point": "center",
       "gallery": [],
@@ -53,8 +53,8 @@
           "alt_text": "",
           "caption": "",
           "focus_point": "center",
-          "media_key": "13e3b2260e1630b3e6724c343984a3658025a0c0bece822e6a9127f4760b3f23:1786084574151-8c8c4a86-5213-49b4-910e-3826466cd3a4.png",
-          "public_url": "/ness-furniture-site/media/derived/1786084574151-8c8c4a86-5213-49b4-910e-3826466cd3a4-display.webp",
+          "media_key": "b29778759393abc5a19c5021d91ba5561261daf4721104b3182877cdb7035c45:1786701864766-0e08dda0-ad13-47b0-ac6b-58019ace7896.png",
+          "public_url": "/ness-furniture-site/media/derived/1786701864766-0e08dda0-ad13-47b0-ac6b-58019ace7896-display.webp",
           "sort_order": 0
         }
       ],
@@ -65,8 +65,8 @@
       "section_type": "hero",
       "settings": {},
       "sort_order": 0,
-      "subtitle": "",
-      "title": "",
+      "subtitle": "A Manufacturing Partner for Growing Furniture Collections.",
+      "title": "Dealers & Furniture Brands",
       "translations": {},
       "video_media_key": null,
       "video_url": ""
@@ -87,5 +87,5 @@
     }
   },
   "slug": "solutions/private-label-production",
-  "updated_at": "2026-08-07T07:02:09.537Z"
+  "updated_at": "2026-08-17T07:07:03.019Z"
 }

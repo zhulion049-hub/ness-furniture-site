@@ -38,7 +38,7 @@
     "en": "Materials and Craft",
     "zh": ""
   },
-  "published_at": "2026-08-08T11:34:25.936Z",
+  "published_at": "2026-08-14T08:01:26.944Z",
   "sections": [
     {
       "body": "",
@@ -163,6 +163,114 @@
       "translations": {},
       "video_media_key": null,
       "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "9f4c19800afc96fc56aa4de6be89dac5bed0d90dc3ebabe2536ede3fdf269ffb:1786187353393-64bb8d4c-887c-4233-87ec-87c1bc485a7c.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1786187353393-64bb8d4c-887c-4233-87ec-87c1bc485a7c-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "text-image-1786693242528",
+      "section_type": "text-image",
+      "settings": {},
+      "sort_order": 2,
+      "subtitle": "Materials Selected for Design. Craftsmanship Built for Production.",
+      "title": "Materials & Craftsmanship",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [
+        {
+          "alt_text": "",
+          "caption": "",
+          "focus_point": "center",
+          "media_key": "1ac11c1bf1f833ef760c4f70f359b231155279febc2f1cdfa69422e2bbb51a9c:1786187353512-ca7f8022-5b36-448f-80e5-53d621458731.jpg",
+          "public_url": "/ness-furniture-site/media/derived/1786187353512-ca7f8022-5b36-448f-80e5-53d621458731-display.webp",
+          "sort_order": 0
+        }
+      ],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "cta-1786693679443",
+      "section_type": "cta",
+      "settings": {},
+      "sort_order": 3,
+      "subtitle": "",
+      "title": "Materials We Work With",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "From material preparation and forming to surface finishing and final inspection, our manufacturing processes are developed around the requirements of each furniture product.",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "video-1786693908201",
+      "section_type": "video",
+      "settings": {
+        "video_source_type": "upload"
+      },
+      "sort_order": 4,
+      "subtitle": "",
+      "title": "",
+      "translations": {},
+      "video_media_key": "0676d1a232b54deead407dd01a90de1b4754f6ea9b026cec7c08f61a7bdd7d47:1786694039202-97a7b196-b680-47dd-9422-f577810cad2e.mp4",
+      "video_url": "/ness-furniture-site/uploads/1786694039202-97a7b196-b680-47dd-9422-f577810cad2e.mp4"
+    },
+    {
+      "body": "",
+      "button_link": "",
+      "button_text": "",
+      "description": "Materials define the character of furniture, while craftsmanship determines how that character is brought to life. At NESS Furniture, we work with a wide range of materials—from wood, upholstery, and metal to stone, concrete, GFRC, microcement, and mosaic. Each material is selected and processed according to the design, structure, finish, and application of the product. Through controlled sampling, production, finishing, and quality inspection, we turn material possibilities into furniture that is ready for real-world projects.",
+      "display_name": "",
+      "focus_point": "center",
+      "gallery": [],
+      "images": [],
+      "overlay_depth": "0.95",
+      "poster_media_key": null,
+      "poster_url": "",
+      "section_key": "rich_text-1786694310025",
+      "section_type": "rich_text",
+      "settings": {},
+      "sort_order": 5,
+      "subtitle": "",
+      "title": "Materials & Craftsmanship",
+      "translations": {},
+      "video_media_key": null,
+      "video_url": ""
     }
   ],
   "seo": {
@@ -180,5 +288,5 @@
     }
   },
   "slug": "materials-craft",
-  "updated_at": "2026-08-08T11:34:25.936Z"
+  "updated_at": "2026-08-14T08:01:26.944Z"
 }

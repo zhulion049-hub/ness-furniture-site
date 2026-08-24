@@ -1,0 +1,8 @@
+:HL["/ness-furniture-site/_next/static/css/db1d1eca5fff8463.css","style"]
+:HL["/ness-furniture-site/media/derived/1787036151982-a948691e-2793-4938-a746-ff0f22f49f6d-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787036151731-fa21ad44-f12b-4131-a24f-74c2742d6277-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787036151763-bc90a969-6528-44a8-a2cb-1ccbce35b115-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787036151779-e1c480c4-3153-49bb-af9b-e21cfd2dbcb2-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787036151805-5df973f4-a6dc-4722-b783-b5be86ef2a76-display.webp","image"]
+:HL["/ness-furniture-site/media/derived/1787036151934-4f80ce76-3ddf-4000-924c-702ffa8228b1-display.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hilton-hotel-at-star-mountain-plaza","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-7335872086ec400f"}

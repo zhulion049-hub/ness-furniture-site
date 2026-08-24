@@ -8,7 +8,7 @@
   "media_source_target_hashes_verified": true,
   "no_spa_fallback": true,
   "public_route_validation": true,
-  "scan_files": 9675,
+  "scan_files": 26840,
   "sensitive_information_scan": true,
   "test_records_filtered": {
     "modules": 0,

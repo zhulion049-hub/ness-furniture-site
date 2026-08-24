@@ -1,0 +1,118 @@
+{
+  "applications": "[\"Hotel\",\"Resort\",\"Villa\",\"Residential\",\"Apartment\",\"Showroom\"]",
+  "category_slug": "sofas-sectionals",
+  "customization": {
+    "custom_color": true,
+    "custom_material": false,
+    "custom_size": true,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": "方榻：960*960*400\n长榻：960*660*400\n短背：660*320*270\n长背：960*320*270\n短扶手：600*300*150\n长扶手：900*300*150mm"
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "400.0",
+    "length": "960.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "组合沙发，单个模块尺寸",
+    "width": "960.0"
+  },
+  "featured": false,
+  "id": 246,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7a58d40870b681b4646e7038c55b7c265f1e88264c2fa30efc18c354b09ed502:1785997056980-e713467a-a35a-4477-9f72-e1d0b6c54b9b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785997056980-e713467a-a35a-4477-9f72-e1d0b6c54b9b-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "5ed6312d279de3824735b16a61821d3177c73decdcde79aae2387cae5b04fd85:1785997057030-8a583c02-2b25-461f-b454-86839d183ff9.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785997057030-8a583c02-2b25-461f-b454-86839d183ff9-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "6894b9523e64d3b45a3724244e9d08f4de67dad6c7d97a27fbcda11fb5e8edb0:1785997057077-3ed83d31-e6f2-492b-b638-eb3d8cc28112.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785997057077-3ed83d31-e6f2-492b-b638-eb3d8cc28112-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "fbe5b0240d697a19462016a08a4982a2e02b42884d3beb5b00e4cd863c1ff68e:1785997057109-205757ad-c3c2-4dea-b385-1828187052c0.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785997057109-205757ad-c3c2-4dea-b385-1828187052c0-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "9a4aeea5aabfef604a5c664dc703fb25d4c41b783c0ce0d7fe925faab58adf3f:1785997057130-53640acc-692d-48e9-a193-fbe917c50d96.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785997057130-53640acc-692d-48e9-a193-fbe917c50d96-display.webp",
+      "sort_order": 4
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCS226",
+    "zh": ""
+  },
+  "published_at": "2026-08-12 06:35:44",
+  "seo": {
+    "canonical_path": "/products/hcs226",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "沙发系列",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCS226",
+  "slug": "hcs226",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining modern design with functional comfort, our sofa collection offers versatile solutions for various interior spaces.",
+    "zh": "现代设计与舒适功能相结合，打造适用于多种空间场景的高品质沙发组合。"
+  },
+  "updated_at": "2026-08-12 06:35:44",
+  "videos": []
+}

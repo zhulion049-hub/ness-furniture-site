@@ -1,0 +1,100 @@
+{
+  "applications": "",
+  "category_slug": "cabinets-casegoods",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "1800.0",
+    "length": "800.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "800.0"
+  },
+  "featured": false,
+  "id": 464,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "198459b79443bc24573e07caa24231fbaf39b1523d9e5f25189f072f2326054e:1786353184507-06a2af5b-b1b4-44cc-b4fd-4e9312246a4a.png",
+      "public_url": "/ness-furniture-site/media/derived/1786353184507-06a2af5b-b1b4-44cc-b4fd-4e9312246a4a-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "cb8be103d6488744d5b083c806ff420297c765075d51552b26cd4806eae203cd:1786353184536-fc9d3cca-449c-41ba-85cd-6ceaa56e616e.png",
+      "public_url": "/ness-furniture-site/media/derived/1786353184536-fc9d3cca-449c-41ba-85cd-6ceaa56e616e-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7e68f70ff0caee215b936cb0740456c722d58965a588968192ea0487c2a63ae7:1786353184562-ce53ed43-feac-4de8-bd4e-2cce1f1c5587.png",
+      "public_url": "/ness-furniture-site/media/derived/1786353184562-ce53ed43-feac-4de8-bd4e-2cce1f1c5587-display.webp",
+      "sort_order": 2
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCR-007",
+    "zh": ""
+  },
+  "published_at": "2026-08-10T09:13:11.069Z",
+  "seo": {
+    "canonical_path": "/products/hcr-007",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCR-007",
+  "slug": "hcr-007",
+  "sort_order": 0,
+  "summary": {
+    "en": "Crafted with quality materials, refined craftsmanship, and thoughtful structures, our cabinet collection combines durability, functionality, and contemporary style.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-10 09:13:11",
+  "videos": []
+}

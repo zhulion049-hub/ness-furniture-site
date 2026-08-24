@@ -1,0 +1,580 @@
+{
+  "booth_number": "",
+  "content": {
+    "en": "This exhibition brought together furniture brands, designers and buyers from international markets. NESS Furniture presented selected furniture collections and met with customers to discuss OEM, ODM and project cooperation.",
+    "zh": ""
+  },
+  "cover": {
+    "media_key": "984a4e4794e5687b5a0da4e2ebfb13a6e78424d3fd4b39bc9ad97f150191d569:1786333107342-b14b102b-bdf3-4991-b1ab-f9887eb39be9.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1786333107342-b14b102b-bdf3-4991-b1ab-f9887eb39be9-display.webp"
+  },
+  "dates": {
+    "end": "2025-09-13",
+    "start": "2025-09-11"
+  },
+  "event_name": "",
+  "id": 8,
+  "location": {
+    "city": "上海",
+    "country": ""
+  },
+  "media": [
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (23).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "e5a976f0351873d5d7ae2c94fd5022ae435168202b5058c2dafc802c336a50e9:1786333107324-d28331da-ad29-4122-872d-ce8a53d4457b.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107324-d28331da-ad29-4122-872d-ce8a53d4457b-display.webp",
+      "sort_order": 0,
+      "title": {
+        "en": "2025-9月上海展 (23).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (1).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": true,
+      "media_key": "984a4e4794e5687b5a0da4e2ebfb13a6e78424d3fd4b39bc9ad97f150191d569:1786333107342-b14b102b-bdf3-4991-b1ab-f9887eb39be9.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107342-b14b102b-bdf3-4991-b1ab-f9887eb39be9-display.webp",
+      "sort_order": 1,
+      "title": {
+        "en": "2025-9月上海展 (1).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (2).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "6fc47ed0b1a8e4d398d1d31252fe13df114beaec55ec6b120daeb9d181f81781:1786333107354-2937dd4b-b77f-492e-a9a8-e4a7d6186c53.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107354-2937dd4b-b77f-492e-a9a8-e4a7d6186c53-display.webp",
+      "sort_order": 2,
+      "title": {
+        "en": "2025-9月上海展 (2).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (3).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "20e80efafc265872923b38382a537761c083159c201a813465a159c4c732ed78:1786333107365-bde2fa90-d5e9-43a3-8dc7-9fea656500d6.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107365-bde2fa90-d5e9-43a3-8dc7-9fea656500d6-display.webp",
+      "sort_order": 3,
+      "title": {
+        "en": "2025-9月上海展 (3).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (4).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "85ec34a0e00b72eb43441da84ce7042db9eaeff76db49beb6e13b2dd1235305f:1786333107403-5f80696f-d819-4ca0-b00b-af87541086a4.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107403-5f80696f-d819-4ca0-b00b-af87541086a4-display.webp",
+      "sort_order": 4,
+      "title": {
+        "en": "2025-9月上海展 (4).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (5).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "1cf80139b72c49c5ef630ae60a9ce5ec8cdc42b44098a9dcbf007644d2d4e4aa:1786333107428-fed7d7af-4c3a-4f7b-8622-d1b2a1584b9d.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107428-fed7d7af-4c3a-4f7b-8622-d1b2a1584b9d-display.webp",
+      "sort_order": 5,
+      "title": {
+        "en": "2025-9月上海展 (5).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (6).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "341da9c0fa3cf163832ca1621616a0362521779b249a78df03f4f54ec94528fe:1786333107444-4f951a2f-ca72-4ffd-822c-3cdd0e5504b6.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107444-4f951a2f-ca72-4ffd-822c-3cdd0e5504b6-display.webp",
+      "sort_order": 6,
+      "title": {
+        "en": "2025-9月上海展 (6).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (7).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "025bce0703c0f50a435c8d1a88589758588966b651c4d8956834c1095f622fce:1786333107470-a097b43e-153e-4561-937d-9cd64089e990.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107470-a097b43e-153e-4561-937d-9cd64089e990-display.webp",
+      "sort_order": 7,
+      "title": {
+        "en": "2025-9月上海展 (7).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (8).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "2a65b8b94214b9aa4da3b4e451754fcf6f945bd63fad89a9e91a7539733fec92:1786333107500-44de17c8-cf44-4cd1-a840-c6248071b6b6.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107500-44de17c8-cf44-4cd1-a840-c6248071b6b6-display.webp",
+      "sort_order": 8,
+      "title": {
+        "en": "2025-9月上海展 (8).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (9).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "f12a1337e93197a122f004586b7706d7a0d96ad6b6d7fc8cf8479b981f84cbb3:1786333107517-7fa89b02-6b52-4aff-900d-c30c1b9c802c.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107517-7fa89b02-6b52-4aff-900d-c30c1b9c802c-display.webp",
+      "sort_order": 9,
+      "title": {
+        "en": "2025-9月上海展 (9).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (10).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b2afc35c57a830822a06912137dc83fbde3e2a16d9b4755c6edeff746c883947:1786333107543-5c5561fa-8eb6-4ecf-835a-e36b8de7b0a0.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107543-5c5561fa-8eb6-4ecf-835a-e36b8de7b0a0-display.webp",
+      "sort_order": 10,
+      "title": {
+        "en": "2025-9月上海展 (10).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (11).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "7cfacd5d1f8a25cfeadf402419875b8836161e233240c50141c1fc786ce263de:1786333107576-c0c36460-4250-4cc1-a6d2-86742ed7cea2.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107576-c0c36460-4250-4cc1-a6d2-86742ed7cea2-display.webp",
+      "sort_order": 11,
+      "title": {
+        "en": "2025-9月上海展 (11).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (12).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "1150685a687f44a9484f70760b5e4ba1882177a3f7794d73ba53b5181a49cd64:1786333107586-75535cff-cef1-4b59-91d3-a55d138506c2.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107586-75535cff-cef1-4b59-91d3-a55d138506c2-display.webp",
+      "sort_order": 12,
+      "title": {
+        "en": "2025-9月上海展 (12).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (13).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "96f6ee2d6a9654d69a359d0b018d229d92b720bb05af7eefa88d71a9cd37cae8:1786333107597-4c62abc5-b43a-405a-9430-6aa01f73c37a.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107597-4c62abc5-b43a-405a-9430-6aa01f73c37a-display.webp",
+      "sort_order": 13,
+      "title": {
+        "en": "2025-9月上海展 (13).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (14).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "a24fd97f755074bc15bc13df14e3983c59c9e6a1a1fa8d16a82a0fb040fbe9da:1786333107610-46ff864d-aa85-471f-887a-1c95b15eca94.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107610-46ff864d-aa85-471f-887a-1c95b15eca94-display.webp",
+      "sort_order": 14,
+      "title": {
+        "en": "2025-9月上海展 (14).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (15).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "e434f22b7b4fb143cd55acdee6968fefe6d51e662184faad793340bff3b76483:1786333107620-aa3ead68-a483-4784-9ea1-c914b8bf05da.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107620-aa3ead68-a483-4784-9ea1-c914b8bf05da-display.webp",
+      "sort_order": 15,
+      "title": {
+        "en": "2025-9月上海展 (15).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (17).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b9d69d52a8fc4a2bc9ad4721fba21d607bd779e4ac7597d79b7ed09bb8146f78:1786333107631-c9fbd220-b53d-4ddc-9fb1-02644425ead3.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107631-c9fbd220-b53d-4ddc-9fb1-02644425ead3-display.webp",
+      "sort_order": 16,
+      "title": {
+        "en": "2025-9月上海展 (17).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (18).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b7bec29c38cba7905a1ae22a13f1a9b410da7f536261ca77504f44b2dd752864:1786333107659-7ced94a4-48bf-4ebd-ad33-dcc96d80fa84.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107659-7ced94a4-48bf-4ebd-ad33-dcc96d80fa84-display.webp",
+      "sort_order": 17,
+      "title": {
+        "en": "2025-9月上海展 (18).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (19).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "ab8c8f6b85f1ee6680620b9faad0a4414a0eff033e55e9ba5b987e55c89b507f:1786333107677-f220bff7-dfda-40f9-8212-cf135e770c1a.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107677-f220bff7-dfda-40f9-8212-cf135e770c1a-display.webp",
+      "sort_order": 18,
+      "title": {
+        "en": "2025-9月上海展 (19).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (20).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b9dab2d0107ae82bff9a791a8c70cd7e6ee45d9cd1012f42e1a45919b896dd52:1786333107691-7f09cf17-63dd-4442-b7e9-0e98ccbb0b56.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107691-7f09cf17-63dd-4442-b7e9-0e98ccbb0b56-display.webp",
+      "sort_order": 19,
+      "title": {
+        "en": "2025-9月上海展 (20).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (21).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "ec3ce0f2c4cb1e7b71b97bd391c00be7a7ab2e55111f2ceb76f4c430af86eb63:1786333107720-6977c2d2-3ca4-4136-9f01-1df009642182.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107720-6977c2d2-3ca4-4136-9f01-1df009642182-display.webp",
+      "sort_order": 20,
+      "title": {
+        "en": "2025-9月上海展 (21).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-9月上海展 (22).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "5967cb2c9c82b489a45fb7bd96e9699c68c2b49a64c1264e709f586f27510ae9:1786333107731-7533c879-9283-4a98-b8ab-ecce5bf9a3cc.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786333107731-7533c879-9283-4a98-b8ab-ecce5bf9a3cc-display.webp",
+      "sort_order": 21,
+      "title": {
+        "en": "2025-9月上海展 (22).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "4月9日 (1)(1).mp4",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "ad5841527f9d3002ad739cc3397599a770595fbaf0f293bad122ef2d6abbca5c:1786333113585-6a2c6ef3-6f76-439f-91eb-18b387dd1d8c.mp4",
+      "media_type": "video",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/uploads/1786333113585-6a2c6ef3-6f76-439f-91eb-18b387dd1d8c.mp4",
+      "sort_order": 22,
+      "title": {
+        "en": "4月9日 (1)(1).mp4",
+        "zh": ""
+      }
+    }
+  ],
+  "published_at": "2026-08-23T03:12:42.512Z",
+  "seo": {
+    "canonical_path": "/exhibitions/2025-shanghai-international-furniture-fair",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "2025 Shanghai International Furniture Fair",
+      "zh": "2025 Shanghai International Furniture Fair"
+    }
+  },
+  "slug": "2025-shanghai-international-furniture-fair",
+  "sort_order": 0,
+  "subtitle": {
+    "en": "2025-shanghai-international-furniture-fair",
+    "zh": ""
+  },
+  "summary": {
+    "en": "NESS Furniture participated in the 2025 Shanghai International Furniture Fair, presenting our latest furniture collections and manufacturing capabilities.",
+    "zh": ""
+  },
+  "title": {
+    "en": "2025 Shanghai International Furniture Fair",
+    "zh": ""
+  },
+  "updated_at": "2026-08-23 03:12:42",
+  "venue": "上海"
+}

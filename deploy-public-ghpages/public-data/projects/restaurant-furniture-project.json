@@ -1,0 +1,143 @@
+{
+  "category": {
+    "id": 2,
+    "name": {
+      "en": "Restaurants & Cafes",
+      "zh": "餐厅与咖啡馆"
+    },
+    "slug": "restaurant"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "31e054884906f4b78d3d992c5695cf9bee8f3457193068abb6e267492da4f085:1787037109133-8d36ecc5-9f94-47b9-9822-56db285d07ee.png",
+    "public_url": "/ness-furniture-site/media/derived/1787037109133-8d36ecc5-9f94-47b9-9822-56db285d07ee-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 145,
+  "images": [
+    {
+      "alt_text": "2026最新桌椅图册住贝_106.png",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "31e054884906f4b78d3d992c5695cf9bee8f3457193068abb6e267492da4f085:1787037109133-8d36ecc5-9f94-47b9-9822-56db285d07ee.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109133-8d36ecc5-9f94-47b9-9822-56db285d07ee-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_96.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "da6d3a416780899850b40cb6e2a9e81ccef4e99f9b180fb188c7e415dd974987:1787037109169-6cc65e66-5d95-41af-bf96-4847b472a206.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109169-6cc65e66-5d95-41af-bf96-4847b472a206-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_97.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0c570ad3ebd5971c197e8b919555def4afbc6220aae0158a53d5639f3713fc2f:1787037109198-d3c83eec-59ba-4305-991c-8d604bdcee40.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109198-d3c83eec-59ba-4305-991c-8d604bdcee40-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_98.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "001f0e4e5bb2d0627dc6a3644964fe7691dcac3f8c9591be3036d0a05eb8315c:1787037109226-f47bd884-a985-4058-a913-cbd9028c8cb0.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109226-f47bd884-a985-4058-a913-cbd9028c8cb0-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_99.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "858df508e977d0d10e701a1dc28750663dafa96ea60c5c0d255fed0c97b64b38:1787037109250-5b9a5855-6ad3-4175-8298-97e5396da7cd.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109250-5b9a5855-6ad3-4175-8298-97e5396da7cd-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_100.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "1fab381227f89b445d8e16d16dd76770a597b676bac0ded9ba5e852510f902b0:1787037109296-c876b40b-44e1-4a77-b69b-d21b2182869d.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109296-c876b40b-44e1-4a77-b69b-d21b2182869d-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_101.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "36276c3d37046905b740bbe1cec887ccd7ce77309c1067e235dcbab899476c6a:1787037109325-db1fa22c-9b59-45da-ad24-5136fa582893.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109325-db1fa22c-9b59-45da-ad24-5136fa582893-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_102.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0929694d68cc1f0a3c91514a9e3bb89f46982ae282ba11649d0b7ef612b9ae0c:1787037109351-8714d46f-66bc-4c20-af81-d004af638ea5.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109351-8714d46f-66bc-4c20-af81-d004af638ea5-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_103.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "dcd583b51ba45d00d500d9ec28a13764c6c19dfa9e4c1d36c16bebed6e16c674:1787037109433-5c729fcb-3525-4474-9a0f-dc1b81f34073.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109433-5c729fcb-3525-4474-9a0f-dc1b81f34073-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_104.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "f42b913c17689b1478c76f109e9b4304138fd9344f866b44accc31150c7df7a7:1787037109459-d30a15e3-5b13-4c54-a336-7f861e2393f7.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109459-d30a15e3-5b13-4c54-a336-7f861e2393f7-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "2026最新桌椅图册住贝_105.png",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "eef8efb0eb1eb1472843cf381ae29e892e29f52d688d59b0b974e4ffe9207c8e:1787037109483-2abf8b57-5978-416c-9e16-9d5ebf53f8b4.png",
+      "public_url": "/ness-furniture-site/media/derived/1787037109483-2abf8b57-5978-416c-9e16-9d5ebf53f8b4-display.webp",
+      "sort_order": 10
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Restaurant Furniture Project",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/restaurant-furniture-project",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "restaurant-furniture-project",
+  "sort_order": 0,
+  "summary": {
+    "en": "A customized restaurant furniture project developed to complement the interior design concept. NESS supported furniture development, material selection, sampling, production and quality control for the project.",
+    "zh": ""
+  },
+  "type": "restaurant",
+  "updated_at": "2026-08-18 07:11:58",
+  "videos": [],
+  "year": ""
+}

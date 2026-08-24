@@ -1,0 +1,136 @@
+{
+  "applications": "",
+  "category_slug": "lounge-chairs",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "1000.0",
+    "length": "1100.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "920.0"
+  },
+  "featured": false,
+  "id": 537,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "03965978e86e757df75021b224a9bcf40978f3c6a153db84e2e0c66775bd5f99:1786431912354-373f3696-ade0-4787-9f08-40526dadcd9e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786431912354-373f3696-ade0-4787-9f08-40526dadcd9e-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "ab2d2efba126cf91106292b35f179ac256b158602ba7fe41088027da231d5d59:1786431912928-ff1cd438-d04e-4b5c-ad94-03e7477bc371.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786431912928-ff1cd438-d04e-4b5c-ad94-03e7477bc371-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "86dcf064ae81a49cf028f189e5f239005f9f01c8df02663065c28fd39296c5e9:1786431913591-1b35a560-0f7c-4191-9097-bd3b39427342.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786431913591-1b35a560-0f7c-4191-9097-bd3b39427342-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "c5888d3532888f046c5c505ed996ba482c568143cb2e9f6af0a0a2c1b8aea6e3:1786431913629-66c97266-20c7-4746-9cda-08f1285f66b8.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786431913629-66c97266-20c7-4746-9cda-08f1285f66b8-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "947ba4c317786eb23a627ace8374a1afdb0b7d564b4217a03fe46675ba8e7600:1786431913670-ebe7c26d-6d7e-43c6-bb06-1a01daa9ed16.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786431913670-ebe7c26d-6d7e-43c6-bb06-1a01daa9ed16-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b159e2579a03c54f2da308ea5829134e659be85d6e96255bf07efad0b6c457bc:1786431913702-d19eb3c4-9c43-4708-824b-e139e9579663.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786431913702-d19eb3c4-9c43-4708-824b-e139e9579663-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "2667c03bde1e2da30e5cd2f85bf67c54d9f5f6cd142c2c0ea4674a04579dc30b:1786431913726-4d6427de-0f53-493b-b4de-9ffd8cb16c48.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786431913726-4d6427de-0f53-493b-b4de-9ffd8cb16c48-display.webp",
+      "sort_order": 6
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCC233",
+    "zh": ""
+  },
+  "published_at": "2026-08-11T07:05:36.829Z",
+  "seo": {
+    "canonical_path": "/products/hcc233",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCC233",
+  "slug": "hcc233",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our lounge chair collection delivers elegant and functional seating solutions for residential, hospitality, and commercial spaces.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-11 07:05:36",
+  "videos": []
+}

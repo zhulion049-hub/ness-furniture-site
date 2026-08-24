@@ -1,0 +1,181 @@
+{
+  "applications": "",
+  "category_slug": "beds-headboards",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "1280.0",
+    "length": "3900.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "2170.0"
+  },
+  "featured": false,
+  "id": 496,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "cdff91e5dd7e651fa5fef4599e8a455224c3a8da6015fc7f71ef801905cf3ada:1786414490253-42f23167-dfcd-4ddb-b556-1b5a52dba521.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490253-42f23167-dfcd-4ddb-b556-1b5a52dba521-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "50c53425596521c833bbc9518c64e0485e1218798e9a48cb5f889a360a6987a0:1786414490266-755daf75-ce49-4421-af81-573618cd9b5a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490266-755daf75-ce49-4421-af81-573618cd9b5a-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7bc908041603d93d5c3b8479b759f7de8bdf0ca6dbe5485da2d2e60298611d6d:1786414490286-695d48f5-2292-4bab-b970-48b17807d217.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490286-695d48f5-2292-4bab-b970-48b17807d217-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "851e0207a2b3362f2dce9071740e705d1d5eb17f065af5bd579c43864a7839ce:1786414490297-0b29fc2e-53dd-4efc-863c-8e6456c14e8d.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490297-0b29fc2e-53dd-4efc-863c-8e6456c14e8d-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "7a1132d30c2d7260302b714434069873be6322b12715d0f7a0f120289650d3ef:1786414490310-41135322-9742-4055-8838-2f6298b99b6c.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490310-41135322-9742-4055-8838-2f6298b99b6c-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "dcb0af5274b0b14464c3fe7b0ad5b86aee3e75324cdee601eba5a65957ce6518:1786414490325-48c43906-6f7a-4db1-80da-86437acb6a87.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490325-48c43906-6f7a-4db1-80da-86437acb6a87-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "1a247bfd5d9cf54636b4a425fd6fcdf920da3d82ea79f01d5ee54ac131034d9f:1786414490339-7a7d0056-f018-409f-8198-2ec5175530fb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490339-7a7d0056-f018-409f-8198-2ec5175530fb-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "c6565a7522b4e602b941a1527fa772571a1f4ebd2f5143d927a7c8ad250c7ad4:1786414490368-1d94a796-aabd-4ba8-89e7-c3c6c5c3d326.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490368-1d94a796-aabd-4ba8-89e7-c3c6c5c3d326-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "0c91c60a7820544df6639d8eb7f07ffdd496544860c2b225f663a8b3b5249c6c:1786414490389-7918e850-3879-4eef-a9c0-69076f50f8d2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490389-7918e850-3879-4eef-a9c0-69076f50f8d2-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "cd69f273d4775d44bc40e11747eff0591acaaf2dfcc91765f980f0ac1f075c31:1786414490587-79f11e6a-9717-4437-b7fc-0821767371b2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490587-79f11e6a-9717-4437-b7fc-0821767371b2-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "e2ee962a05913ba70f2d3343674baee4d9f1a72042e8a8deec8c683b63937c76:1786414490778-1a8dea31-064f-4e73-9572-f52469d775b8.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490778-1a8dea31-064f-4e73-9572-f52469d775b8-display.webp",
+      "sort_order": 10
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "b844d3b8765e3363d06def469fce3a784739b934107da3da34d90dcf0e79e7e7:1786414490887-482152ab-bce9-4b3d-b834-75544491bafb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786414490887-482152ab-bce9-4b3d-b834-75544491bafb-display.webp",
+      "sort_order": 11
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCB231",
+    "zh": ""
+  },
+  "published_at": "2026-08-11T02:14:57.128Z",
+  "seo": {
+    "canonical_path": "/products/hcb231",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCB231",
+  "slug": "hcb231",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining comfort with modern design aesthetics, our bed collection creates a refined sleeping experience with quality, functionality, and timeless elegance.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-11 06:12:59",
+  "videos": []
+}

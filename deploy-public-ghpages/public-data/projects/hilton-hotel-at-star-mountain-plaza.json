@@ -1,0 +1,111 @@
+{
+  "category": {
+    "id": 9,
+    "name": {
+      "en": "Outdoor Hospitality",
+      "zh": "户外酒店空间"
+    },
+    "slug": "outdoor"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "dc963d1227ba272e445a32e7b57f8e68fcedd20ad7f277a191c268027f4aeeff:1787036151982-a948691e-2793-4938-a746-ff0f22f49f6d.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1787036151982-a948691e-2793-4938-a746-ff0f22f49f6d-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 141,
+  "images": [
+    {
+      "alt_text": "f373ff7a58730853894b64dee8c5589.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "19034c3d1001759cd6c417968256a6c1979bad80fb6e8b7de06ab6e81f3900e4:1787036151731-fa21ad44-f12b-4131-a24f-74c2742d6277.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036151731-fa21ad44-f12b-4131-a24f-74c2742d6277-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "78e3d2dce2535505cd966eaa9552cc1.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "6634812076815f64fd8f241bea58fe27339a59623daa9afd829c6ec4d003c463:1787036151763-bc90a969-6528-44a8-a2cb-1ccbce35b115.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036151763-bc90a969-6528-44a8-a2cb-1ccbce35b115-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "8732e83a4e04a5ff81676b578f0406e.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "a2593f86cd2a6d773942aab228070acf4a23d7b7f23f4e5299c2d4da8a0bfea3:1787036151779-e1c480c4-3153-49bb-af9b-e21cfd2dbcb2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036151779-e1c480c4-3153-49bb-af9b-e21cfd2dbcb2-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "525550b1d2304d70484ac7378942706.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "6d76cfa2cf110d974f184ccdb8cff44f180bf1bf815340d922ba196f210978d2:1787036151805-5df973f4-a6dc-4722-b783-b5be86ef2a76.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036151805-5df973f4-a6dc-4722-b783-b5be86ef2a76-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "78e3d2dce2535505cd966eaa9552cc1.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "6634812076815f64fd8f241bea58fe27339a59623daa9afd829c6ec4d003c463:1787036151763-bc90a969-6528-44a8-a2cb-1ccbce35b115.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036151763-bc90a969-6528-44a8-a2cb-1ccbce35b115-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "d487ff688f2d5c0575cdc090c29ce85.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "df9ed0498549eef14fbe1ecfa4429f4277e63f5ef7020104172774e1eb20fd76:1787036151934-4f80ce76-3ddf-4000-924c-702ffa8228b1.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036151934-4f80ce76-3ddf-4000-924c-702ffa8228b1-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "df8fc0e9db84d50caa36e60cb637f81.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "dc963d1227ba272e445a32e7b57f8e68fcedd20ad7f277a191c268027f4aeeff:1787036151982-a948691e-2793-4938-a746-ff0f22f49f6d.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036151982-a948691e-2793-4938-a746-ff0f22f49f6d-display.webp",
+      "sort_order": 6
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Hilton Hotel at Star Mountain Plaza",
+    "zh": "星山广场希尔顿洒店"
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/hilton-hotel-at-star-mountain-plaza",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "hilton-hotel-at-star-mountain-plaza",
+  "sort_order": 0,
+  "summary": {
+    "en": "A hospitality furniture project for the Hilton Hotel at Star Mountain Plaza in Port Moresby, Papua New Guinea. NESS supported furniture development, material coordination, sampling, production and quality control for the project.",
+    "zh": ""
+  },
+  "type": "outdoor",
+  "updated_at": "2026-08-18 06:55:56",
+  "videos": [],
+  "year": ""
+}

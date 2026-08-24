@@ -1,0 +1,359 @@
+{
+  "category": {
+    "id": 4,
+    "name": {
+      "en": "Apartments & Penthouses",
+      "zh": "公寓与顶层住宅"
+    },
+    "slug": "apartment"
+  },
+  "client_type": "",
+  "content_modules": [],
+  "cover_image": {
+    "media_key": "c7a743d94915bad8a7c5f05e03a9c9b2fe95e5883b0dae2488a6380b40a277a0:1785894182219-fd8ac368-f548-4082-b4c6-bc0c1bb7f144.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1785894182219-fd8ac368-f548-4082-b4c6-bc0c1bb7f144-display.webp"
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "featured": false,
+  "id": 144,
+  "images": [
+    {
+      "alt_text": "微信图片_20241008121536.jpg",
+      "caption": "",
+      "is_cover": true,
+      "media_key": "c7a743d94915bad8a7c5f05e03a9c9b2fe95e5883b0dae2488a6380b40a277a0:1785894182219-fd8ac368-f548-4082-b4c6-bc0c1bb7f144.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894182219-fd8ac368-f548-4082-b4c6-bc0c1bb7f144-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "微信图片_20241008121528.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "05b8506af12d3519ec8e384728797f7f35ccaf413116bb3efa641f0d8080571a:1785894182262-c11b49b6-f351-41d6-a19c-cc451c569f40.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894182262-c11b49b6-f351-41d6-a19c-cc451c569f40-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "微信图片_20241008121529.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "001e05e73af68fb2d2e37778fe767d9a87ebfcd4074d77a58a961f4f6c0d1e13:1785894182282-33a388a8-4b89-4d63-b9cd-f55f56413d8a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894182282-33a388a8-4b89-4d63-b9cd-f55f56413d8a-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "微信图片_20241008121533.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "e58e4647b8471c90f3c27397e9e07dd016a24dee465ab0064d355efdddb5af8a:1785894182327-41950c2a-8228-4798-8488-2888309cb348.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894182327-41950c2a-8228-4798-8488-2888309cb348-display.webp",
+      "sort_order": 3
+    },
+    {
+      "alt_text": "微信图片_20241008121534.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "1428918e7650df43c80d1fe84a1ea805888fe63a8bb5347d9d5e969ce9b50326:1785894182348-b91110a0-911a-4c36-af36-09b04c56716e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1785894182348-b91110a0-911a-4c36-af36-09b04c56716e-display.webp",
+      "sort_order": 4
+    },
+    {
+      "alt_text": "微信图片_20241008121526.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "feadfd11c62335f305c5babbf4bd695bd8b6e9f370efa315d01eb55c2d6212e2:1787036768147-0be0f14f-c585-48ab-a68c-676598da5dcc.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768147-0be0f14f-c585-48ab-a68c-676598da5dcc-display.webp",
+      "sort_order": 5
+    },
+    {
+      "alt_text": "微信图片_20241008121353.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "7434a89ce83c6ee1c1fec02e93b10f27615d98060c560d0b5f6a76eb449f287a:1787036768169-f58baad4-3415-49e8-9435-4b6be670de06.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768169-f58baad4-3415-49e8-9435-4b6be670de06-display.webp",
+      "sort_order": 6
+    },
+    {
+      "alt_text": "微信图片_20241008121410.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "8cd5d9d159f296a0d6c6f4b1c4f62f4c1456f2666d0af379257a6824c44d7b99:1787036768190-5b895c11-9dfb-48b3-8768-935fcf9be2c7.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768190-5b895c11-9dfb-48b3-8768-935fcf9be2c7-display.webp",
+      "sort_order": 7
+    },
+    {
+      "alt_text": "微信图片_20241008121416.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "60752355fd7642ce89898dd19e8473e7854b76cebd76be77f63c0527f6aad124:1787036768210-77d83e4f-1abb-44f9-8351-d099dd7ac067.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768210-77d83e4f-1abb-44f9-8351-d099dd7ac067-display.webp",
+      "sort_order": 8
+    },
+    {
+      "alt_text": "微信图片_20241008121426.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "013cfff9124008bd42b8ab741c37479836a3481f3d700cbd60c7ff79f7aafc2c:1787036768235-246c6c80-6331-4122-9ce1-e5964b36b1d5.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768235-246c6c80-6331-4122-9ce1-e5964b36b1d5-display.webp",
+      "sort_order": 9
+    },
+    {
+      "alt_text": "微信图片_20241008121430.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "524dd362aaff03272e05cfe13c73478bc41d413604895a8c4838bc0b5adb117b:1787036768256-790a6474-053d-4b03-acd1-63a928edc6bf.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768256-790a6474-053d-4b03-acd1-63a928edc6bf-display.webp",
+      "sort_order": 10
+    },
+    {
+      "alt_text": "微信图片_20241008121433.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "e2bb863126fc5f215d8c5bae4712d46b5908ed3f23380f0315bad6868e9424de:1787036768277-0911438a-cfc9-4390-bcb8-c95f6d8626ee.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768277-0911438a-cfc9-4390-bcb8-c95f6d8626ee-display.webp",
+      "sort_order": 11
+    },
+    {
+      "alt_text": "微信图片_20241008121439.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "272cd01a3bad40beead08b4a1a71479d4cfa717ff27724831f3671ee4a05846e:1787036768298-ddfed6f9-57ed-4ce7-827c-afe8c669856b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768298-ddfed6f9-57ed-4ce7-827c-afe8c669856b-display.webp",
+      "sort_order": 12
+    },
+    {
+      "alt_text": "微信图片_20241008121440.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "f4f9d8e30f3f8a66473435af464321703549de817e4b4b59f28b0b1129fb158d:1787036768306-0005e63e-d9d3-4239-8aff-2c90fa563744.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768306-0005e63e-d9d3-4239-8aff-2c90fa563744-display.webp",
+      "sort_order": 13
+    },
+    {
+      "alt_text": "微信图片_20241008121445.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "59062c3091d8fede6bc7901ed71f43e1538f53e154c2949bb978c4b7e600a3b2:1787036768324-0456d13f-b268-40b8-b893-c0d203447e4c.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768324-0456d13f-b268-40b8-b893-c0d203447e4c-display.webp",
+      "sort_order": 14
+    },
+    {
+      "alt_text": "微信图片_20241008121452.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "8002f0cd5ccb2da2b2dcd09ed5c37767af7f65bcd032e3b7f796d626ba21aaae:1787036768381-93833cd4-0449-4603-b52e-29150052bdc0.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768381-93833cd4-0449-4603-b52e-29150052bdc0-display.webp",
+      "sort_order": 15
+    },
+    {
+      "alt_text": "微信图片_20241008121501.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "7aa9107080bb0be3f14d440cec114f3d49fcaa64bd210d44e35f0defdd53e744:1787036768421-2f5c8db1-fced-45c8-8b06-c5fbf2f1253c.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768421-2f5c8db1-fced-45c8-8b06-c5fbf2f1253c-display.webp",
+      "sort_order": 16
+    },
+    {
+      "alt_text": "微信图片_20241008121503.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "bfcbdb698019169fddd3d3e9d4320c11b7f715551f4a39f2cb0ab3babf35a971:1787036768448-31ae3b5d-ee45-4c5d-9986-04c2eb31eb1e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768448-31ae3b5d-ee45-4c5d-9986-04c2eb31eb1e-display.webp",
+      "sort_order": 17
+    },
+    {
+      "alt_text": "微信图片_20241008121504.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "4ee431398aedc5878aded0109f719f89e5000fdd37b90b8db8170270cd21e197:1787036768483-048095e6-17e5-490d-9f0d-bd4574b2003b.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768483-048095e6-17e5-490d-9f0d-bd4574b2003b-display.webp",
+      "sort_order": 18
+    },
+    {
+      "alt_text": "微信图片_20241008121511.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "4ffb85b3bc3bc986d08c23c19ebdf720f64b87528cb1c252ca2db5eb247368a2:1787036768510-d41aec86-f8cc-4815-8684-960573634aed.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768510-d41aec86-f8cc-4815-8684-960573634aed-display.webp",
+      "sort_order": 19
+    },
+    {
+      "alt_text": "微信图片_20241008121513.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "4ac8b22f1260990b194ab14bb2f3f5b110c13fb5a5ef9b39c50e51e5d0aaf2b0:1787036768520-648865b9-e65d-42b0-8912-d1acb026d770.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768520-648865b9-e65d-42b0-8912-d1acb026d770-display.webp",
+      "sort_order": 20
+    },
+    {
+      "alt_text": "微信图片_20241008121514.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "a127fa06da692014918c234c419e43044faa783fe8a81e51723a8e54786cda30:1787036768547-27f52023-bd85-4b02-9d54-4f6eff3a08f1.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768547-27f52023-bd85-4b02-9d54-4f6eff3a08f1-display.webp",
+      "sort_order": 21
+    },
+    {
+      "alt_text": "微信图片_20241008121516.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "1612b011bebea2b59ea0a3ff18a4845c15e50375a6abda2e8fdf0cab19afa5bd:1787036768556-1d342770-3c1e-4abf-bbf5-7ae4fee822af.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768556-1d342770-3c1e-4abf-bbf5-7ae4fee822af-display.webp",
+      "sort_order": 22
+    },
+    {
+      "alt_text": "微信图片_20241008121518.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "7176e79376af53f7766a5a88fcbc34c3e2c19aab3bdfd182e210a8a64e625384:1787036768568-a0895463-0cd6-4502-9bca-d283ecf1331e.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768568-a0895463-0cd6-4502-9bca-d283ecf1331e-display.webp",
+      "sort_order": 23
+    },
+    {
+      "alt_text": "微信图片_20241008121525.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "0efda215f8f7ae0f0af90b61b8e6a52f065bea09556e985b5d2a224d04e375aa:1787036768585-67f4b13d-b00a-45e5-ac08-b4a115539702.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036768585-67f4b13d-b00a-45e5-ac08-b4a115539702-display.webp",
+      "sort_order": 24
+    },
+    {
+      "alt_text": "微信图片_20241008121626.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "5b324777542054b8e99744427cb18d44a1232ddb6acda23b6add07e3c7742cd9:1787036773786-b0338744-bec1-400d-a5c2-bb4445eb92bb.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773786-b0338744-bec1-400d-a5c2-bb4445eb92bb-display.webp",
+      "sort_order": 25
+    },
+    {
+      "alt_text": "微信图片_20241008121537.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "c0a8e49b0f66c51704ef06ff53c121b49edccff6180d82495a516b7a05412577:1787036773809-139bf7bf-5940-4e79-969e-bc5e2a51f768.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773809-139bf7bf-5940-4e79-969e-bc5e2a51f768-display.webp",
+      "sort_order": 26
+    },
+    {
+      "alt_text": "微信图片_20241008121545.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "004aaddd91b361163225f4d97e35b620719b44683653599ea8d8cdb85dbdef32:1787036773839-50140a83-6ed6-4edd-b76a-65c5f042cc89.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773839-50140a83-6ed6-4edd-b76a-65c5f042cc89-display.webp",
+      "sort_order": 27
+    },
+    {
+      "alt_text": "微信图片_20241008121550.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "ededfc3951f6636562f46a95dea0f1e60b23207e3ba68d5bc193897e87f02156:1787036773863-00cc5977-7069-474b-8abc-26e3ced98894.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773863-00cc5977-7069-474b-8abc-26e3ced98894-display.webp",
+      "sort_order": 28
+    },
+    {
+      "alt_text": "微信图片_20241008121556.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "77f12cd20643775dbe594add3d1206d6b24a11f83c3354aa453bd2dc69679194:1787036773884-e6de09db-32c7-498e-bb91-c21e4d881b55.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773884-e6de09db-32c7-498e-bb91-c21e4d881b55-display.webp",
+      "sort_order": 29
+    },
+    {
+      "alt_text": "微信图片_20241008121609.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "d1bd0bf240b0b8e77f8c81eee215e0d64370382f6672501a303efea18fc171f0:1787036773899-ff837d9a-a303-4f62-ae1d-05c1b63ac1b2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773899-ff837d9a-a303-4f62-ae1d-05c1b63ac1b2-display.webp",
+      "sort_order": 30
+    },
+    {
+      "alt_text": "微信图片_20241008121613.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "285bdee653cea8c7a4d7ebf86613b4ebcd619837b08972bef46b1e4148b79312:1787036773919-9d13db10-3c61-4452-ba94-2f330c4abb5c.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773919-9d13db10-3c61-4452-ba94-2f330c4abb5c-display.webp",
+      "sort_order": 31
+    },
+    {
+      "alt_text": "微信图片_20241008121617.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "e2018a51c7f4fb263f9fcd1b85a3f1d712302c1a1d4ab1f6820b5ef1f8d20e8e:1787036773926-6212a10d-967c-4cab-99b1-d09936f0a627.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773926-6212a10d-967c-4cab-99b1-d09936f0a627-display.webp",
+      "sort_order": 32
+    },
+    {
+      "alt_text": "微信图片_20241008121619.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "66171ed9069cdfa0cde2430b40115e2d225a009298ebdb7aef7f27e33db94894:1787036773948-8e30774c-a773-4d82-ab8a-cfb4942bef4f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773948-8e30774c-a773-4d82-ab8a-cfb4942bef4f-display.webp",
+      "sort_order": 33
+    },
+    {
+      "alt_text": "微信图片_20241008121621.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "b15772a88c441c8ff6876e42e87c5d1108c937ff2aa1b9a44aace9b3330cee8c:1787036773956-eaaa4d4b-5bb7-488b-aec0-233435760b7a.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773956-eaaa4d4b-5bb7-488b-aec0-233435760b7a-display.webp",
+      "sort_order": 34
+    },
+    {
+      "alt_text": "微信图片_20241008121622.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "9b9e201a14280ba028808f63cdbf1b3f40c375cc9d2220d1ff1969737d2b1638:1787036773971-91e71d57-5f88-4669-b4ef-1ed1021e7b40.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773971-91e71d57-5f88-4669-b4ef-1ed1021e7b40-display.webp",
+      "sort_order": 35
+    },
+    {
+      "alt_text": "微信图片_20241008121624.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "b5119ea5be3353b9562d44b3f7a368e47e6d0597af74198997b8199373449f44:1787036773977-1193fe87-da90-424b-bec4-fd275e37bcf2.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773977-1193fe87-da90-424b-bec4-fd275e37bcf2-display.webp",
+      "sort_order": 36
+    },
+    {
+      "alt_text": "微信图片_20241008121625.jpg",
+      "caption": "",
+      "is_cover": false,
+      "media_key": "53736f8147451cef1090259cc66cdbabec6efbecb5408cad162ab2d8f59759d4:1787036773984-9666ffe4-e00c-4b67-97b6-86b002316310.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1787036773984-9666ffe4-e00c-4b67-97b6-86b002316310-display.webp",
+      "sort_order": 37
+    }
+  ],
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "name": {
+    "en": "Apartment Residential Project",
+    "zh": ""
+  },
+  "published_at": "",
+  "related_products": [],
+  "seo": {
+    "canonical_path": "/projects/apartment-residential-project",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "apartment-residential-project",
+  "sort_order": 0,
+  "summary": {
+    "en": "NESS Furniture provided customized furniture solutions for this residential apartment project, supporting the development of furniture for different living spaces. The furniture was developed with consideration for the project's interior design, dimensions, materials, finishes and functional requirements. NESS supported the project from furniture development and material selection to sampling, production and quality control, helping create a coordinated furniture scheme across the residential spaces.",
+    "zh": ""
+  },
+  "type": "apartment",
+  "updated_at": "2026-08-18 07:06:25",
+  "videos": [],
+  "year": ""
+}

@@ -1,0 +1,856 @@
+{
+  "booth_number": "",
+  "content": {
+    "en": "2025 CIFF Guangzhou",
+    "zh": "2025 CIFF Guangzhou"
+  },
+  "cover": {
+    "media_key": "c204461cf453b725f569d5237c4b05ea13099cf653d26ea7fed9017ca7f6a7c4:1786332807996-84f00241-7908-4b36-bb11-e71d6e4ebf4c.jpg",
+    "public_url": "/ness-furniture-site/media/derived/1786332807996-84f00241-7908-4b36-bb11-e71d6e4ebf4c-display.webp"
+  },
+  "dates": {
+    "end": "2025-03-21",
+    "start": "2025-03-18"
+  },
+  "event_name": "",
+  "id": 7,
+  "location": {
+    "city": "广州",
+    "country": ""
+  },
+  "media": [
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (32).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "bd8f3e4bb019c34bd4b54629f85d5c9be51366f40a43b0004df385915abca9f5:1786332807913-832382bb-8c64-4ce5-ab48-2feda5731948.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332807913-832382bb-8c64-4ce5-ab48-2feda5731948-display.webp",
+      "sort_order": 0,
+      "title": {
+        "en": "2025-3月广州CIFF展 (32).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (1).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "3e84f02c39df8929393e071a07a8b2381590f48867a5772a43ef0888da832d0e:1786332807924-b3be23d5-668b-4d00-8910-8bfa58b8b6f7.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332807924-b3be23d5-668b-4d00-8910-8bfa58b8b6f7-display.webp",
+      "sort_order": 1,
+      "title": {
+        "en": "2025-3月广州CIFF展 (1).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (1)_new.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "f47707a5f760019208d409f5a95f17f131424b838301d785d52d68026141c3a7:1786332807942-c24871e0-bb44-4052-b617-20e5e9da9cdc.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332807942-c24871e0-bb44-4052-b617-20e5e9da9cdc-display.webp",
+      "sort_order": 2,
+      "title": {
+        "en": "2025-3月广州CIFF展 (1)_new.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (1)_new.jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "f47707a5f760019208d409f5a95f17f131424b838301d785d52d68026141c3a7:1786332807942-c24871e0-bb44-4052-b617-20e5e9da9cdc.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332807942-c24871e0-bb44-4052-b617-20e5e9da9cdc-display.webp",
+      "sort_order": 3,
+      "title": {
+        "en": "2025-3月广州CIFF展 (1)_new.jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (2).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "a5a7132b450d2fd3771b7e7f64b30c6969cb11740f6e98fcb23f5581c622ccb5:1786332807964-437de3b9-e19b-4bde-a47e-c108f5af6a7f.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332807964-437de3b9-e19b-4bde-a47e-c108f5af6a7f-display.webp",
+      "sort_order": 4,
+      "title": {
+        "en": "2025-3月广州CIFF展 (2).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (3).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "e28473b7636a7e4e8daa9d8afcd4c85661434bcbbb0b17d85e82f251cf5c6418:1786332807987-659440eb-e3d3-41bb-afef-2748ba9714f1.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332807987-659440eb-e3d3-41bb-afef-2748ba9714f1-display.webp",
+      "sort_order": 5,
+      "title": {
+        "en": "2025-3月广州CIFF展 (3).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (4).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": true,
+      "media_key": "c204461cf453b725f569d5237c4b05ea13099cf653d26ea7fed9017ca7f6a7c4:1786332807996-84f00241-7908-4b36-bb11-e71d6e4ebf4c.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332807996-84f00241-7908-4b36-bb11-e71d6e4ebf4c-display.webp",
+      "sort_order": 6,
+      "title": {
+        "en": "2025-3月广州CIFF展 (4).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (5).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "716b44e128924b8bb1588216c889c7563804179ba9200747bbee3fce07a50f97:1786332808030-ee2d77af-ca91-491e-b2f9-0396d4139325.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808030-ee2d77af-ca91-491e-b2f9-0396d4139325-display.webp",
+      "sort_order": 7,
+      "title": {
+        "en": "2025-3月广州CIFF展 (5).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (6).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "e6d1e039a18cf9b9740f0cf0c0722b1b09cef75a471e1f9e6d69466b54a787f8:1786332808048-f34a1293-db39-4426-ae05-b0967c4c80ec.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808048-f34a1293-db39-4426-ae05-b0967c4c80ec-display.webp",
+      "sort_order": 8,
+      "title": {
+        "en": "2025-3月广州CIFF展 (6).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (7).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "88ddc95175a1059b6367a72dfc388a6e9e7bf2c07da5c99616ba6b678d94aa1b:1786332808058-4b97d391-11a0-4670-b798-0cc1cb6d08e9.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808058-4b97d391-11a0-4670-b798-0cc1cb6d08e9-display.webp",
+      "sort_order": 9,
+      "title": {
+        "en": "2025-3月广州CIFF展 (7).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (8).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "bcacb979f8a40968e3dd844560b7b45c2969ddab4a3aca87611da560f7416b28:1786332808068-6d9bdb57-8074-477d-8404-68305166b8b1.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808068-6d9bdb57-8074-477d-8404-68305166b8b1-display.webp",
+      "sort_order": 10,
+      "title": {
+        "en": "2025-3月广州CIFF展 (8).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (9).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "1ac2d0a3cfdd9de74ebf0a2ebca6d6e80c764bdf8136cb502f5854d90ea213ca:1786332808077-16ca27c4-e5c5-4eab-87e2-5d665247ae47.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808077-16ca27c4-e5c5-4eab-87e2-5d665247ae47-display.webp",
+      "sort_order": 11,
+      "title": {
+        "en": "2025-3月广州CIFF展 (9).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (10).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b218087d09dd6d119ae39805588c5b3a1da99740e14cee29e2432e389f01a984:1786332808087-6eb98f03-ac97-40d2-b7b0-15f44765be7f.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808087-6eb98f03-ac97-40d2-b7b0-15f44765be7f-display.webp",
+      "sort_order": 12,
+      "title": {
+        "en": "2025-3月广州CIFF展 (10).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (11).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "6a200bdb68348990409d9be21c0b03aa3c973b1b0665264f241fce7a00faab49:1786332808096-97406578-93f2-48ac-8b32-b87766a34d13.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808096-97406578-93f2-48ac-8b32-b87766a34d13-display.webp",
+      "sort_order": 13,
+      "title": {
+        "en": "2025-3月广州CIFF展 (11).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (12).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "11ef7613806e533295d091e7ab8eed61f5516679ddf947bd45b9a7a16c7e006b:1786332808170-8cc0f79f-4a73-443d-8dd8-9502cfcbd00e.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808170-8cc0f79f-4a73-443d-8dd8-9502cfcbd00e-display.webp",
+      "sort_order": 14,
+      "title": {
+        "en": "2025-3月广州CIFF展 (12).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (13).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "2eb5cd212e9ba1a41587e0c51c54cbf8b9f2ceccb1daab16642e7b1f51267c04:1786332808208-03407da8-3b66-4668-850c-5207759d25b6.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808208-03407da8-3b66-4668-850c-5207759d25b6-display.webp",
+      "sort_order": 15,
+      "title": {
+        "en": "2025-3月广州CIFF展 (13).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (14).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "e1f0f02fa34ceb0963b8c2f799798023936795fcffc43c7c971f347013c5309e:1786332808219-c0fbba21-8e00-4b19-90de-74b756ca93e9.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808219-c0fbba21-8e00-4b19-90de-74b756ca93e9-display.webp",
+      "sort_order": 16,
+      "title": {
+        "en": "2025-3月广州CIFF展 (14).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (15).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "7257fd7ceb048f01552ad232a6972c45fe3463df87f2b3dee2eca2f053cbcb9a:1786332808232-c453a0e3-1caa-42e3-ab1a-637e8f2c7582.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808232-c453a0e3-1caa-42e3-ab1a-637e8f2c7582-display.webp",
+      "sort_order": 17,
+      "title": {
+        "en": "2025-3月广州CIFF展 (15).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (16).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "4d5a57759aeca842d91a9ac5b9e917f26f1f5f751e39729791406fc6cda12551:1786332808243-017d9127-6f16-40da-90a1-2949ed12047f.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808243-017d9127-6f16-40da-90a1-2949ed12047f-display.webp",
+      "sort_order": 18,
+      "title": {
+        "en": "2025-3月广州CIFF展 (16).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (17).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "a088b7a1894cc9a84abf013e8c0fd20f8f6237c424f7cb23c837e05cda1d8bdc:1786332808253-b7ae72f9-c939-45ef-9d5b-58502d019e10.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808253-b7ae72f9-c939-45ef-9d5b-58502d019e10-display.webp",
+      "sort_order": 19,
+      "title": {
+        "en": "2025-3月广州CIFF展 (17).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (18).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "0c1bc19bc0672df9f152e668725be5c8f69f79693a95d16574a16503b06939e4:1786332808268-a15bd9b0-eca5-4d20-ba49-bbf8d30cfb4f.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808268-a15bd9b0-eca5-4d20-ba49-bbf8d30cfb4f-display.webp",
+      "sort_order": 20,
+      "title": {
+        "en": "2025-3月广州CIFF展 (18).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (19).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "7c3fe4b94c63bd26c3ebc90baf3d905da57bbd776d2e69e555b17d1f283b10b5:1786332808282-554f84c9-b1fb-46e3-ba5b-a5cd9a2cdad8.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808282-554f84c9-b1fb-46e3-ba5b-a5cd9a2cdad8-display.webp",
+      "sort_order": 21,
+      "title": {
+        "en": "2025-3月广州CIFF展 (19).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (20).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "ab4c190556488d15b5410d9152f2caf15fc79ebf5ea39b6e0e6ffa053803e420:1786332808291-72552b06-1925-4d01-bd21-4383ee4103f2.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808291-72552b06-1925-4d01-bd21-4383ee4103f2-display.webp",
+      "sort_order": 22,
+      "title": {
+        "en": "2025-3月广州CIFF展 (20).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (21).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "315738dbd89b5ece8a3d67a7da4465358303324141d064f6a31163667a7cee9b:1786332808301-e61b673d-dadb-4d82-b1b3-6f97478af8a0.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808301-e61b673d-dadb-4d82-b1b3-6f97478af8a0-display.webp",
+      "sort_order": 23,
+      "title": {
+        "en": "2025-3月广州CIFF展 (21).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (22).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "a86bae057e9c76e139ba66d7e22745c9445437c48c3254bb638ac097e4d3f1ef:1786332808313-3f5de4ef-dc03-45e4-9939-ef650da7b2ed.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808313-3f5de4ef-dc03-45e4-9939-ef650da7b2ed-display.webp",
+      "sort_order": 24,
+      "title": {
+        "en": "2025-3月广州CIFF展 (22).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (23).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "8419d593ec028ff28751575c497b7e83a2dce3e5c7af62ea9af00b2523c480ef:1786332808322-c8018c2e-706c-4581-afcb-238f343b0509.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808322-c8018c2e-706c-4581-afcb-238f343b0509-display.webp",
+      "sort_order": 25,
+      "title": {
+        "en": "2025-3月广州CIFF展 (23).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (24).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "b06b0739ada5b5242c076923b8939f0eb5d3ad4ca4bc83d19a4ea1f5c7bf0857:1786332808332-a686f4cc-f09f-4cce-bc4f-d2bb5473748a.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808332-a686f4cc-f09f-4cce-bc4f-d2bb5473748a-display.webp",
+      "sort_order": 26,
+      "title": {
+        "en": "2025-3月广州CIFF展 (24).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (25).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "f7701429df985bbffd74ce9b1ac75bb9e19302cff1c1b30632880af976ee39c0:1786332808344-dca76e7e-5875-4d22-86a1-870dfc8c9703.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808344-dca76e7e-5875-4d22-86a1-870dfc8c9703-display.webp",
+      "sort_order": 27,
+      "title": {
+        "en": "2025-3月广州CIFF展 (25).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (26).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "d1a868f6827840ad88e3b1fc1f8cbca443bf338386d9a8848eace1bd909f78a6:1786332808356-51a10fc9-d54b-4008-99e6-ae8f06b66f08.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808356-51a10fc9-d54b-4008-99e6-ae8f06b66f08-display.webp",
+      "sort_order": 28,
+      "title": {
+        "en": "2025-3月广州CIFF展 (26).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (27).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "5c69bd07ffa18733caaf462b9f2736fa6121efe365714a0b7fd6649d040f6b63:1786332808366-4e68e860-8504-41e6-9847-983dca76e6d2.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808366-4e68e860-8504-41e6-9847-983dca76e6d2-display.webp",
+      "sort_order": 29,
+      "title": {
+        "en": "2025-3月广州CIFF展 (27).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (28).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "a06d4086d10f6cc35928758d7af885d7c86adb3671999ed10943681b48ead63f:1786332808386-41be8d9f-f0a3-4c71-ae6e-e0aa53c468a7.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808386-41be8d9f-f0a3-4c71-ae6e-e0aa53c468a7-display.webp",
+      "sort_order": 30,
+      "title": {
+        "en": "2025-3月广州CIFF展 (28).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (29).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "899a75a6ff529a075ad53d0c6d0dc22ff053892a2ec26d7135fdb222ad5f9b8e:1786332808396-4ee9c1e5-8859-4ea7-9f9d-84f3fdefde70.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808396-4ee9c1e5-8859-4ea7-9f9d-84f3fdefde70-display.webp",
+      "sort_order": 31,
+      "title": {
+        "en": "2025-3月广州CIFF展 (29).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (30).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "9ead96569b4869998f8ebaaf0c13eb3b9e63863c86eca6d9bfb453d717cf9ba0:1786332808407-b2df8e4e-96d5-4c38-bdee-0d6194b153dd.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808407-b2df8e4e-96d5-4c38-bdee-0d6194b153dd-display.webp",
+      "sort_order": 32,
+      "title": {
+        "en": "2025-3月广州CIFF展 (30).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "2025-3月广州CIFF展 (31).jpg",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "97b2c1dd5cde7f73eb299335f5e67e572ca8355412e5ee8a76fd58aea88fb384:1786332808416-3354c8e4-a0e6-4d87-89fb-28962114fa7c.jpg",
+      "media_type": "image",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/media/derived/1786332808416-3354c8e4-a0e6-4d87-89fb-28962114fa7c-display.webp",
+      "sort_order": 33,
+      "title": {
+        "en": "2025-3月广州CIFF展 (31).jpg",
+        "zh": ""
+      }
+    },
+    {
+      "alt_text": {
+        "en": "4月9日 (3).mp4",
+        "zh": ""
+      },
+      "caption": {
+        "en": "",
+        "zh": ""
+      },
+      "is_primary": false,
+      "media_key": "c0a41fdaa9437ee244ac5d93a176a0cb31238f68eb21ca1855fa9da28a9e3895:1786332824618-22b7924d-70bc-4822-a776-7d52dcc21f00.mp4",
+      "media_type": "video",
+      "poster": {
+        "media_key": null,
+        "public_url": ""
+      },
+      "public_url": "/ness-furniture-site/uploads/1786332824618-22b7924d-70bc-4822-a776-7d52dcc21f00.mp4",
+      "sort_order": 34,
+      "title": {
+        "en": "4月9日 (3).mp4",
+        "zh": ""
+      }
+    }
+  ],
+  "published_at": "2026-08-19T08:19:48.986Z",
+  "seo": {
+    "canonical_path": "/exhibitions/2025-ciff-guangzhou",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "slug": "2025-ciff-guangzhou",
+  "sort_order": 0,
+  "subtitle": {
+    "en": "2025-ciff-guangzhou",
+    "zh": ""
+  },
+  "summary": {
+    "en": "2025 CIFF Guangzhou",
+    "zh": "2025 CIFF Guangzhou"
+  },
+  "title": {
+    "en": "2025 CIFF Guangzhou",
+    "zh": ""
+  },
+  "updated_at": "2026-08-19 08:19:48",
+  "venue": "广州"
+}

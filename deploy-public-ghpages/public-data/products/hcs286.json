@@ -1,0 +1,109 @@
+{
+  "applications": "",
+  "category_slug": "sofas-sectionals",
+  "customization": {
+    "custom_color": false,
+    "custom_material": false,
+    "custom_size": false,
+    "odm": false,
+    "oem": false,
+    "private_label": false
+  },
+  "description": {
+    "en": "",
+    "zh": ""
+  },
+  "dimensions": {
+    "arm_height": "",
+    "gross_weight": "",
+    "height": "400.0",
+    "length": "1600.0",
+    "net_weight": "",
+    "packing_size": "",
+    "seat_height": "",
+    "text": "",
+    "width": "1300.0"
+  },
+  "featured": false,
+  "id": 677,
+  "images": [
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": true,
+      "media_key": "312a7d3eab59ffe89620f71cfb22af899a354bc06b4a3a4b2b9b9cf2d154f888:1786525878770-ca13ae72-6e31-4db3-8edd-07d708c5398f.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786525878770-ca13ae72-6e31-4db3-8edd-07d708c5398f-display.webp",
+      "sort_order": 0
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "94259db5a769b8aa779b72ff4fce10e04549084eddc4e748defa31ae42d8154d:1786525878780-8e98fb07-d90a-46ee-b7f8-5aef15916833.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786525878780-8e98fb07-d90a-46ee-b7f8-5aef15916833-display.webp",
+      "sort_order": 1
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "f170cec98e9e959a2e4473de8560fb461ae3337f280f6bc6de98ff00accaeef1:1786525878798-406c4e9d-0e87-4076-b2c8-543d44ff7486.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786525878798-406c4e9d-0e87-4076-b2c8-543d44ff7486-display.webp",
+      "sort_order": 2
+    },
+    {
+      "alt_text": "",
+      "caption": "",
+      "image_type": "",
+      "is_primary": false,
+      "media_key": "8fed6a14350b482f09d52cbe4513667026bdb26b3a189bed03b2e7fe40e4119d:1786525878808-cd6d26de-c4ab-4b90-a156-393a3f8f2a68.jpg",
+      "public_url": "/ness-furniture-site/media/derived/1786525878808-cd6d26de-c4ab-4b90-a156-393a3f8f2a68-display.webp",
+      "sort_order": 3
+    }
+  ],
+  "materials": {
+    "color_options": "",
+    "filling": "",
+    "finish": "",
+    "frame": "",
+    "main": {
+      "en": "",
+      "zh": ""
+    },
+    "upholstery": ""
+  },
+  "modules": [],
+  "name": {
+    "en": "HCS286",
+    "zh": ""
+  },
+  "published_at": "2026-08-12T09:11:22.596Z",
+  "seo": {
+    "canonical_path": "/products/hcs286",
+    "description": {
+      "en": "",
+      "zh": ""
+    },
+    "title": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  "series": "",
+  "short_description": {
+    "en": "",
+    "zh": ""
+  },
+  "sku": "HCS286",
+  "slug": "hcs286",
+  "sort_order": 0,
+  "summary": {
+    "en": "Combining modern design aesthetics with exceptional comfort, our sofa collection features elegant forms, premium quality, and functional design for refined residential, hospitality, and commercial spaces.",
+    "zh": ""
+  },
+  "updated_at": "2026-08-12 09:11:22",
+  "videos": []
+}
