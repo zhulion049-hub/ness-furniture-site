@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[7247,["7247","static/chunks/7247-90cf341bbd286c7f.js","6406","static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-b47812943ec3c2d8.js"],""]
+3:I[4096,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/ness-furniture-site/uploads/1786351468362-8cd2bbc8-56fe-467c-b3a9-d321f41e5075.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[1200px] px-6 py-16","children":[["$","$L2",null,{"href":"/ru/products","className":"text-sm text-[#A88B63]","children":"Назад к продукции"}],["$","div",null,{"className":"mt-8 grid gap-10 lg:grid-cols-2","children":[["$","div",null,{"children":["$","img",null,{"src":"/ness-furniture-site/uploads/1786351468362-8cd2bbc8-56fe-467c-b3a9-d321f41e5075.webp","alt":"HCCB243","className":"w-full rounded-lg"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold","children":"HCCB243"}],["$","p",null,{"className":"mt-3 font-mono text-[#A88B63]","dir":"ltr","children":"HCCB243"}],["$","p",null,{"className":"mt-6 text-[#8A857D]","children":"Коллекция корпусной мебели изготовлена из качественных материалов с тщательным исполнением и продуманными конструкциями и сочетает долговечность, функциональность и современный стиль."}]]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+5:null

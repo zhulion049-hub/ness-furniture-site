@@ -1,0 +1,5 @@
+:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/uploads/1787037328754-dc87a4a5-2672-45b7-9d1b-83d485692077.webp","image"]
+:HL["/ness-furniture-site/uploads/1787037328706-42cd0cb4-1df7-4f6e-856f-504deaccb26a.webp","image"]
+:HL["/ness-furniture-site/uploads/1787037328732-656ad740-27b9-4bad-a4f9-40b7dca64c66.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"private-club-project-in-tokyo-tokyo-japan","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}

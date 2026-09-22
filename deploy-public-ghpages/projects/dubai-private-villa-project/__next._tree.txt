@@ -1,8 +1,8 @@
-:HL["/ness-furniture-site/_next/static/css/db1d1eca5fff8463.css","style"]
-:HL["/ness-furniture-site/media/derived/1786954826526-23760586-8338-4f29-9621-de3149035c75-display.webp","image"]
-:HL["/ness-furniture-site/media/derived/1786954826535-a9940fdc-3317-46d0-8424-784e092a61c6-display.webp","image"]
-:HL["/ness-furniture-site/media/derived/1786954826491-f55a1e28-bda0-4089-9bf1-7b02e7ab20f7-display.webp","image"]
-:HL["/ness-furniture-site/media/derived/1786954826504-96a9074a-80e7-4dd3-8e54-2034ce23c5c5-display.webp","image"]
-:HL["/ness-furniture-site/media/derived/1786954826511-107e144b-2a75-4e40-8f78-e69f43113dff-display.webp","image"]
-:HL["/ness-furniture-site/media/derived/1786954826517-665a49c0-4974-42ca-9cea-2572696b2eea-display.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dubai-private-villa-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-7335872086ec400f"}
+:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/uploads/1786954826526-23760586-8338-4f29-9621-de3149035c75.webp","image"]
+:HL["/ness-furniture-site/uploads/1786954826535-a9940fdc-3317-46d0-8424-784e092a61c6.webp","image"]
+:HL["/ness-furniture-site/uploads/1786954826491-f55a1e28-bda0-4089-9bf1-7b02e7ab20f7.webp","image"]
+:HL["/ness-furniture-site/uploads/1786954826504-96a9074a-80e7-4dd3-8e54-2034ce23c5c5.webp","image"]
+:HL["/ness-furniture-site/uploads/1786954826511-107e144b-2a75-4e40-8f78-e69f43113dff.webp","image"]
+:HL["/ness-furniture-site/uploads/1786954826517-665a49c0-4974-42ca-9cea-2572696b2eea.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dubai-private-villa-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}

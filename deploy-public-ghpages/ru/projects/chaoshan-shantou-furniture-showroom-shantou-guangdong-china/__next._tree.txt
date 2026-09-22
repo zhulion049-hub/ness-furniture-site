@@ -1,0 +1,7 @@
+:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/uploads/1787037718970-a52b7807-41c6-478b-912d-6bacb718a4b1.webp","image"]
+:HL["/ness-furniture-site/uploads/1787037718916-2d9830da-5ea8-438c-a434-6ebc2779f019.webp","image"]
+:HL["/ness-furniture-site/uploads/1787037718940-6cbcce0e-dbff-41a6-afcd-531dc91eb256.webp","image"]
+:HL["/ness-furniture-site/uploads/1787037718953-a9b20b11-cebc-461d-ae29-697b470543e6.webp","image"]
+:HL["/ness-furniture-site/uploads/1787037718987-dfc81230-3a34-487c-9fe2-9792665572ed.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"chaoshan-shantou-furniture-showroom-shantou-guangdong-china","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}

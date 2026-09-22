@@ -1,0 +1,7 @@
+:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/uploads/1785894181026-85c8cdb3-4a9e-41da-85af-bbbd8e0dba00.webp","image"]
+:HL["/ness-furniture-site/uploads/1785894181755-fb083cfc-1ae0-4d77-bdaf-d8c8eefa4590.webp","image"]
+:HL["/ness-furniture-site/uploads/1785894181769-da77fcf8-3607-4d80-a0cd-220edc9a9cbc.webp","image"]
+:HL["/ness-furniture-site/uploads/1785894182186-508e25e3-c16e-4b69-812d-6481652e0bd9.webp","image"]
+:HL["/ness-furniture-site/uploads/1785894182196-0f267e4a-aeb2-42f4-97c0-3a36fb692019.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hospitality-projects","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
