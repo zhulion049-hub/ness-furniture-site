@@ -1,0 +1,3 @@
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
+:HL["/ness-furniture-site/uploads/1786414351355-6f18f7a4-37ec-4614-b967-aec5075ef85d.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hcb230","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

@@ -1,0 +1,8 @@
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
+:HL["/ness-furniture-site/uploads/1787036292296-992ff8f5-a72a-4561-8108-1699c180b380.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036292503-7d6a3076-a2d4-4708-a231-fdbc085b9885.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036292909-13c3c8bf-3098-45fa-b166-0759dc5c2678.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036293005-cadc2b68-48a8-4c3e-ba43-91116d7d30c2.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036293027-a9e3b094-8d56-4c84-b683-6390b055891d.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036293043-af7f8edd-fdd8-45cd-9672-60fddb86f8f2.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"poly-xinghai-town-residential-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

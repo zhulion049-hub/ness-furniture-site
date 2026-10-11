@@ -1,0 +1,6 @@
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
+:HL["/ness-furniture-site/uploads/1787898152716-5b10c1a5-4b5b-4892-901d-b1b40be28899.webp","image"]
+:HL["/ness-furniture-site/uploads/1787898152780-dc9b5aa2-1cda-4f92-8a4c-9f95dfe3b9fa.webp","image"]
+:HL["/ness-furniture-site/uploads/1787898152801-63c317c8-ea05-4d1a-99f8-2070a42c79e9.webp","image"]
+:HL["/ness-furniture-site/uploads/1787898152827-197f65a6-edf2-4e7e-adad-ef34828d9911.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"fresh-coastal-salt-inspired-casual-restaurant","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

@@ -1,0 +1,7 @@
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
+:HL["/ness-furniture-site/uploads/1787036498596-335eb0bb-dceb-4569-a46e-46771378e5a1.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036498256-dfc5edcc-524b-4857-9076-5c9ad0853e44.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036498776-8201affb-13e8-4489-8079-91b31ab31fb7.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036499181-66fcc950-6db2-4d55-a0cf-e5bc8709ae6a.webp","image"]
+:HL["/ness-furniture-site/uploads/1787036499542-bad5ef35-1d4f-4820-899e-5278c0e18dfa.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"outdoor-furniture-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

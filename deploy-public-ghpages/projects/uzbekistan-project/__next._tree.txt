@@ -1,0 +1,11 @@
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
+:HL["/ness-furniture-site/uploads/1786526663937-4f716315-94ed-4e27-86f7-ad5f3644417f.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689373-da0b4e9f-9cca-4912-afaa-80c4eb919441.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689407-1b4e7861-2f4c-4930-a838-3906f5a7281c.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689440-a26e02c3-521d-4d47-a806-b6f1518afccc.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689490-5b6604d1-7152-4c1c-9025-4633ba0d5c99.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689539-58d3517c-2937-4ac4-b9c9-e0eacf155446.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689563-d88d27f9-fccb-4087-a9a8-378957db7717.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689586-00946ee1-e1fc-45d5-838e-502d14013888.webp","image"]
+:HL["/ness-furniture-site/uploads/1786526689647-1d15f106-10ab-426f-9943-78d578823cd2.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"uzbekistan-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}
