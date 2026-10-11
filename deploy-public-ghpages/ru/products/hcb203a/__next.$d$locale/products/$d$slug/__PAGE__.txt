@@ -1,7 +1,0 @@
-1:"$Sreact.fragment"
-2:I[7247,["7247","static/chunks/7247-90cf341bbd286c7f.js","6406","static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-d1611c3320cf766a.js"],""]
-3:I[4096,[],"OutletBoundary"]
-4:"$Sreact.suspense"
-:HL["/ness-furniture-site/uploads/1786183905102-6f925560-9401-4ad7-8130-44c0c69df7cb.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[1200px] px-6 py-16","children":[["$","$L2",null,{"href":"/ru/products","className":"text-sm text-[#A88B63]","children":"Назад к продукции"}],["$","div",null,{"className":"mt-8 grid gap-10 lg:grid-cols-2","children":[["$","div",null,{"children":["$","img",null,{"src":"/ness-furniture-site/uploads/1786183905102-6f925560-9401-4ad7-8130-44c0c69df7cb.webp","alt":"HCB203A","className":"w-full rounded-lg"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold","children":"HCB203A"}],["$","p",null,{"className":"mt-3 font-mono text-[#A88B63]","dir":"ltr","children":"HCB203"}],["$","p",null,{"className":"mt-6 text-[#8A857D]","children":"Сочетая комфорт и современную эстетику, коллекция кроватей создаёт изысканный опыт сна благодаря качеству, функциональности и неизменной элегантности."}]]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"stage82d-4b7e1c93a2f5d806"}
-5:null

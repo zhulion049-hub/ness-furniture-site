@@ -1,8 +1,0 @@
-:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
-:HL["/ness-furniture-site/uploads/1787898852541-3b7de14e-ac77-4124-85e2-b3f85930c1ca.webp","image"]
-:HL["/ness-furniture-site/uploads/1787898852575-26274cbd-3f10-4922-897c-871aaa5fc510.webp","image"]
-:HL["/ness-furniture-site/uploads/1787898852582-f8a9d974-9c40-4a0d-8205-4f5f78ea5895.webp","image"]
-:HL["/ness-furniture-site/uploads/1787898852594-b53f5e10-4904-4991-a27a-c254f074d68f.webp","image"]
-:HL["/ness-furniture-site/uploads/1787898852604-f48b1cd0-d6d4-42c0-844a-f521e638d537.webp","image"]
-:HL["/ness-furniture-site/uploads/1787898852619-92b078bc-47b1-49db-a9c3-bf360ecf04ad.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"new-chinese-style-dining-space-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

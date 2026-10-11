@@ -1,3 +1,0 @@
-:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
-:HL["/ness-furniture-site/uploads/1787905979161-4699d147-4168-4919-8a7c-ac0d71d8b860.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"nk2605","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

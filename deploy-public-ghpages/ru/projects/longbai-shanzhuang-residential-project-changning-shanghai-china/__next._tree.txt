@@ -1,6 +1,0 @@
-:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
-:HL["/ness-furniture-site/uploads/1787037805204-f2f4f6d1-4ea0-422b-9ca6-4405f6ffb728.webp","image"]
-:HL["/ness-furniture-site/uploads/1787037805246-9438afd2-5243-4933-a4ae-fec1687ed0fd.webp","image"]
-:HL["/ness-furniture-site/uploads/1787037805270-8fd2d6c6-0579-4b4b-a1f5-0452dbc0caba.webp","image"]
-:HL["/ness-furniture-site/uploads/1787037805293-da14fbd3-1459-430b-8e87-43d6f00dcd4c.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"longbai-shanzhuang-residential-project-changning-shanghai-china","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

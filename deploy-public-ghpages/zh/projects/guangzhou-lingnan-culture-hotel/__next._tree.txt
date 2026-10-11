@@ -1,6 +1,0 @@
-:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
-:HL["/ness-furniture-site/uploads/1787036034518-dc7eda8d-28b3-4e55-925e-5bf1b2a3db20.webp","image"]
-:HL["/ness-furniture-site/uploads/1787036034790-6b8ed83a-e387-4abc-a050-74591d17afc2.webp","image"]
-:HL["/ness-furniture-site/uploads/1787036034809-f2900fbe-3f9d-411b-9b74-acbab524474c.webp","image"]
-:HL["/ness-furniture-site/uploads/1787036034819-b2819cb7-0f99-4e4a-9d27-5944683fe760.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"guangzhou-lingnan-culture-hotel","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}
