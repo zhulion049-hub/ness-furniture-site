@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1786185217352-414dae04-519a-4f70-873c-0acead37c8d6.webp","image"]
 :HL["/ness-furniture-site/uploads/1786185217823-45722479-7a2f-477f-b78d-f94709aab8ef.webp","image"]
 :HL["/ness-furniture-site/uploads/1786185218359-19ddd994-5922-4e7e-8e69-81b49d5ac4a4.webp","image"]
@@ -24,4 +24,4 @@
 :HL["/ness-furniture-site/uploads/1786185223753-9a5902be-42fc-4d55-ac02-180695cdeb53.webp","image"]
 :HL["/ness-furniture-site/uploads/1786185223786-f132fae6-d371-4b93-b000-40f3924b5d17.webp","image"]
 :HL["/ness-furniture-site/uploads/1786185224153-0067ecf4-c16d-4d95-9291-7403adc789f9.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"south-korea-hotel","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"south-korea-hotel","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

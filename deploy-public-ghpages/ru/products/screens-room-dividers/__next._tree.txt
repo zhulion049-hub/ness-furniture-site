@@ -1,8 +1,8 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1787904043980-36106f62-ebfe-494c-bf3d-2905893fc2de.webp","image"]
 :HL["/ness-furniture-site/uploads/1787904483138-93a6d411-fa27-4437-a003-a30a66586298.webp","image"]
 :HL["/ness-furniture-site/uploads/1787904706845-f2a097eb-cc6e-451a-bac9-85ec50abc6d0.webp","image"]
 :HL["/ness-furniture-site/uploads/1786353286865-fb757168-4394-49d1-82ac-b05d456866d2.webp","image"]
 :HL["/ness-furniture-site/uploads/1786353184507-06a2af5b-b1b4-44cc-b4fd-4e9312246a4a.webp","image"]
 :HL["/ness-furniture-site/uploads/1786353121785-b89924c8-d764-45c8-8f55-f53663ee55c7.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"screens-room-dividers","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"screens-room-dividers","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

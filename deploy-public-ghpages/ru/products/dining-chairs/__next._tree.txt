@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1785925059665-22541dc0-4639-402c-a003-77999ed877ac.webp","image"]
 :HL["/ness-furniture-site/uploads/1786094531587-1292c80f-303a-4d38-aad6-454d01f4c407.webp","image"]
 :HL["/ness-furniture-site/uploads/1786178982744-6fb3803b-ded1-4950-9d78-b402d3c65824.webp","image"]
@@ -76,4 +76,4 @@
 :HL["/ness-furniture-site/uploads/1786348676583-d1bece1d-e566-48b3-a542-754b56b14ba2.webp","image"]
 :HL["/ness-furniture-site/uploads/1786348826102-7fb84a06-d71a-4925-a5d6-52f87b18c3e8.webp","image"]
 :HL["/ness-furniture-site/uploads/1786348948643-d5b26bcf-82b8-45aa-805b-6b640f6c7d6a.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dining-chairs","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dining-chairs","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

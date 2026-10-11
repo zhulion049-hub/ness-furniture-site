@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1787816030623-50b0704c-3394-4873-9525-a343cd79e90b.webp","image"]
 :HL["/ness-furniture-site/uploads/1787816031109-3249aedc-41e4-4dc0-80ff-64f89c2e5e78.webp","image"]
 :HL["/ness-furniture-site/uploads/1787816031129-169e9279-af72-4a0c-9921-02da538414ef.webp","image"]
@@ -72,4 +72,4 @@
 :HL["/ness-furniture-site/uploads/1787816092155-c3ac02c3-0955-4692-9d63-2690a648a6b4.webp","image"]
 :HL["/ness-furniture-site/uploads/1787816092556-c93a1460-e072-481d-8e2f-ca7421f5b951.webp","image"]
 :HL["/ness-furniture-site/uploads/1787816092600-2194fdc0-4a17-4fea-bd35-0c380b4bb3bc.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ich2026-4","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ich2026-4","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

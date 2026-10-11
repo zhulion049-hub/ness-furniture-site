@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1786184779961-3ebc91c6-16c2-4eb8-ab40-1a9117316f6d.webp","image"]
 :HL["/ness-furniture-site/uploads/1786184842350-6d2c4c50-7a63-41e5-82a8-d95716d245a9.webp","image"]
 :HL["/ness-furniture-site/uploads/1786349400812-3a78f34c-f0f4-4d9e-b2d5-1e334d9342b2.webp","image"]
@@ -28,4 +28,4 @@
 :HL["/ness-furniture-site/uploads/1786353184507-06a2af5b-b1b4-44cc-b4fd-4e9312246a4a.webp","image"]
 :HL["/ness-furniture-site/uploads/1786353286837-6ff64505-bda6-46b9-8d9f-9a3c5099a476.webp","image"]
 :HL["/ness-furniture-site/uploads/1786353351898-0675d078-7dd7-4313-866d-78875b116f5d.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cabinets-casegoods","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cabinets-casegoods","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1785979973738-91820b17-4189-4407-b0cb-133244a5fc83.webp","image"]
 :HL["/ness-furniture-site/uploads/1785990645456-6825c364-4dc0-4f92-aefa-82f2369e698c.webp","image"]
 :HL["/ness-furniture-site/uploads/1785990877429-a6291c1b-12e5-44d0-ae0f-0a437172b79f.webp","image"]
@@ -94,4 +94,4 @@
 :HL["/ness-furniture-site/uploads/1786525878770-ca13ae72-6e31-4db3-8edd-07d708c5398f.webp","image"]
 :HL["/ness-furniture-site/uploads/1786525973939-f0950ab2-31d0-4c9b-a1dc-66fe4a3db2f0.webp","image"]
 :HL["/ness-furniture-site/uploads/1786526064449-ad4b81ca-2c95-4833-bf5f-ab17bb86ce1c.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sofas-sectionals","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sofas-sectionals","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

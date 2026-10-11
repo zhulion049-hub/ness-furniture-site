@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1787898545015-ca8923bc-bd5d-4cfb-b931-e013a9b6d6c3.webp","image"]
 :HL["/ness-furniture-site/uploads/1787898544983-cdc31d5b-fe3e-43d9-83b3-292b8d1e8d13.webp","image"]
 :HL["/ness-furniture-site/uploads/1787898544995-36c2edd9-b967-411c-8151-87f1f0142295.webp","image"]
@@ -7,4 +7,4 @@
 :HL["/ness-furniture-site/uploads/1787898545032-78e35e46-98f4-4066-b351-28f2ace0e379.webp","image"]
 :HL["/ness-furniture-site/uploads/1787898545047-1283b99b-16d4-48a5-9548-976c0a110d69.webp","image"]
 :HL["/ness-furniture-site/uploads/1787898545056-23803f44-45a7-4bc9-832c-137c169f40a4.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"vintage-cafe-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"vintage-cafe-project","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

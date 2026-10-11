@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1785894705204-e325c8b0-05bb-47a2-933f-1112ab963a89.webp","image"]
 :HL["/ness-furniture-site/uploads/1787035876717-b69154e6-1425-45d6-8231-15871d099b07.webp","image"]
 :HL["/ness-furniture-site/uploads/1785894703930-5cc9cfd7-db35-4cd3-b1a6-94157544cd0e.webp","image"]
@@ -10,4 +10,4 @@
 :HL["/ness-furniture-site/uploads/1787035902688-8f3bade1-78c1-43ad-be44-660aeab33a2a.webp","image"]
 :HL["/ness-furniture-site/uploads/1787035902893-53cd9714-9a5f-4dd9-b1f5-c8c3a11ab908.webp","image"]
 :HL["/ness-furniture-site/uploads/1787035903142-2df591cc-f448-4d33-b47d-25b4db912bcc.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sanya-sunshine-hotel","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sanya-sunshine-hotel","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

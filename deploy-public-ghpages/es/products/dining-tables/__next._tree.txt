@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1785980871746-479b286a-b0f3-4f5a-ad86-edc17521d057.webp","image"]
 :HL["/ness-furniture-site/uploads/1785980871825-d9c17d1f-fce6-4ad7-8a4a-c7a6f69e62fc.webp","image"]
 :HL["/ness-furniture-site/uploads/1786094360491-609e9243-5c6f-4420-918a-1da91dbf1d42.webp","image"]
@@ -25,4 +25,4 @@
 :HL["/ness-furniture-site/uploads/1786097575975-08f8d3f3-8ae7-4ad9-b27e-9acbba0e650b.webp","image"]
 :HL["/ness-furniture-site/uploads/1786097644626-9e7e9410-1116-45b2-8f4e-60a97f670633.webp","image"]
 :HL["/ness-furniture-site/uploads/1786097718164-67a2cf29-237c-4a0a-af62-f831e65e30fb.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dining-tables","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dining-tables","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}

@@ -1,4 +1,4 @@
-:HL["/ness-furniture-site/_next/static/css/6d51b74c0ba19279.css","style"]
+:HL["/ness-furniture-site/_next/static/css/3199b5370fd62a26.css","style"]
 :HL["/ness-furniture-site/uploads/1786333403708-34eb8e00-935e-4148-8c91-c85e0d9dd4af.webp","image"]
 :HL["/ness-furniture-site/uploads/1786333403568-252bb0a1-cc52-4e81-b4be-ce73b9eb8779.webp","image"]
 :HL["/ness-furniture-site/uploads/1786333403580-7a035f15-8a97-493e-acc0-d4f1fe5dfe91.webp","image"]
@@ -38,4 +38,4 @@
 :HL["/ness-furniture-site/uploads/1786333404225-c3921c71-968f-4f69-87cb-751df05cb292.webp","image"]
 :HL["/ness-furniture-site/uploads/1786333404257-1439a267-48fb-4633-80d1-4ab87eb20f8d.webp","image"]
 :HL["/ness-furniture-site/uploads/1786333404274-114f39f1-1a9e-4ead-b3e1-badea363565e.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"exhibitions","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"2025-shenzhen-design-weck","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-9f3c1a7b5e2d4680"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"exhibitions","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"2025-shenzhen-design-weck","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"stage82d-4b7e1c93a2f5d806"}
